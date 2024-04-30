@@ -1,0 +1,20 @@
+[
+  {
+    "name": "IPS HOSPITAL SAN MARTIN",
+    "address": "SARDINATA",
+    "phone": "3112120935",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - FIN DE SEMANA 7:00 A.M - 1:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LAS MERCEDES",
+    "address": "LAS MERCEDES",
+    "phone": "3112120935",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - FIN DE SEMANA 7:00 A.M - 1:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LA VICTORIA",
+    "address": "LA VICTORIA",
+    "phone": "3112120935",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - FIN DE SEMANA 7:00 A.M - 1:00 P.M"
+  }
+]

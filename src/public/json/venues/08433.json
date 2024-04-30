@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ESE HOSPITAL DE MALAMBO",
+    "address": "CALLE 10 # 23-93",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "BATALLON VERGARA Y VELAZCO",
+    "address": "CARRERA 37 # 5a-193",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "FUERZA AEREA CACOM 3",
+    "address": "FUERZA AEREA CACOM 3",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "COORPORACION IPS COSTA ATLANTICA",
+    "address": "CARRERA 17 # 11-12",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 4:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO DE SALUD SAN JOSE DEL NUS",
+    "address": "CENTRO DE SALUD SAN JOSE DEL NUS",
+    "phone": "8556033",
+    "schedule": "LUNES, MARTES, JUEVES, VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - MIERCOLES Y SABADO 8:00 A.M - 2:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN ROQUE",
+    "address": "CALLE 25 # 18-30",
+    "phone": "8656914 - 3105210557 ",
+    "schedule": "LUNES, MARTES, JUEVES, VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - MIERCOLES Y SABADO 8:00 A.M - 2:00 P.M"
+  }
+]

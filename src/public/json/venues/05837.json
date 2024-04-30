@@ -1,0 +1,27 @@
+[
+  {
+    "name": "CENTRO DE SALUD DON BOSCO",
+    "address": "PARQUE PRINCIPAL",
+    "phone": "8206326",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD FÉLIX LONDOÑO",
+    "address": "BARRIO NUEVA COLONIA",
+    "phone": "8210791",
+    "schedule": " LUNES A VIERNES 7:00 A.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL FRANCISCO VALDERRAMA",
+    "address": "KILOMETRO 1",
+    "phone": "8272088 - 3007827188",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 A.M - 2:00 P.M - 6:00 P.M - SABADO 8:00 A.M - 4:00 P.M",
+    "complement": "SALIDA TURBO APARTADO"
+  },
+  {
+    "name": "IPS TURBO SALUDCOOP",
+    "address": "CALLE 101 # 14-55",
+    "phone": "8272430",
+    "schedule": "LUNES A SABADO 7:00 A.M - 12:00 P.M"
+  }
+]

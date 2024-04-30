@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HOSPITAL EDUARDO SANTOS",
+    "address": "ISTMINA",
+    "phone": "3113516682",
+    "schedule": "LUNES A VIERNES 7:00 A.M 11:00 A.M 1:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO CUBIS",
+    "address": "CUBUIS",
+    "phone": "3128750779",
+    "schedule": "LUNES A VIERNES 7:00 A.M 11:00 A.M 1:00 P.M 5:00 P.M"
+  }
+]

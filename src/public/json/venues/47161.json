@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ESE HOSPITAL LOCAL CERRO SAN ANTONIO",
+    "address": "CARRERAA 5 # 1-82",
+    "phone": "3135729398",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "BARRIO CUNDY DONDE JANAIRO",
+    "address": "BARRIO CUNDY DONDE JANAIRO",
+    "phone": "3135729398",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "BARRIO LAS FLORES DONDE GILMA",
+    "address": "BARRIO LAS FLORES DONDE GILMA",
+    "phone": "3135729398",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "SOCIEDAD CALLEINICA BOYACA LIMITADA",
+    "address": "TRANSV 29 # 9C-41",
+    "phone": "7619303-7604756",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD SIRATA",
+    "address": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD SIRATA",
+    "phone": "7601640-3114789976",
+    "schedule": "PUESTOS DE SALUD EN BRIGADA"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD SANTA HELENA",
+    "address": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD SANTA HELENA",
+    "phone": "7601640-3114789976",
+    "schedule": "PUESTOS DE SALUD EN BRIGADA"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD SAN LORENZO",
+    "address": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD SAN LORENZO",
+    "phone": "7601640-3114789976",
+    "schedule": "PUESTOS DE SALUD EN BRIGADA"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD LA TRINIDAD",
+    "address": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD LA TRINIDAD",
+    "phone": "7601640-3114789976",
+    "schedule": "PUESTOS DE SALUD EN BRIGADA"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD LA FLORIDA",
+    "address": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD LA FLORIDA",
+    "phone": "7601640-3114789976",
+    "schedule": "PUESTOS DE SALUD EN BRIGADA"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD AVENIDAENDAÑOS 1",
+    "address": "E.S.E SALUD DEL TUNDAMA PUESTO DE SALUD AVENIDAENDAÑOS 1",
+    "phone": "7601614-3114789976",
+    "schedule": "PUESTOS DE SALUD EN BRIGADA"
+  },
+  {
+    "name": "E.S.E SALUD DEL TUNDAMA",
+    "address": "CALLEL 28 # 15-124",
+    "phone": "3114789976-7601640",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "E.S.E HOSPITAL REGIONAL DE DUITAMA",
+    "address": "AVENIDA AMERICAS CARRERA 35",
+    "phone": "7606218-7603690",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "CARRERAUZ ROJA COLOMBIANA UNIDAD MUNICIPAL DUITAMA",
+    "address": "CARRERA 16 A # 10-26",
+    "phone": "3108521096-7630754",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "CORPORACIÓN IPS BOYACÁ",
+    "address": "CARRERA 14 # 18-29",
+    "phone": "3014969940-7612442",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COMPENSAR",
+    "address": "CALLE 10 # 24-25",
+    "phone": "301 3360677",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "SALUD VITAL INTEGRAL",
+    "address": "CARRERA 16 # 11-17",
+    "phone": "3203253845",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M",
+    "complement": "CENTRO"
+  },
+  {
+    "name": "CARRERAEAD SALUD",
+    "address": "CALLE 14 # 15-43",
+    "phone": "3153688281-7605484",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO",
+    "address": "CALLE 17 # 12-8",
+    "phone": "7602263",
+    "schedule": "LUNES A VIERNES 9:00 A.M 12:00 P.M 2:00 P.M 4:00 P.M"
+  }
+]

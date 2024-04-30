@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CENTRO DE SALUD DE AREMASAIN",
+    "address": "CALLE 1 # 5-73",
+    "phone": "7178082-3004983836",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "POLICÍA NACIONAL.",
+    "address": "CALLELE 15 CR 7 ESQUINA",
+    "phone": "3188941602-3015607901",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL NTRA. SRA. DE LOS REMEDIOS",
+    "address": "CALLE 11A  CARRERA 15 ESQUINA",
+    "phone": "3126853178",
+    "schedule": "LUNES A VIERNES 7:00 A.M  4:30 P.M"
+  },
+  {
+    "name": "CALLEÍNICA RIOHACHA",
+    "address": "CALLELE 11 # 15-30",
+    "phone": "7273476-3175180518",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CALLEINICA RENACER",
+    "address": "CALLE 14 # 11-9",
+    "phone": "7282809",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CALLEÍNICA CEDES",
+    "address": "CALLE 13 # 11-75",
+    "phone": "3046336229",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CIDSALUD",
+    "address": "CRA 15 # 12A-29",
+    "phone": "3205690800",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  4:30 P.M"
+  },
+  {
+    "name": "CECAM",
+    "address": "CALLE 14 # 12A-121",
+    "phone": "3046405419",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M"
+  },
+  {
+    "name": "BATALLÓN CARTAGENA",
+    "address": "KILOMETRO 5 VIA MAICAO",
+    "phone": "3183471162-3126519286",
+    "schedule": "LUNES A VIERNES 7:00 A.M  1:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "ANASHIWAYA",
+    "address": "CALLE 15 # 8-86",
+    "phone": "7282996-3183417529",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CRUZ ROJA",
+    "address": "CALLE 15 # 8-54",
+    "phone": "3154459645",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CORPORACION MI IPS",
+    "address": "CALLE 14 # 15-75",
+    "phone": "3204526032",
+    "schedule": "LUNES A VIERNES 6:20 A.M  7:30 P.M"
+  }
+]

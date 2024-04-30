@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ESE HOSPITAL SAN ANTONIO",
+    "address": "13A N°15A-127 B.127",
+    "phone": "5642195 - 5642095",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "VAUPÉS SANO IPS",
+    "address": "CARRERA 13 N° 15-75 BARRIO CENTRO MITÚ",
+    "phone": "3506015111",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN ANTONIO",
+    "address": "13A N°15A-127 B.127",
+    "phone": "5642195 - 5642095",
+    "schedule": "7-12m, 2- 5:00pm"
+  },
+  {
+    "name": "VAUPÉS SANO IPS",
+    "address": "CARRERA 13 N° 15-75 BARRIO CENTRO MITÚ",
+    "phone": "3506015111",
+    "schedule": "L-V: 8-12M, 2- 5:00pm"
+  }
+]

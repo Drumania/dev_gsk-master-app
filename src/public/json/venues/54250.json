@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CENTRO DE SALUD EL TARRA",
+    "address": "BUENS AIRES",
+    "phone": "3177007386",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD FILOGRINGO",
+    "address": "FILO GRINGO",
+    "phone": "3177007386",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ORU",
+    "address": "ORU",
+    "phone": "3177007386",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

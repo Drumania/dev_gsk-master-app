@@ -1,0 +1,26 @@
+[
+  {
+    "name": "IPS SAN PABLO",
+    "address": "3 DE ENERO SAN PABLO",
+    "phone": "3123463317",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 6:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD DE TEORAMA",
+    "address": "VILLA ESTADIO TEORAMA",
+    "phone": "3122691785",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 6:00 P.M"
+  },
+  {
+    "name": "IPS SAN PABLO",
+    "address": "BARRIO 03 DE ENERO SAN PABLO",
+    "phone": "3123463317",
+    "schedule": "Lunes - Viernes 7:00 A.M. - 6:00 P.M.( sabados en las JORNADAS DE VACUNACIÓN)"
+  },
+  {
+    "name": "CENTRO DE SALUD DE TEORAMA",
+    "address": "BARRIO VILLA ESTADIO TEORAMA",
+    "phone": "3122691785",
+    "schedule": "Lunes - Viernes 7:00 A.M. - 6:00 P.M.( sabados en las JORNADAS DE VACUNACIÓN Y BRIGADAS DE SALUD)"
+  }
+]

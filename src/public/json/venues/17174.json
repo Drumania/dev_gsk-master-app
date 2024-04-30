@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CORPORACION IPS EJE CAFETERO",
+    "address": "CALLE 15 # 3-32",
+    "phone": "8506617",
+    "schedule": "LUNES A VIERNES 7:30 A.M 4:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN MARCOS",
+    "address": "CARRRERA 9 ENTRE CALLES 16 Y 17",
+    "phone": "8507171 y 8507072",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 1:30 P.M 5:30 P.M"
+  }
+]

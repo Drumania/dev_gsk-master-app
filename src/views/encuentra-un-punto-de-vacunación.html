@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="es">
+<%- include('partials/head.html') %>
+
+  <body>
+    <%- include('partials/navigation.html')%>
+
+      <div class="container">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Encuentra un punto de vacunación</li>
+        </ol>
+      </div>
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-12 offset-lg-3 col-lg-6 pt-5 mt-5 text-center">
+            <h1>¿Dónde vacunarme?</h1>
+            <p>Para que sigas viviendo al 100, recuerda encontrar tu punto<br />de vacunación más cercano.</p>
+            <div class="d-flex flex-column text-start form-donde-vacunarme my-5">
+              <button class="btn btn-custom-outline">Usar mi ubicación actual <img src="/images/icoubi.svg" /></button>
+
+              <div class="my-4">
+                <label for="ciudades" class="form-label">Ciudad</label>
+                <!-- Campo de entrada con datalist -->
+                <input type="text" list="ciudades" id="direccion" class="form-control"
+                  placeholder="Escribe o selecciona la ciudad en la que te encuentres">
+
+                <!-- Datalist con opciones de ciudades -->
+                <datalist id="ciudades">
+                  <option value="Apartadó">
+                  <option value="Armenia">
+                  <option value="Barrancabermeja">
+                  <option value="Barranquilla">
+                  <option value="Bello">
+                  <option value="Bogotá">
+                  <option value="Bucaramanga">
+                  <option value="Cajicá">
+                  <option value="Caldas">
+                  <option value="Cali">
+                  <option value="Carepa">
+                  <option value="Cartagena">
+                  <option value="Chía">
+                  <option value="Chigorodó">
+                  <option value="Copacabana">
+                  <option value="Cúcuta">
+                  <option value="Dosquebradas">
+                  <option value="El Retiro">
+                  <option value="Envigado">
+                  <option value="Facatativá">
+                  <option value="Floridablanca">
+                  <option value="Florencia">
+                  <option value="Girardota">
+                  <option value="Ibagué">
+                  <option value="Itagüí">
+                  <option value="La Ceja">
+                  <option value="La Estrella">
+                  <option value="Madrid">
+                  <option value="Manizales">
+                  <option value="Medellín">
+                  <option value="Montería">
+                  <option value="Neiva">
+                  <option value="Ocaña">
+                  <option value="Pasto">
+                  <option value="Pereira">
+                  <option value="Piedecuesta">
+                  <option value="Popayán">
+                  <option value="Riohacha">
+                  <option value="Rionegro">
+                  <option value="Sabaneta">
+                  <option value="Soacha">
+                  <option value="Tunja">
+                  <option value="Turbo">
+                  <option value="Villavicencio">
+                  <option value="Zipaquirá">
+                </datalist>
+              </div>
+
+
+              <div class="mb-3">
+                <label for="direccion" class="form-label">Dirección</label>
+                <input type="text" class="form-control" id="direccion"
+                  placeholder="Selecciona o escribe la ciudad en la que te encuentres">
+              </div>
+
+              <input type="submit" id="sigue-aprendiendo" class="btn btn-custom mt-3"
+                value="Encontrar punto de vacunación" />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section class="container">
+        <div class="row">
+          <div class="col-6 col-lg-9">
+            <a href="#" class="fw-bold text-orange">
+              <img src="/images/arroworangeprev.svg" /> Regresar
+            </a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <div class="my-4">
+              <label for="ordena" class="form-label">Ordenar por</label>
+              <select id="ordena" class="form-select">
+                <option disabled selected>Selecciona</option>
+                <option>2</option>
+                <option>3</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="col-12">
+            <span>Mostrando <strong>[28]</strong> resultado(s) para <strong>[Bogotá - Calle 163b #50-80]</strong>
+              Editar </span><br />
+            <span>Página 1 de 3</span>
+
+            <div class="grid-container">
+              <div class="grid-item">
+                <ul class="puntos-vacuna">
+                  <li class="mb-3">
+                    <h3>Nombre del punto de vacunación</h3>
+                  </li>
+                  <li>A 300 metros de ti</li>
+                  <li><img src="/images/icotelefono.svg" />Teléfono del lugar</li>
+                  <li><img src="/images/icopin_drop.svg" />Dirección del lugar</li>
+                  <li><a href="#" class="fw-bold text-orange my-4">Ver en Google maps <img
+                        src="/images/arroworangenext.svg" /></a>
+                  </li>
+                </ul>
+              </div>
+              <div class="grid-item">
+                <ul class="puntos-vacuna">
+                  <li class="mb-3">
+                    <h3>Nombre del punto de vacunación</h3>
+                  </li>
+                  <li>A 300 metros de ti</li>
+                  <li><img src="/images/icotelefono.svg" />Teléfono del lugar</li>
+                  <li><img src="/images/icopin_drop.svg" />Dirección del lugar</li>
+                  <li><a href="#" class="fw-bold text-orange my-4">Ver en Google maps <img
+                        src="/images/arroworangenext.svg" /></a>
+                  </li>
+                </ul>
+              </div>
+              <div class="grid-item">
+                <ul class="puntos-vacuna">
+                  <li class="mb-3">
+                    <h3>Nombre del punto de vacunación</h3>
+                  </li>
+                  <li>A 300 metros de ti</li>
+                  <li><img src="/images/icotelefono.svg" />Teléfono del lugar</li>
+                  <li><img src="/images/icopin_drop.svg" />Dirección del lugar</li>
+                  <li><a href="#" class="fw-bold text-orange my-4">Ver en Google maps <img
+                        src="/images/arroworangenext.svg" /></a>
+                  </li>
+                </ul>
+              </div>
+              <div class="grid-item">
+                <ul class="puntos-vacuna">
+                  <li class="mb-3">
+                    <h3>Nombre del punto de vacunación</h3>
+                  </li>
+                  <li>A 300 metros de ti</li>
+                  <li><img src="/images/icotelefono.svg" />Teléfono del lugar</li>
+                  <li><img src="/images/icopin_drop.svg" />Dirección del lugar</li>
+                  <li><a href="#" class="fw-bold text-orange my-4">Ver en Google maps <img
+                        src="/images/arroworangenext.svg" /></a>
+                  </li>
+                </ul>
+              </div>
+              <div class="grid-item">
+                <ul class="puntos-vacuna">
+                  <li class="mb-3">
+                    <h3>Nombre del punto de vacunación</h3>
+                  </li>
+                  <li>A 300 metros de ti</li>
+                  <li><img src="/images/icotelefono.svg" />Teléfono del lugar</li>
+                  <li><img src="/images/icopin_drop.svg" />Dirección del lugar</li>
+                  <li><a href="#" class="fw-bold text-orange my-4">Ver en Google maps <img
+                        src="/images/arroworangenext.svg" /></a>
+                  </li>
+                </ul>
+              </div>
+              <div class="grid-item">
+                <ul class="puntos-vacuna">
+                  <li class="mb-3">
+                    <h3>Nombre del punto de vacunación</h3>
+                  </li>
+                  <li>A 300 metros de ti</li>
+                  <li><img src="/images/icotelefono.svg" />Teléfono del lugar</li>
+                  <li><img src="/images/icopin_drop.svg" />Dirección del lugar</li>
+                  <li><a href="#" class="fw-bold text-orange my-4">Ver en Google maps <img
+                        src="/images/arroworangenext.svg" /></a>
+                  </li>
+                </ul>
+              </div>
+            </div> <!-- end of grid -->
+
+            <div class="custom-pag">
+              <a href="#prev" class="custom-pag-bullet custom-pag-prev">
+                <img src="/images/expand_more_orange.svg" alt="<" />
+              </a>
+              <a href="#1" class="custom-pag-bullet active">1</a>
+              <a href="#2" class="custom-pag-bullet ">2</a>
+              <a href="#3" class="custom-pag-bullet ">3</a>
+              <a href="#next" class="custom-pag-bullet custom-pag-next">
+                <img src="/images/expand_more_orange.svg" alt=">" />
+              </a>
+            </div>
+
+          </div>
+
+          <div class="col-12">
+            <div class="box-light-orange m-5 p-5">
+              <img src="/images/Carasad.svg" alt="cara sad" />
+              <div>
+                <strong>Lo sentimos, no hemos encontrado ninguna ubicación de puntos de vacunación en la dirección que
+                  nos
+                  proporcionaste.
+                </strong><br /><br />
+                <span>Revisa que la dirección y la ciudad sean correctas e intenta de nuevo, o intenta alguno de los
+                  filtros.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="container">
+        <div class="row">
+          <div class="col-12 border-top mt-5 pt-5">
+            <div class="text-center py-5 fw-bold text-orange">
+              Esta información no pretende sustituir el juicio o consejo proporcionado por su equipo de salud y no
+              debe utilizarse para diagnosticar<br />o dar tratamiento a problemas de salud. Consulte siempre a su
+              médico
+              tratante.
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <%- include('partials/footer.html') %>
+  </body>
+
+</html>

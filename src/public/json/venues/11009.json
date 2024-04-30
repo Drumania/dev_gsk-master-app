@@ -1,0 +1,109 @@
+[
+  {
+    "name": "CAPS ZONA FRANCA",
+    "address": "CARRERA 106 # 15A-35",
+    "phone": "4860033 EXT 10106",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 7:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS PUERTA DE TEJA",
+    "address": "CARRERA 96A # 25G-18",
+    "phone": "4860033 EXT 9000",
+    "schedule": "LUNES A VIERNES LUNES A JUEVES 7:00 A.M 5:00 P.M VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS INTERNACIONAL",
+    "address": "CALLE 23 # 112-60",
+    "phone": "4154983",
+    "schedule": "LUNES A VIERNES LUNES A JUEVES 7:00 A.M 5:00 P.M VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS SAN PABLO",
+    "address": "CALLE 18A # 122-25",
+    "phone": "3016092702",
+    "schedule": "LUNES A VIERNES LUNES A JUEVES 7:00 A.M 5:00 P.M VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "UMHE FONTIBON",
+    "address": "CARRERA 99 # 16J-410",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 7:00 P.M DOMINGO7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "USS CENTRO DIA",
+    "address": "CARRERA 97A # 19-34",
+    "phone": "4134743",
+    "schedule": "LUNES A VIERNES LUNES A JUEVES 7:00 A.M 5:00 P.M VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS TERMINAL AEREO",
+    "address": "AEROPUERTO INTERNACIONAL EL DORADO",
+    "phone": "NO TIENE",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M SABADO 7:00 A.M 6:00 P.M DOMINGO 7:00 A.M 6:00 P.M",
+    "complement": "SALIDA 5 SEGUNDO PISO"
+  },
+  {
+    "name": "USS TERMINAL TERRESTRE",
+    "address": "CALLE 22C # 68-53",
+    "phone": "NO TIENE",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M SABADO 7:00 A.M 6:00 P.M DOMINGO7:00 A.M 6:00 P.M",
+    "complement": "MODULO VERDE"
+  },
+  {
+    "name": "CORVESALUD FONTIBON",
+    "address": "CALLE 17 # 96H-27",
+    "phone": "7422713",
+    "schedule": "LUNES A VIERNES 7:00 A.M 1:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "ASISTIR SALUD",
+    "address": "CARRERA 99 # 16F-91",
+    "phone": "7360020 EXT 412",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 2:00 P.M DOMINGO"
+  },
+  {
+    "name": "BIENESTAR IPS",
+    "address": "CALLE 26G # 99-42",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "VIRREY SOLIS",
+    "address": "DIAGONAL 16 # 104-51",
+    "phone": "4224959",
+    "schedule": "LUNES A VIERNES 7:30 A.M 4:30 P.M SABADO 7:30 A.M 12:00 P.M DOMINGO",
+    "complement": "LOAL 11"
+  },
+  {
+    "name": "COMPENSAR FONTIBON",
+    "address": "CARRERA 104 # 14-50",
+    "phone": "4285088 EXT 11778",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M DOMINGO"
+  },
+  {
+    "name": "COLMEDICA SALITRE",
+    "address": "AVENIDA CALLE 26 # 69C-03",
+    "phone": "5464646 EXT 6471",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 5:00 P.M DOMINGO",
+    "complement": "PISO 3 TORRE A"
+  },
+  {
+    "name": "CRUZ ROJA COLOMBIANA SEDE AEROPUERTO",
+    "address": "AEROPUERTO INTERNACIONAL EL DORADO",
+    "phone": "7460909 EXT 122",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 8:00 P.M DOMINGO",
+    "complement": "SALIDA 2 SEGUNDO PISO"
+  },
+  {
+    "name": "CENTRO MEDICO SANITAS FONTIBON",
+    "address": "CARRERA 96 # 11-04",
+    "phone": "6466060 EXT 5714220",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "COLSANITAS SALITRE",
+    "address": "CARRERA 68 # 24B-10",
+    "phone": "7436763",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 6:00 P.M DOMINGO"
+  }
+]

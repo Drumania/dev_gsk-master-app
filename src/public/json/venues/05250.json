@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ESE HOSPITAL NUESTRA SEÑORA DEL CARMEN",
+    "address": "CALLE 50 # 46D-37",
+    "phone": "3116475755",
+    "schedule": " LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "IPS SALUDCOOP EL BAGRE",
+    "address": "HOSPITAL MINEROS",
+    "phone": "8370472 - 8370471 ",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - SABADO 7:00 A.M - 12:00 P.M"
+  }
+]

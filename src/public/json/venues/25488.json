@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PUESTO DE SALUD NILO",
+    "address": "CARRERA 4 CALLE 5 ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PUEBLO NUEVO",
+    "address": "CALLE 7 # 3-20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

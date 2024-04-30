@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SINERGIA",
+    "address": "EDIFICIO GUADALUPE PLAZA 5 PISO",
+    "phone": "3322799",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 11:00 A.M - 2:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "SALUD TOTAL S.A. DOSQUEBRADAS",
+    "address": "CENTRO COMERCIAL EL PROGRESO",
+    "phone": "3139900",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 5:00 P.M - SABADO 8:00 A.M - 1:00 P.M"
+  },
+  {
+    "name": "NUEVA EPS",
+    "address": "CRA 17 # 10-33 BARRIO VALHER",
+    "phone": "3291600",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 4:00 P.M"
+  },
+  {
+    "name": "BARRIO VALHER",
+    "address": "CENTRO COMERCIAL PLAZA DEL SOL LOCAL 114",
+    "phone": "3230037",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 11:30 A.M - 1:00 P.M - 3:30 P.M"
+  },
+  {
+    "name": "HOSPITAL SANTA MÓNICA",
+    "address": "CARRERA 19 CALLE 18 BARRIO SANTA MÓNICA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 4:00 P.M"
+  }
+]

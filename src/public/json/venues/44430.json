@@ -1,0 +1,80 @@
+[
+  {
+    "name": "HOSPITAL DONALDO SAÚL MORÓN MANJARES",
+    "address": "CALLE 6 # 2-23",
+    "phone": "3175598979",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "E.S.E HOSPITAL SAN JOSE",
+    "address": "CALLE 16 # 39A BIS-31",
+    "phone": "3012934010",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M"
+  },
+  {
+    "name": "I.PS ERREJERIA",
+    "address": "CALLE 17 # 16-55",
+    "phone": "3022512254",
+    "schedule": "LUNES A VIERNES 7:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "I.P.S CASA INDIGENA",
+    "address": "CARRERA 36 # 39-26",
+    "phone": "3013023678",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "I.P.S KARAQUITA",
+    "address": "CARRERA 18 # 21-13",
+    "phone": "3145940402",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  1:30 P.M  5:30 P.M"
+  },
+  {
+    "name": "I.P.S WAYUU TALATSHI",
+    "address": "CARRERA 15 # 5-41",
+    "phone": "3002998202",
+    "schedule": "LUNES A VIERNES 7:00 A.M  11:00 A.M  1:30 P.M  5:00 P.M"
+  },
+  {
+    "name": "I.P.S ASOCABILDOS",
+    "address": "CARRERA 15 # 19-55",
+    "phone": "3178634384",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M"
+  },
+  {
+    "name": "CRUZ ROJA",
+    "address": "CALLE 15 # 12-50",
+    "phone": "3014218863",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "MI IPS",
+    "address": "CALLE 15 # 15-70",
+    "phone": "3008373984",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "AYULEEPALA",
+    "address": "CALLE 11 # 6-49",
+    "phone": "3114247077",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "IPSI WAYUU ANASHII",
+    "address": "CALLE 15 # 0",
+    "phone": "3023979238",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA MAICAO",
+    "address": "CALLE 16 # 6-41",
+    "phone": "3008373984",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SUPULA WAYUU",
+    "address": "CARRERA 12 # 17-60",
+    "phone": "3015600715",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  }
+]

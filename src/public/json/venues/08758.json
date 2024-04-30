@@ -1,0 +1,90 @@
+[
+  {
+    "name": "HOSPITAL UNIVERSIDAD DEL NRTE",
+    "address": "CALLE 30 AUTOP AL AEROPUERTO",
+    "phone": "3715555-3715544",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M",
+    "complement": "AL LADO DEL PARQUE MUVDI"
+  },
+  {
+    "name": "HOSPITAL DEPARTAMENTAL JUAN DOMINGUEZ ROMERO DE SOLEDAD EMPRESA SOCIAL DEL ESTADO",
+    "address": "CALLE 15 # 21-60",
+    "phone": "3435617",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "E.S.E. HOSPITAL MATERNINFANTIL CIUDADELA METROPOLITANA DE SOLEDAD MANUELA BELTRAN",
+    "address": "CALLE 40 CARRERA 10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M",
+    "complement": "ESQUINA"
+  },
+  {
+    "name": "E.S.E. HOSPITAL MATERNINFANTIL CIUDADELA METROPOLITANA DE SOLEDAD 13 DE JUNIO",
+    "address": "CARRERA 40 CALLE 33",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M",
+    "complement": "ESQUINA"
+  },
+  {
+    "name": "CLINICA PORVENIR",
+    "address": "CALLE 18 # 34-18",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "SANITAS EPS",
+    "address": "CALLE 30 KILOMETRO 7",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "SERVICIO MEDICO OLIMPUS",
+    "address": "CALLE21 # 19-73",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "CORPORACION IPS SALUDCOOP COSTA ATLANTICA",
+    "address": "CARRERA 26A # 18-15",
+    "phone": "3780200",
+    "schedule": "3780270 LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "CLINICA MATERNINFANTIL ADELA DE CHAR",
+    "address": "CARRERA 7 CON CALLE 39",
+    "phone": "3431473 - 3430701",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M",
+    "complement": "ESQUINA"
+  },
+  {
+    "name": "CLINICA DE LA POLICIA",
+    "address": "AVENIDA CIRCUNVALAR # 45- 300",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "SALUD TOTAL SA ENTIDAD PROMOTORA DE SALUD",
+    "address": "CALLE 30 AV AL AEROPUERTO # 19-10",
+    "phone": "3612000",
+    "schedule": "3604204 LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "MI IPS",
+    "address": "CARRERA 26 # 19-75",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "EPS SURA",
+    "address": "CALLE 30 # 17-59",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "NUEVA EPS",
+    "address": "CALLE 21 CARRERA 19",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PUESTO DE SALUD DE PASUNCHA",
+    "address": "PASUNCHA",
+    "phone": "8540055",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN RAFAEL DE PACHO",
+    "address": "CALLE 9 # 16-35",
+    "phone": "8540055",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

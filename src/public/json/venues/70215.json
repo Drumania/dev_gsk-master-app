@@ -1,0 +1,38 @@
+[
+  {
+    "name": "COROZAL ENTIDAD DE SANIDAD MILITAR 1048 BRIM1",
+    "address": "KILOMETTRO 1 VÍA COROZAL",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "COROZAL ESE CARTAGENA DE INDIAS",
+    "address": "CARRERA 26 # 25 -54",
+    "phone": "3135286397",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "COROZAL ESE HOSPIT REGIONAL NTR SR DE LAS MERCEDES",
+    "address": "CALLEE 32 # 31-65",
+    "phone": "3014608007",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "COROZAL IPS ASOVIPOVA",
+    "address": "COROZAL IPS ASOVIPOVA",
+    "phone": "3135286397",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "COROZAL IPS CARTAGENA DE INDIAS",
+    "address": "COROZAL IPS CARTAGENA DE INDIAS",
+    "phone": "3135286397",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "COROZAL IPS SALUD INTEGRAL",
+    "address": "CALLE 30 # 23-60",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  }
+]

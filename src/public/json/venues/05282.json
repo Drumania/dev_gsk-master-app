@@ -1,0 +1,21 @@
+[
+  {
+    "name": "CENTRO MEDICO INTEGRADO DEL SUROESTE LTDA",
+    "address": "CARREA 51 # 50-57",
+    "phone": "8401575",
+    "schedule": "JUEVES 8:00 A.M - 2:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SANTA LUCIA -",
+    "address": "CALLE 69 # 50-220",
+    "phone": "3218004398",
+    "schedule": " LUNES BRIGADAS - MARTES A SABADO 8:00 A.M - 2:00 P.M",
+    "complement": "VEREDA EL EDEN"
+  },
+  {
+    "name": "IPS COMFAMILIAR CAMACOL COODAN",
+    "address": "CARREA 51 # 50-58",
+    "phone": "8404137",
+    "schedule": "JUEVES 8:00 A.M - 2:00 P.M"
+  }
+]

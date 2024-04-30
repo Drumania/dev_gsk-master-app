@@ -1,0 +1,316 @@
+[
+  {
+    "name": "COMFANDI",
+    "address": "CARRERA 2 # 225",
+    "phone": "3104192537",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "GOCHO",
+    "address": "CARRERA 4 # 3-33",
+    "phone": "3183437135",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "MEDIMAS",
+    "address": "CALLE 3 # 5A-37",
+    "phone": "3104704023",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "NUEVA EPS",
+    "address": "CALLE 5 # 16-58",
+    "phone": "3134425803",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "EL FIRME"
+  },
+  {
+    "name": "SOMEB",
+    "address": "AV SIMON BOLIVAR # 46A-57",
+    "phone": "3168615259",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "COSMITET",
+    "address": "CARRERA 47 # 42",
+    "phone": "3107368415",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "INTERSALUD",
+    "address": "CARRERA 43 # 136",
+    "phone": "3156845376",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "SANIDAD POLICIA",
+    "address": "CALLE 6 # 50110",
+    "phone": "3112891939",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "EL GALEON"
+  },
+  {
+    "name": "CLINICA SANTA MARIA DEL MAR",
+    "address": "CALLE 5 # 55C-68",
+    "phone": "3217275521",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "LOS LAURELES"
+  },
+  {
+    "name": "SANIDAD NAVAL",
+    "address": "CARRERA 3 # 840",
+    "phone": "3006646210",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL NAVAL BAHIA MALAGA",
+    "address": "BAHIA MALAGA",
+    "phone": "3108071174",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN AGUSTIN",
+    "address": "PUERTO MERIZALDE",
+    "phone": "3156492725",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL LUIS ABLANQUE DE LA PLATA",
+    "address": "AVENIDA SIMÓN BOLÍVAR # 17-40",
+    "phone": "3226839400",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "BARRIO JORGE"
+  },
+  {
+    "name": "CENTRO DE SALUD",
+    "address": "DISTRITAL AVENIDA SIMÓN BOLÍVAR # 17-40",
+    "phone": "3152984039",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "BARRIO JORGE"
+  },
+  {
+    "name": "BELLAVISTA",
+    "address": "CARRERA 47 # 2-8",
+    "phone": "3176703021",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "CONSULTA EXTERNA"
+  },
+  {
+    "name": "C.S. INDEPENDENCIA",
+    "address": "CARRERA 57 11 INDEPENDENCIA",
+    "phone": "3217173715",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "C.S. MATÍAS",
+    "address": "CALLE 1 CARRERA 74 MATIAMULUMBA",
+    "phone": "3148304185",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. INDEPENDENCIA",
+    "address": "CARRERA 64 2 ETAPA INDEPENDENCIA",
+    "phone": "3234316786",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. COLÓN",
+    "address": "CARRERA 56 3SUR # 121 CRISTÓBAL COLON",
+    "phone": "3234316786",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. MODELO",
+    "address": "CARRERA 41 AVENIDA SIMÓN BOLÍVAR",
+    "phone": "3186741308",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. JARDÍN",
+    "address": "CARRERA 38 CALLE 7 # 37-40",
+    "phone": "3023220707",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "EL JARDÍN"
+  },
+  {
+    "name": "P.S. JUAN 23",
+    "address": "CARRERA 35C 38 CALLE LITORAL B JUAN 23",
+    "phone": "3023220707",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. CISNEROS",
+    "address": "CISNEROS",
+    "phone": "3105462864",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. CÓRDOBA",
+    "address": "CORDOBA",
+    "phone": "3148672491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. ZACARÍAS",
+    "address": "ZACARIAS",
+    "phone": "3146573356",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. JUANCHACO",
+    "address": "JUANCHACO",
+    "phone": "3114238309",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "P.S. BOCANA",
+    "address": "LA BOCANA",
+    "phone": "3166215755",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "SOMEB",
+    "address": "AV SIMON BOLIVAR # 46A-57",
+    "phone": "3168615259",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "COSMITET",
+    "address": "CARRERA 47 # 42",
+    "phone": "3107368415",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "INTERSALUD",
+    "address": "CARRERA 43 # 136",
+    "phone": "3156845376",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "SANIDAD POLICIA",
+    "address": "CALLE 6 # 50110",
+    "phone": "3112891939",
+    "schedule": "7AM 5PM",
+    "complement": "BARRIO EL GALEON"
+  },
+  {
+    "name": "CLINICA SANTA MARIA DEL MAR",
+    "address": "CALLE 5 # 55C-68",
+    "phone": "3217275521",
+    "schedule": "7AM 5PM",
+    "complement": "LOS LAURELES"
+  },
+  {
+    "name": "SANIDAD NAVAL",
+    "address": "CARRERA 3 # 840",
+    "phone": "3006646210",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "HOSPITAL NAVAL BAHIA MALAGA",
+    "address": "BAHIA MALAGA",
+    "phone": "3108071174",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "ESE HOSPITAL SAN AGUSTIN",
+    "address": "PUERTO MERIZALDE",
+    "phone": "3156492725",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "ESE HOSPITAL LUIS ABLANQUE DE LA PLATA",
+    "address": "Avenida simon Bolivar # 17-40",
+    "phone": "3226839400",
+    "schedule": "7AM 5PM",
+    "complement": "BARRIO JORGE"
+  },
+  {
+    "name": "CENTRO DE SALUD",
+    "address": "DISTRITAL Avenida simon Bolivar # 17-40",
+    "phone": "3152984039",
+    "schedule": "7AM 5PM",
+    "complement": "BARRIO JORGE"
+  },
+  {
+    "name": "BELLAVISTA",
+    "address": "CARRERA 47 # 2-8",
+    "phone": "3176703021",
+    "schedule": "7AM 5PM",
+    "complement": "CONSULTA EXTERNA"
+  },
+  {
+    "name": "C.S. INDEPENDENCIA",
+    "address": "CARRERA 57 11 Independencia",
+    "phone": "3217173715",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "C.S. MATÍAS",
+    "address": "calle 1 CARRERA 74 Matiamulumba",
+    "phone": "3148304185",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. INDEPENDENCIA",
+    "address": "CARRERA 64 # 2",
+    "phone": "3234316786",
+    "schedule": "7AM 5PM",
+    "complement": "etapa B/Independencia"
+  },
+  {
+    "name": "P.S. COLÓN",
+    "address": "CARRERA 56 3a Sur # 121 Cristobal Colon",
+    "phone": "3234316786",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. MODELO",
+    "address": "CARRERA 41 Avenida Simon Bolivar",
+    "phone": "3186741308",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. JARDÍN",
+    "address": "CARRERA 38 calle 7a # 3740",
+    "phone": "3023220707",
+    "schedule": "7AM 5PM",
+    "complement": "El Jardin"
+  },
+  {
+    "name": "P.S. JUAN 23",
+    "address": "CARRERA 35C 38 calle litoral B juan 23",
+    "phone": "3023220707",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. CISNEROS",
+    "address": "P.S. CISNEROS",
+    "phone": "3105462864",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. CÓRDOBA",
+    "address": "P.S. CÓRDOBA",
+    "phone": "3148672491",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. ZACARÍAS",
+    "address": "P.S. ZACARÍAS",
+    "phone": "3146573356",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. JUANCHACO",
+    "address": "P.S. JUANCHACO",
+    "phone": "3114238309",
+    "schedule": "7AM 5PM"
+  },
+  {
+    "name": "P.S. BOCANA",
+    "address": "P.S. BOCANA",
+    "phone": "3166215755",
+    "schedule": "7AM 5PM"
+  }
+]

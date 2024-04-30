@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CENTRO DE SALUD",
+    "address": "CARRERA 3 CALLE 2 PARQUE PRINCIPAL",
+    "phone": "8993733 /993539",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LA PAZ",
+    "address": "INSPECCION DE PATIO BONITO",
+    "phone": "3214520821",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SAN ANTONIO",
+    "address": "SAN ANTONIO DE ANAPOIMA",
+    "phone": "3214520815",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD REVENTONES",
+    "address": "VEREDA REVENTONES",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LA FLORIDA",
+    "address": "VEREDA LA FLORIDA",
+    "phone": "8455794",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN ANTONIO",
+    "address": "CENTRO",
+    "phone": "8454297 8454111",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

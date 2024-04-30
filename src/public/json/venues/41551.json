@@ -1,0 +1,38 @@
+[
+  {
+    "name": "E.S.E MANUEL CASTRO TOVAR",
+    "address": "SEDE PARAISO- CARRERA 11 ESTE # 1A – 03",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "E.S.E MANUEL CASTRO TOVAR",
+    "address": "SEDE CALAMO- CARRERA 14A # 9A – 65",
+    "phone": "8363362",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "E.S.E MANUEL CASTRO TOVAR",
+    "address": "SEDE BRUSELAS- CARRERA 3 # 10-06",
+    "phone": "3106776791",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "E.S.E HOSPITAL DEPARTAMENTAL SAN ANTONIO",
+    "address": "CALLE 3º SUR # 1B- 45",
+    "phone": "8362500 - 3133918013",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CORPORACION IPS HUILA",
+    "address": "PITALITO- CLL 6 # 1A-69",
+    "phone": "3204070117",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "SALUD VITAL",
+    "address": "CALLE 6 # 1A – 69",
+    "phone": "3153027733",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

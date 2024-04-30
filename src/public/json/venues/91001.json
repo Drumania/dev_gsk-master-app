@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HOSPITAL SAN RAFAEL DE LETICIA",
+    "address": "CARRERA 10 # 13-78",
+    "phone": "3134571253",
+    "schedule": "LUNES A VIERNES 6:00 A.M - 11:00 P.M - 2:00 P.M - 6:00 P.M FIN SEMANA RECIÉN NACIDO Y URGENCIAS"
+  },
+  {
+    "name": "FUNDACIÓN CLINICA LETICIA",
+    "address": "AVENIDA INTERNACIONAL CARRERA 6A # 6-05",
+    "phone": "3105607106",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M FIN SEMANA RECIÉN NACIDO"
+  },
+  {
+    "name": "IPS INDÍGENA MALLAMAS",
+    "address": "CARRERA 9 # 9-67",
+    "phone": "3133363991",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

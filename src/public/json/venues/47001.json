@@ -1,0 +1,285 @@
+[
+  {
+    "name": "CALLEINICA EL PRADO",
+    "address": "CARRERA 58 CALLE 26 ESQUINA -",
+    "phone": "3003841720",
+    "schedule": "12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CALLEINICA DE LA MUJER",
+    "address": "CALLE 22 # 21-16",
+    "phone": "4204089",
+    "schedule": "2:00 P.M"
+  },
+  {
+    "name": "HOSPITAL UNIVERSITARIO FERNANDO TROCONIS",
+    "address": "CARRERA 14 # 23-42",
+    "phone": "4346262",
+    "schedule": ""
+  },
+  {
+    "name": "ORGANIZACIÓN CALLEINICA GENERAL DEL NRTE",
+    "address": "AVENIDA DEL LIBERTADOR # 13-12",
+    "phone": "4213976-4217969",
+    "schedule": "11:00 A.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "GONAWINDUA ETTE ENNAKA IPS INDIGENA",
+    "address": "CALLE 11A # 19-34",
+    "phone": "4347316",
+    "schedule": "12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "INTEGRAL DE COLOMBIA IPS",
+    "address": "CALLE 24 # 2-150",
+    "phone": "3023898399-3023898399",
+    "schedule": "4:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CRUZ ROJA COLOMBIANA SECCIONAL MAGDALENA",
+    "address": "CARRERA 5 # 25-27 LA ESPERANZA",
+    "phone": "",
+    "schedule": "12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CAJA DE COMPENSACIÓN FAMILIAR DEL MAGDALENA (CAJAMAG)",
+    "address": "CALLE 23 # 7-78",
+    "phone": "",
+    "schedule": "11:00 A.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CHISTUS SINERGIA",
+    "address": "AVENIDA DEL LIBERTADOR # 14 -13",
+    "phone": "3053045705",
+    "schedule": "4:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "COORDINACION PAI DISTRITAL",
+    "address": "CARRERA 16A # 16-90",
+    "phone": "3213944090",
+    "schedule": "5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA MAR CARIBE",
+    "address": "CARRERA 19 CON CALLE 22 ESQUINA -",
+    "phone": "4206464",
+    "schedule": "11:00 A.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA LA MILAGROSA",
+    "address": "CALLE 22 # 13A-9",
+    "phone": "4382101-3106015361",
+    "schedule": "12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "BIENESTAR IPS JARDIN (NUEVA EPS)",
+    "address": "CALLE 22 # 2A-33",
+    "phone": "3008432847",
+    "schedule": "12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA BENEDICTO",
+    "address": "CALLE 23 # 14-46",
+    "phone": "30043777-304236207",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "CENTRO HOSPITALARIO DEL CARIBE",
+    "address": "CALLE 22 # 15-34",
+    "phone": "3017068630",
+    "schedule": "12:00 P.M  2:00 P.M  6:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "SALUD TOTAL EPS",
+    "address": "CARRERA 32 # 24-11",
+    "phone": "3014561443",
+    "schedule": "4:00 P.M  SABADO 8:00 A.M  11:00 A.M",
+    "complement": "EDIFICIO LOS NGALES"
+  },
+  {
+    "name": "BATALLON",
+    "address": "CALLE 33 CARRERA 5",
+    "phone": "3016839895",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "POLICIA",
+    "address": "CALLE 22 # 20A-66",
+    "phone": "3014426035",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CORPORACION MI IPS SAN PEDRO",
+    "address": "CARRERA 32 A # 16-13",
+    "phone": "3024305438",
+    "schedule": "4:00 P.M  SABADO 8:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "SANITAS EPS",
+    "address": "CALLE 22 # 20-66",
+    "phone": "3016110470",
+    "schedule": "4:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD TIGRERA",
+    "address": "VEREDA TIGRERA -",
+    "phone": "3053408894",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "AMD DATA IPS",
+    "address": "CARRERA 22 # 16 37 EL JARDIN -",
+    "phone": "3014445332",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD SAN JORGE",
+    "address": "CARRERA 2 # 15-1",
+    "phone": "3008161668",
+    "schedule": "4:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD NACHO VIVES",
+    "address": "CALLE 2A # 21-15",
+    "phone": "3017409054",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD MANZANAREZ",
+    "address": "CALLE 31 # 4B-79",
+    "phone": "3174503576",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD MALVINAS",
+    "address": "CARRERA 27 # 29C-5",
+    "phone": "321522018",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD MACHETE",
+    "address": "VEREDA MACHETE -",
+    "phone": "3153845246",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD JUAN XXIII",
+    "address": "CALLE 10C # 23-1",
+    "phone": "3168069028",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD EL PARQUE",
+    "address": "SECTOR 1 MANZANA 6 -",
+    "phone": "3103656095",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD EL PANDO",
+    "address": "SECTOR 1 MANZANA 28 -",
+    "phone": "3017884671",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD CRISTO REY",
+    "address": "CALLE 14 # 7 8D-8",
+    "phone": "3183933423",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD CALABAZO",
+    "address": "VEREDA CALABAZO -",
+    "phone": "3153845246",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD 11 DE NV.",
+    "address": "CARRERA 75 # 33A-39",
+    "phone": "3016167239",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO DE SALUD SAN FERNANDO",
+    "address": "CARRERA 21B # 4B-25",
+    "phone": "3002630110",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD TAGANGA",
+    "address": "CALLE7 CARRERA 3 ESQUINA -",
+    "phone": "3137199441",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD PEDRO LEON ACOSTA",
+    "address": "GAIRA- CALLE 14 # 11",
+    "phone": "3022405429",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD OLAYA HERRERA",
+    "address": "CALLE 5 # 9-98",
+    "phone": "3004174316",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD MINCA",
+    "address": "CARRETERA VÍA MINCA CARRERA 9-3",
+    "phone": "3116538475",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD MAMATOCO",
+    "address": "DIAGONAL 32 # 15-32",
+    "phone": "3184450879",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD LOS ALMENDROS",
+    "address": "CALLE 9 # 19B-4",
+    "phone": "3184450879",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD LA PAZ",
+    "address": "CARRERA 7 # 120-37",
+    "phone": "3183933423",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD LA CANDELARIA",
+    "address": "CALLE 34 CARRERA 16 ESQUINA -",
+    "phone": "3015849583",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD GUACHACA",
+    "address": "CORREGIMIENTO GUACHACA -",
+    "phone": "3135605135",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD DE BONDA",
+    "address": "CARRERA 21 # 3B-7",
+    "phone": "3173063910",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR CENTRO DE SALUD BASTIDAS",
+    "address": "TRANSVERSAL 28 # 12-55",
+    "phone": "3126117551",
+    "schedule": "12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO SALUD CAMPAN",
+    "address": "VEREDA CAMPAN -",
+    "phone": "3185205819",
+    "schedule": "4:00 P.M"
+  },
+  {
+    "name": "ESE APR PUESTO SALUD LA TAGUA",
+    "address": "VEREDA LA TAGUA",
+    "phone": "3116684578",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 4:00 P.M"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "DISPENSARIO MEDICO EJERCITO",
+    "address": "NOVENA BRIGADA KARRERA15",
+    "phone": "3212512935",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 4:00 P.M"
+  },
+  {
+    "name": "CLINICA UROS",
+    "address": "CR 6 # 16-35 QUIRINAL",
+    "phone": "3166196035",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CLINICA EMCOSALUD",
+    "address": "CLL 5 # 6-73",
+    "phone": "3158703109",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CLINICA LA INMACULADA",
+    "address": "CALLE 16 # 14-32",
+    "phone": "3209004290",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CLINICA MEDILASER",
+    "address": "CARRERA 7MA # 11 -75",
+    "phone": "3178417005",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CORPORACION MI IPS",
+    "address": "CLL 16 # 5A-06",
+    "phone": "3203624907",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 11:00 A.M - 2:00 P.M - 5:00 P.M - SABADO 9:00 A.M - 12:00 A.M"
+  },
+  {
+    "name": "CRUZ ROJA",
+    "address": "AVENIDA 26 KRA 5TA ANTIGUO AEROPUERTO",
+    "phone": "3143984850",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL UNIVERSITARIO HERNANDO MONCALEANO PERDOMO",
+    "address": "CLL 9 # 15-25",
+    "phone": "3124247078",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "IDIME",
+    "address": "CLL 14 # 4-20",
+    "phone": "3162391473",
+    "schedule": "LUNES A VIERNES 6:00 A.M - 7:00 P.M - SABADO 9:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "SURCOLABI IPS",
+    "address": "CLL 14A -5A-64",
+    "phone": "3102244979",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 11:00 A.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "SINERGIA ATENCIÓN BÁSICA",
+    "address": "CALLE 13 N5-44",
+    "phone": "3175663651",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 11:00 A.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE CANAIMA",
+    "address": "KRA 22 CON CLL 26 SUR",
+    "phone": "3153974687",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 11:00 A.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE IPC",
+    "address": "CLL 2C # 28-13",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 6:00 A.M - 2:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE GRANJAS",
+    "address": "CLL 34 # 8-30",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE PALMAS",
+    "address": "CALLE 21 # 55-43",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE 7 DE AGOSTO",
+    "address": "CALLE 21 # 55-43",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE EDUARDO SANTOS",
+    "address": "CALLE 81 C # 5-46",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE CAGUAN",
+    "address": "CARRERA 2DA # 5-36 CAGUAN",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE FORTALECILLAS",
+    "address": "FORTALECILLAS",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE SAN LUIS",
+    "address": "ZONA NORTE NEIVA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE SAN FRANCISCO",
+    "address": "ZONA NORTE NEIVA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE CARMEN EMILIA OSPINA SEDE VEGALARGA",
+    "address": "ZONA ORIENTE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

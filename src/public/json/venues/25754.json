@@ -1,0 +1,98 @@
+[
+  {
+    "name": "PUESTO DE SALUD LA DESPENSA",
+    "address": "CARRERA 11 # 12-76",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SANTILLANA",
+    "address": "CALLE 7 # 3 ESTE - 00",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ISLA",
+    "address": "CARRERA 16 # 3-04",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LUIS CARLOS GALAN",
+    "address": "CALLE 11A # 12-04 ESTE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "IPS CAFAM SOACHA",
+    "address": "AUTOPISTA SUR # 17-02",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL MARIO GAITAN YANGUAS",
+    "address": "CALLELE 12 A # 9-104 SUR",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "EMPRESA DE SALUD",
+    "address": "MUNICIPIO DE SOACHA SEDE COMPARTIR TRANSVERSAL 17 # 6-10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "EMPRESA DE SALUD",
+    "address": "EMPRESA SOCIAL DEL ESTADO DEL MUNICIPIO DE SOACHA SEDE OLIVOS CALLE 1A # 9 23 CUARTO SECTOR",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "EMPRESA DE SALUD",
+    "address": "EMPRESA SOCIAL DEL ESTADO DEL MUNICIPIO DE SOACHA SEDE SAN MATEO CALLE 28D # 7 50",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "EMPRESA DE SALUD MUNICIPIO DE SOACHA",
+    "address": "SEDE CIUDADELA SUCARRERAE DIAG. 44 # 40-25",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "EMPRESA DE SALUD CENTRO DE SALUD SAN MARCOS",
+    "address": "CALLELE 2 # 12-38 SUR",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO FAMILIAR SOACHA CARRERAUZ BLANCA EPS S.A.",
+    "address": "CARRERAA 4 # 10-75 AUTOPISTA SUR",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "COLSUBSIDIO IPS",
+    "address": "CARRERAA 7 # 10-59 SOACHA CENTRO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "ASISTIR SALUD IPS",
+    "address": "DIAGONAL 7 # 8-21 LEON XIII",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "BIENESTAR IPS",
+    "address": "CALLE 13 INSPECCION DE POLICIA SOACHCA PARQUE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CIUDAD LATINA",
+    "address": "CALLE 1B # 22A-08",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

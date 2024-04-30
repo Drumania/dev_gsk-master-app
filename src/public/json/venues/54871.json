@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO DE SALUD VILLA CARO",
+    "address": "IPS VILLA CARO",
+    "phone": "3118389590",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA CARO",
+    "address": "IPS VILLA CARO",
+    "phone": "3118389590",
+    "schedule": "DE 8:00 AM A 12:00M Y DE 2:00 PM A 5:00 PM"
+  }
+]

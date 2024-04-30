@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HOSPITAL LOCAL DE SITIO NUEVO",
+    "address": "CALLE 2 # 8-20",
+    "phone": "3012004767",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PARQUE SANTANDER.",
+    "address": "PARQUE SANTANDER",
+    "phone": "3012004767",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PARQUE JUAN 23.",
+    "address": "PARQUE JUAN 23",
+    "phone": "3012004767",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL DE SITIO NUEVO",
+    "address": "CALLE 2 # 8- 20",
+    "phone": "3012004767",
+    "schedule": "8 A 12  2 A 6 PM"
+  },
+  {
+    "name": "PARQUE SANTANDER.",
+    "address": "PARQUE SANTANDER.",
+    "phone": "3012004767",
+    "schedule": "8 A 12  2 A 6 PM"
+  },
+  {
+    "name": "PARQUE JUAN 23.",
+    "address": "PARQUE JUAN 23.",
+    "phone": "3012004767",
+    "schedule": "8 A 12  2 A 6 PM"
+  }
+]

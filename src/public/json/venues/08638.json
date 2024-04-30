@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ESE CENTRO MATERN INFANTIL DE SABANALARGA",
+    "address": "CARRERA 18 # 24-05",
+    "phone": "6455156",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 5:00 P.M"
+  },
+  {
+    "name": "CLINICA SAN RAFAEL LTDA",
+    "address": "CALLE 20 # 16-42",
+    "phone": "8780228",
+    "schedule": " RECIÉN NACIDO"
+  },
+  {
+    "name": "IPS - SAN JUAN  (EAPB NUEVA EPS)",
+    "address": "CARRERA 17 # 14A-35",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CLINICA SONREIR -(EAPB - COOMEVA)",
+    "address": "SABANALARGA",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "CORPORACION IPS SALUDCOOP COSTA ATLANTICA",
+    "address": "CARRERA 21 # 22-40",
+    "phone": "3780200",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 1:00 P.M"
+  }
+]

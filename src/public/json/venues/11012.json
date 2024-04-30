@@ -1,0 +1,81 @@
+[
+  {
+    "name": "CAPS CHAPINERO",
+    "address": "CALLE 106 # 56-76",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8 AM A 5PM SABADOS 8AM A 12M DOMINGO NO",
+    "complement": "CS 203"
+  },
+  {
+    "name": "USS LORENCITA",
+    "address": "CALLE 66 # 15-41",
+    "phone": "3499080",
+    "schedule": "LUNES A VIERNES 7AM A 1PM 2PM A 4PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "IPS ANDAR BARRIOS UNIDOS",
+    "address": "CARRERA 54 # 67 BIS-20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 6PM SABADOS 8AM A 4PM DOMINGO NO"
+  },
+  {
+    "name": "CENTRO MEDICO SANTA MONICA",
+    "address": "CARRERA 30 # 63F-23",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 1PM 2PM A 4PM SABADOS 8AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "LACORSALUD S.A.S",
+    "address": "CARRERA 50 # 91-38",
+    "phone": "7424943",
+    "schedule": "LUNES A VIERNES 7AM A 7PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "IPS BIENESTAR CHAPINERO",
+    "address": "CALLE 75 # 22-66",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 5PM SABADOS 7AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO CALLE 63",
+    "address": "CARRERA 14A # 68-31",
+    "phone": "4873434",
+    "schedule": "LUNES A VIERNES 7AM A 5PM SABADOS 7AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "NUESTRA IPS HEROES",
+    "address": "CARRERA 24 # 62-50",
+    "phone": "7565564 II",
+    "schedule": "LUNES A VIERNES 8AM A 5PM SABADOS 8AM A 2PM DOMINGO NO"
+  },
+  {
+    "name": "CLINICA MATERNO ESIMED",
+    "address": "AK 20 # 82-49",
+    "phone": "3078313",
+    "schedule": "LUNES A VIERNES 6:40AM A 5PM SABADOS 7AM A 11AM DOMINGO NO"
+  },
+  {
+    "name": "VIRREY SOLIS CALLE 98",
+    "address": "AK 45 # 94-67",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 24 HORAS SABADOS 24 HORAS DOMINGO24 HORAS"
+  },
+  {
+    "name": "CENTRO DE ATENCION EN SALUD CAFAM FLORESTA",
+    "address": "CARRERA 49 # 98A-28",
+    "phone": "6286262",
+    "schedule": "LUNES A VIERNES 7:30AM A 12:30M 2:00 PM A 4:30 PM SABADOS 7:30AM A 12:30PM DOMINGO NO"
+  },
+  {
+    "name": "HOSPITAL INFANTIL SAN JOSE",
+    "address": "AK 68 # 96-50",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 8PM SABADOS 7AM A 8PM DOMINGO 7AM A 1 PM"
+  },
+  {
+    "name": "HOSPITAL INFANTIL SAN JOSE PROGRAMA CANGURO",
+    "address": "CARRERA 52 # 67A-71",
+    "phone": "314377540",
+    "schedule": "LUNES A VIERNES 7AM A 4PM SABADOS 7AM A 4PM DOMINGO 7AM A 4PM"
+  }
+]

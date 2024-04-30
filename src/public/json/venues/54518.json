@@ -1,0 +1,20 @@
+[
+  {
+    "name": "IPS LOS ALPES",
+    "address": "CARRERA 5 CALLE 4 # 3-94",
+    "phone": "5686433",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN JUAN DE DIOS DE PAMPLONA",
+    "address": "CARRERA 9 # 5-01 URSUA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "SOCIEDAD CALLEINICA PAMPLONA LTDA",
+    "address": "CARRERA  8 # 11B -29 URBANIZACIÓN ROMERO",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  }
+]

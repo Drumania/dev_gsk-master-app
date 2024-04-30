@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HOSPITAL SAN ANTONIO",
+    "address": "CLL 5 # 1-40",
+    "phone": "3184701624",
+    "schedule": "LUNES A JUEVES 7:00 A.M - 1:00 P.M - 2:00 P.M - 6:00 P.M - VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN ANTONIO VDA SILVANIA",
+    "address": "VDA SILVANIA",
+    "phone": "3209267275",
+    "schedule": "LUNES A JUEVES 7:00 A.M - 1:00 P.M - 2:00 P.M - 6:00 P.M - VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

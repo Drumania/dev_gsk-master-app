@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="es">
+<%- include('partials/head.html') %>
+
+  <body>
+    <%- include('partials/navigation.html')%>
+
+      <div class="container">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+          <li class="breadcrumb-item"><a href="/lo-clave-de-la-vacunacion">Sobre la Vacunación</a></li>
+          <li class="breadcrumb-item"><a href="/por-que-es-importante-la-vacunacion">¿Por qué es importante la
+              vacunación?</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Razones para vacunarse</li>
+        </ol>
+      </div>
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-7 pt-5 mt-5">
+            <h4>¿Por qué es importante la vacunación?</h4>
+            <h1>Razones para vacunarse</h1>
+            <p>En cada etapa de la vida, hay una razón para cuidarte y seguir disfrutando de cada momento. Por eso,
+              queremos
+              compartirte algunos motivos por los que es recomendable la vacunación.
+            </p>
+            <a href="#sigue-aprendiendo" id="sigue-aprendiendo" class=" btn btn-custom mt-3">Sigue aprendiendo <img
+                src="/images/arrow_downward.svg" class="ms-2" /></a>
+          </div>
+          <div class="col-5 pt-4">
+            <img src="/images/herorazones.png" alt="hero home" />
+          </div>
+        </div>
+      </div>
+
+
+      <section class="container">
+        <div class="row">
+
+          <p class="text-center px-5 mx-3">
+            Las enfermedades graves aún existen, es necesario mantener una tasa de vacunación alta para evitar que se
+            produzcan brotes,de esa forma puedes proteger a tu familia y comunidad.<sup>1</sup><br /><br />
+            Colombia cuenta con el Programa Ampliado de Inmunizaciones (PAI) que es una acción conjunta de las naciones
+            del
+            mundo y de organismos internacionales interesados en apoyar acciones para lograr coberturas universales de
+            vacunación, con el fin de disminuir las tasas de mortalidady morbilidad causadas por las enfermedades
+            inmunoprevenibles.<sup>2</sup>
+          </p>
+
+          <div class="d-flex align-items-start my-4">
+            <img src="/images/imgrazonescontent.png" class="me-5" />
+            <p>
+              Las vacunas pueden prevenir enfermedades infecciosas que antes causaban muerte o daño a muchos bebés,
+              niños y
+              adultos.<sup>1</sup><br /><br />
+              La vacunación es una de las mejores formas de prevenir enfermedades graves como: <sup>3,4</sup><br />
+              &bullet; la meningitis<br />
+              &bullet; la poliomielitis<br />
+              &bullet; el sarampión<br /><br />
+
+              Según los cálculos de la OMS, las vacunas infantiles salvan la vida de 4 millones de niños cada año.
+              <sup>4</sup><br /><br />
+
+              Las vacunas reducen el riesgo de infección al estimular las defensas naturales del cuerpo, ayudándolo a
+              desarrollar inmunidad a la enfermedad. <sup>4</sup><br />
+            </p>
+          </div>
+
+
+          <div class="col-12 offset-lg-3 mt-5 col-lg-6">
+            <div class="box-light-orange">
+              <img src="/images/personicon.png" />
+              <p>Existen distintas enfermedades que se pueden prevenir
+                por medio de la vacunación, por favor <span class="text-orange">consulte con su médico</span>.</p>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+
+      <%- include('partials/aprende-sobre-la-vacunacion.html') %>
+
+        <%- include('partials/slider-enfermedades.html') %>
+
+
+          <section class="container">
+            <div class="row">
+              <div class="col-12 border-top mt-5 pt-5 referencias">
+                <strong>Referencias</strong><br />
+                <ul class="mt-3">
+                  <li>CDC. Vacunas para adultos: Razones para vacunarse [Internet]. Centers for Disease Control and
+                    Prevention.
+                    2022 [cited 2024 Mar 8]. Available from:
+                    https://www.cdc.gov/vaccines/adults/reasons-to-vaccinate-sp.html
+                  </li>
+                  <li>de Colombia M de S y. PS. Programa Ampliado de Inmunizaciones (PAI) [Internet]. Gov.co. [cited
+                    2024
+                    Mar
+                    8]. Available from:
+                    https://www.minsalud.gov.co/salud/Paginas/ProgramaAmpliadodeInmunizaciones(PAI).aspx
+                  </li>
+                  <li>Who.int. [cited 2024 Mar 8]. Available from:
+                    https://www.who.int/es/news-room/fact-sheets/detail/immunization-coverage.</li>
+                  <li>Vacunas e inmunización: ¿qué es la vacunación? [Internet]. Who.int. [cited 2024 Mar 8]. Available
+                    from:
+                    https://www.who.int/es/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination
+                  </li>
+                  <li>CDC. Vaccine-preventable diseases [Internet]. Centers for Disease Control and Prevention. 2023
+                    [cited
+                    2024
+                    Mar 8]. Available from: https://www.cdc.gov/vaccines/parents/diseases/index.html</li>
+                </ul>
+                <div class="text-center py-5 fw-bold text-orange">
+                  Esta información no pretende sustituir el juicio o consejo proporcionado por su equipo de salud y no
+                  debe utilizarse para diagnosticar<br />o dar tratamiento a problemas de salud. Consulte siempre a su
+                  médico tratante.
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <%- include('partials/footer.html') %>
+  </body>
+
+</html>

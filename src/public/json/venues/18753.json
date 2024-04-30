@@ -1,0 +1,84 @@
+[
+  {
+    "name": "PS CAMPO HERMOSO",
+    "address": "VEREDA CAMPO HERMOSO",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "VACUNACION URBANA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "CALLE 5 # 3-38",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M",
+    "complement": "BARRIO / LA CONSOLATA"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "CALLE 5 # 3-38",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M",
+    "complement": "BARRIO / LA CONSOLATA"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "CALLE 5 # 3-38",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M",
+    "complement": "BARRIO / LA CONSOLATA"
+  },
+  {
+    "name": "P.S. CHORRERAS",
+    "address": "VEREDA CHORRERAS",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "P.S. GUACAMAYAS",
+    "address": "INSP/ GUACAMAYAS",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "P.S. LAS DAMAS",
+    "address": "VEREDA LAS DAMAS",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "CALLE 5 # 3-38",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M",
+    "complement": "BARRIO / LA CONSOLATA"
+  },
+  {
+    "name": "P.S. SAN JUAN DEL LOZADA",
+    "address": "VEREDA SAN JUNA DEL LOZADA",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "P.S. VILLA LOBOS",
+    "address": "VEREDA VILLA LOBOS",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "VACUNACION URBANA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "P.S. VILLA RICA",
+    "address": "VEREDA VILLA RICA",
+    "phone": "",
+    "schedule": "MIERCOLES A DOMINGO 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  }
+]

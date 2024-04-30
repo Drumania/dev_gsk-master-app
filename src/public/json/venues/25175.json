@@ -1,0 +1,106 @@
+[
+  {
+    "name": "CENTRO DE ATENCIÓN E INVESTIGACIÓN MÉDICA (CAIMED)",
+    "address": "CARRERA 4 ESTE # 24-65",
+    "phone": "8707070 3175131016",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M",
+    "complement": "CONSUTORIO 202"
+  },
+  {
+    "name": "CENTRO MEDICO EPS SANITAS",
+    "address": "AVENIDA PRADILLA # 2E-71",
+    "phone": "5712728 3004722546",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M",
+    "complement": "PISO 3 (ANTIGUA SEDE LOCATEL FRENTE A JUMBO)"
+  },
+  {
+    "name": "ESE HOSPITAL SAN ANTONIO DE CHIA",
+    "address": "CARRERA 10 # 8-24",
+    "phone": "5951230 3013775990",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN ANTONIO DE CHIA",
+    "address": "CARRERA 10 # 8-24",
+    "phone": "5951230 3134603538",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN ANTONIO DE CHIA",
+    "address": "CARRERA 10 # 8-24",
+    "phone": "5951230 3112582231",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "COMPENSAR SEDE CHIA SALUD MARKET",
+    "address": "AVENIDA PRADILLA # 2E-71",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M",
+    "complement": "PISO 3 (ANTIGUA SEDE LOCATEL FRENTE A JUMBO)"
+  },
+  {
+    "name": "COMPENSAR SEDE CHIA SALUD MARKET",
+    "address": "AVENIDA PRADILLA # 2E-71",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M",
+    "complement": "PISO 3 (ANTIGUA SEDE LOCATEL FRENTE A JUMBO)"
+  },
+  {
+    "name": "COMPENSAR SEDE CHIA SALUD MARKET",
+    "address": "AVENIDA PRADILLA # 2E-71",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M",
+    "complement": "PISO 3 (ANTIGUA SEDE LOCATEL FRENTE A JUMBO)"
+  },
+  {
+    "name": "CAFAM IPS SALUD MARIANA",
+    "address": "CARRERA 9 # 16A-09",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "CAFAM IPS SALUD MARIANA",
+    "address": "CARRERA 9 # 16A-09",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "CAFAM IPS SALUD MARIANA",
+    "address": "CARRERA 9 # 16A-09",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "AVENIDAACUNAR IPS",
+    "address": "CALLE 30 # 3 ESTE - 22 ",
+    "phone": "8620666 3163265015",
+    "schedule": "3208474708 LUNES A VIERNES 8:30 A.M 6:30 P.M SABADO 8:00 A.M 2:00 P.M",
+    "complement": "LOCAL 1 SECTOR EL 40"
+  },
+  {
+    "name": "AVENIDAACUNAR IPS",
+    "address": "CALLE 30 # 3 ESTE - 22",
+    "phone": "8620666 3163265015",
+    "schedule": "3208474708 LUNES A VIERNES 8:30 A.M 6:30 P.M SABADO 8:00 A.M 2:00 P.M",
+    "complement": "LOCAL 1 SECTOR EL 40"
+  },
+  {
+    "name": "AVENIDAACUNAR IPS",
+    "address": "CALLE 30 # 3 ESTE 22 LOCAL 1 SECTOR EL 40",
+    "phone": "8620666 3163265015",
+    "schedule": "3208474708 LUNES A VIERNES 8:30 A.M 6:30 P.M SABADO 8:00 A.M 2:00 P.M"
+  },
+  {
+    "name": "AVENIDAACUNAR IPS",
+    "address": "CALLE 30 # 3 ESTE - 22",
+    "phone": "8620666 3163265015",
+    "schedule": "3208474708 LUNES A VIERNES 8:30 A.M 6:30 P.M SABADO 8:00 A.M 2:00 P.M",
+    "complement": "LOCAL 1 SECTOR EL 40"
+  },
+  {
+    "name": "CALLEÍNICA DE MARLY JORGE CAVENIDAELIER GAVENIDAIRIA S.A.S.",
+    "address": "AVENIDA ENIDA PASEO DE LOS ZIPAS VEREDA BOJACÁ LOTES 21 Y 23 RECIÉN NACIDO",
+    "phone": "",
+    "schedule": ""
+  }
+]

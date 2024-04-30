@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA",
+    "address": "CLL 2 # 6- 16",
+    "phone": "3125796408",
+    "schedule": "MARTES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 6:00 P.M - SABADO 7:00 A.M - 1:00 P.M"
+  },
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA RIONEGRO",
+    "address": "CENTRO POBLADO RIONEGRO",
+    "phone": "3182103467",
+    "schedule": "MARTES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 6:00 P.M - SABADO 7:00 A.M - 1:00 P.M"
+  },
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA VALENCIA DE LA PAZ",
+    "address": "CENTRO POBLADO VALENCIA DE LA PAZ",
+    "phone": "3143819400",
+    "schedule": "MARTES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 6:00 P.M - SABADO 7:00 A.M - 1:00 P.M"
+  }
+]

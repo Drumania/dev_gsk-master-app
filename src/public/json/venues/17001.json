@@ -1,0 +1,166 @@
+[
+  {
+    "name": "ALTO BONITO",
+    "address": "PUESTO SALUD",
+    "phone": "8702693 y 8702776",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "BAJO TABLAZO",
+    "address": "CENTRO DE SALUD",
+    "phone": "8702693",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "SAN PEREGRIN",
+    "address": "PUESTO DE SALUD",
+    "phone": "8703817",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "CABAÑA",
+    "address": "CENTRO DE SALUD",
+    "phone": "8703309 y 8703423",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "KILÓMETRO 41",
+    "address": "CENTRO DE SALUD",
+    "phone": "8703112 y 8703190",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "SAN CAYETAN",
+    "address": "CALLE 47 CARRERA 13C VÍA BARRIO EL CARIBE",
+    "phone": "8761818",
+    "schedule": ""
+  },
+  {
+    "name": "EL BOSQUE",
+    "address": "CALLE 12 # 28-34",
+    "phone": "8722106",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "EL PRADO",
+    "address": "CARRERA 34 CALLE 48",
+    "phone": "8722100 y 8849495",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "CISCO",
+    "address": "ENTRA A BOSQUES DEL NRTE EN EL CENTRO INTEGRADO DE SERVICIOS COMUNITARIOS",
+    "phone": "8758007 y 8758033",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "FÁTIMA",
+    "address": "CARRERA 34 CALLE 65A",
+    "phone": "8874414",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "INTERCONSULTA SURA",
+    "address": "CALLE 57 # 24A-46",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "SANITAS",
+    "address": "CALLE 65 # 23B-79",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "CLINICA SAN MARCEL",
+    "address": "ENTRADA PRINCIPAL SUPERMERCADO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "LA ENEA",
+    "address": "CAI LA ENEA",
+    "phone": "8747910",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "CLINICA LA TOSCANA",
+    "address": "CLÍNICA LA POLICÍA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA ASUNCIÓN",
+    "address": "CENTRO DE SALUD",
+    "phone": "8810013 y 8814378",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "CONFAMILIARES DE LA 50",
+    "address": "AVENIDA PARALELA DE LA 50 ENTRADA PRINCIPAL",
+    "phone": "8783111",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "LABORATORIO CLINICO CALDAS",
+    "address": "CARRERA 23 CALLE 21",
+    "phone": "8730000",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "EDIFICIO SEGUROS ATLAS ESQUINA"
+  },
+  {
+    "name": "CORPORACION EJE CAFETERO",
+    "address": "CALLE 57 # 24A-25",
+    "phone": "3008960140",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "IPS UNIVERSITARIA",
+    "address": "CARRERA 25 # 62-06",
+    "phone": "8859888",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "SINERGIA GLOBAL EN SALUD",
+    "address": "CARRRERA 24 # 51-02",
+    "phone": "8918492",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:30 P.M 1:30 P.M 5:00 P.M"
+  },
+  {
+    "name": "CLINICA SES",
+    "address": "CALLE 48 # 25-71",
+    "phone": "8782500",
+    "schedule": "24 HORAS"
+  },
+  {
+    "name": "CLINICA VERSALLES",
+    "address": "CALLE 51 # 24-50",
+    "phone": "8879100",
+    "schedule": "24 HORAS"
+  },
+  {
+    "name": "VIVA 1A CENTRO",
+    "address": "CALLE 25 # 21-34",
+    "phone": "SIN TELEFONO",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 1:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "VIRREY SOLIS",
+    "address": "CARRERA 22 # 25-19",
+    "phone": "8782300",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PILOTO",
+    "address": "CALLE 30 CARRERA 26 GALAN",
+    "phone": "8849602",
+    "schedule": "LUNES A VIERNES 7:30 A.M 3:30 P.M"
+  },
+  {
+    "name": "VIVA 1A LAURELES",
+    "address": "AVENIDA KEVIN ANGEL # 64A-80",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "EDIFICIO LAURELES DEL RIO 2 PISO"
+  }
+]

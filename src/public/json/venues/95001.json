@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NUEVA SALUD INTEGRAL IPS",
+    "address": "CARRERA 24 # 9-76",
+    "phone": "5849003 - 3153325047",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 8:00 A.M - 1:00 A.M"
+  },
+  {
+    "name": "SANIDAD POLICIA NACIONAL",
+    "address": "CALLR 9 # 21-20 ESPERANZA",
+    "phone": "3508401320 - 3177594615",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SAN JOSE- ESE RED DE SERVICIOS DE SALUD DE PRIMER NIVEL",
+    "address": "CARRERA 22 # 19-20 BELLO HORIZONTE",
+    "phone": "3183638698 - 3142270550",
+    "schedule": "LUNES A JUEVES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - VIERNES 7:00 A.M - 12:00 A.M - 2:00 P.M - 5:00 P.M"
+  }
+]

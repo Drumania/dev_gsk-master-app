@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="es">
+<%- include('partials/head.html') %>
+
+  <body>
+    <%- include('partials/navigation.html')%>
+
+
+      <div class="container">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Enfermedades prevenibles</li>
+        </ol>
+      </div>
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-12 offset-lg-1 col-lg-6  pt-5 mt-5">
+            <h4>Enfermedades prevenibles</h4>
+            <h1>Enfermedades prevenibles por vacunación</h1>
+            <p>Explora las enfermedades que puedes evitar gracias a la vacunacióny descubre por qué estar informado
+              puede protegertede enfermedades prevenibles, para que puedas vivir de 0 a 100.
+            </p>
+            <a href="#" class="btn btn-custom mt-3">Sigue aprendiendo</a>
+          </div>
+          <div class="col-4 pt-4">
+            <img src="/images/FotoBannerenferpreve.png" alt="hero home" />
+          </div>
+        </div>
+      </div>
+
+
+      <section class="container">
+        <div class="row">
+          <div class="col-12 mt-5 pt-5 text-center">
+            <h2>Descubre las enfermedades prevenibles gracias a la vacunación <sup>1,2,3,4</sup></h2>
+            <ul class="d-flex justify-content-evenly ep-filter my-4">
+              <li class="active">Todas</li>
+              <li>Bebés</li>
+              <li>Niños</li>
+              <li>Adolescentes</li>
+              <li>Mujeres embarazadas</li>
+              <li>Adultos</li>
+              <li>Adultos mayores</li>
+            </ul>
+
+            <div class="container">
+              <h1>Enfermedades Prevenibles:<%= group %>
+              </h1>
+            </div>
+
+            <div class="grid-container">
+              <div class="grid-item">
+
+
+                <div class="thumb-disease box-white ">
+                  <ul class="category-misc">
+                    <li data-color="green">&nbsp;</li>
+                    <li data-color="blue">&nbsp;</li>
+                    <li data-color="violet">&nbsp;</li>
+                    <li data-color="yellow">&nbsp;</li>
+                    <li data-color="red">&nbsp;</li>
+                    <li data-color="orange">&nbsp;</li>
+                  </ul>
+                  <img src="/images/thiumbenfermedadneumocco.png" alt="Enfermedad Neumocócica">
+                  <h2>Enfermedad<br>Neumocócica</h2>
+                  <a href="#" class="text-orange fw-bold">Conoce más <img src="/images/arroworangenext.svg"></a>
+                </div>
+              </div>
+
+              <div class="grid-item">
+                <div class="thumb-disease box-white ">
+                  <ul class="category-misc">
+                    <li data-color="green">&nbsp;</li>
+                    <li data-color="blue">&nbsp;</li>
+                    <li data-color="violet">&nbsp;</li>
+                    <li data-color="yellow">&nbsp;</li>
+                    <li data-color="red">&nbsp;</li>
+                    <li data-color="orange">&nbsp;</li>
+                  </ul>
+                  <img src="/images/thiumbenfermedadneumocco.png" alt="Enfermedad Neumocócica">
+                  <h2>Enfermedad<br>Neumocócica</h2>
+                  <a href="#" class="text-orange fw-bold">Conoce más <img src="/images/arroworangenext.svg"></a>
+                </div>
+
+              </div>
+
+              <div class="grid-item">
+                <div class="thumb-disease box-white ">
+                  <ul class="category-misc">
+                    <li data-color="green">&nbsp;</li>
+                    <li data-color="blue">&nbsp;</li>
+                    <li data-color="violet">&nbsp;</li>
+                    <li data-color="yellow">&nbsp;</li>
+                    <li data-color="red">&nbsp;</li>
+                    <li data-color="orange">&nbsp;</li>
+                  </ul>
+                  <img src="/images/thiumbenfermedadneumocco.png" alt="Enfermedad Neumocócica">
+                  <h2>Enfermedad<br>Neumocócica</h2>
+                  <a href="#" class="text-orange fw-bold">Conoce más <img src="/images/arroworangenext.svg"></a>
+                </div>
+
+              </div>
+
+              <div class="grid-item">
+                <div class="thumb-disease box-white ">
+                  <ul class="category-misc">
+                    <li data-color="green">&nbsp;</li>
+                    <li data-color="blue">&nbsp;</li>
+                    <li data-color="violet">&nbsp;</li>
+                    <li data-color="yellow">&nbsp;</li>
+                    <li data-color="red">&nbsp;</li>
+                    <li data-color="orange">&nbsp;</li>
+                  </ul>
+                  <img src="/images/thiumbenfermedadneumocco.png" alt="Enfermedad Neumocócica">
+                  <h2>Enfermedad<br>Neumocócica</h2>
+                  <a href="#" class="text-orange fw-bold">Conoce más <img src="/images/arroworangenext.svg"></a>
+                </div>
+              </div>
+
+              <div class="grid-item">
+
+                <div class="thumb-disease box-white ">
+                  <ul class="category-misc">
+                    <li data-color="green">&nbsp;</li>
+                    <li data-color="blue">&nbsp;</li>
+                    <li data-color="violet">&nbsp;</li>
+                    <li data-color="yellow">&nbsp;</li>
+                    <li data-color="red">&nbsp;</li>
+                    <li data-color="orange">&nbsp;</li>
+                  </ul>
+                  <img src="/images/thiumbenfermedadneumocco.png" alt="Enfermedad Neumocócica">
+                  <h2>Enfermedad<br>Neumocócica</h2>
+                  <a href="#" class="text-orange fw-bold">Conoce más <img src="/images/arroworangenext.svg"></a>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+      </section>
+
+
+      <%- include('partials/double-box.html') %>
+
+        <%- include('partials/aprende-sobre-la-vacunacion.html') %>
+
+          <section class="container">
+            <div class="row">
+              <div class="col-12 border-top mt-5 pt-5 referencias">
+                <strong>Referencias</strong><br />
+                <ul class="mt-3">
+                  <li>CDC. Vaccine-preventable diseases [Internet]. Centers for Disease Control and Prevention. 2023
+                    [citado
+                    el
+                    13 de marzo de 2024]. Disponible en: https://www.cdc.gov/vaccines/parents/diseases/index.html</li>
+                  <li>CDC. Parent information [Internet]. Centers for Disease Control and Prevention. 2023 [citado el 13
+                    de
+                    marzo de 2024]. Disponible en: https://www.cdc.gov/parents/index.html</li>
+                  <li>Get vaccines to protect your health (adults age 50 years or older) [Internet]. Health.gov. [citado
+                    el
+                    13
+                    de marzo de 2024]. Disponible en:
+                    https://health.gov/myhealthfinder/doctor-visits/vaccines-shots/get-vaccines-protect-your-health-adults-age-50-years-or-older
+                  </li>
+                  <li>for ages 19 years or older. Recommended adult immunization schedule [Internet]. Cdc.gov. [citado
+                    el
+                    13
+                    de
+                    marzo de 2024]. Disponible en:
+                    https://www.cdc.gov/vaccines/schedules/downloads/adult/adult-combined-schedule.pdf</li>
+                </ul>
+                <div class="text-center py-5 fw-bold text-orange">
+                  Esta información no pretende sustituir el juicio o consejo proporcionado por su equipo de salud y no
+                  debe utilizarse para diagnosticar<br />o dar tratamiento a problemas de salud. Consulte siempre a su
+                  médico
+                  tratante.
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <%- include('partials/footer.html') %>
+  </body>
+
+</html>

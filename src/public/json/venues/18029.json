@@ -1,0 +1,32 @@
+[
+  {
+    "name": "INPECION EL DORADO",
+    "address": "INPECION EL DORADO",
+    "phone": "3102148623 y 3115983897",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "VERSALLES",
+    "address": "VEREDA VERSALLES",
+    "phone": "3133744352",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "VEREDA MARGARITAS",
+    "address": "VEREDA MARGARITAS",
+    "phone": "3142871715 y 3125109204",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "VEREDA EL PARAÍSO",
+    "address": "VEREDA EL PARAÍSO",
+    "phone": "3138380849",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "IPS ALBANIA",
+    "address": "CENTRO CALLE 4 CARRERA 5",
+    "phone": "3118144293",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M FINES DE SEMANA RECIÉN NACIDO"
+  }
+]

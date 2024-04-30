@@ -1,0 +1,1532 @@
+[
+  {
+    "title": "Enfermedad Neumocócica",
+    "slug": "enfermedad-neumococica",
+    "coverpage": "/images/diseases/enfermedad-neumococica/01.jpg",
+    "image": "/images/diseases/enfermedad-neumococica/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es?",
+        "content": [
+          {
+            "text": "La enfermedad neumocócica es una infección causada por la bacteria Streptococcus pneumoniae, generalmente conocida como neumococo.<sup>(1)</sup>. Existe una variedad de enfermedades, algunas de ellas comprometen la vida de los pacientes y se conocen como enfermedad neumocócica invasiva."
+          },
+          {
+            "text": "Vea más sobre los tipos de manifestaciones de la enfermedad neumocócica <sup>(5)</sup>."
+          }
+        ],
+        "menu": [
+          {
+            "link": "#otitis-media-aguda",
+            "text": "Otitis media aguda"
+          },
+          {
+            "link": "#neumonia",
+            "text": "Neumonía"
+          },
+          {
+            "link": "#meningitis-neumococica",
+            "text": "Meningitis neumocócica"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Cualquiera puede tener enfermedad neumocócica, pero la edad y ciertas afecciones médicas son los principales factores de riesgo. Los niños menores de 2 años , los mayores de 65 años y las personas con enfermedades como el VIH / SIDA, la anemia falciforme, la diabetes, también las personas con enfermedades crónicas que afectan el corazón, los pulmones, los riñones o el hígado, son mucho más propensos a enfermarse gravemente e incluso puede ser mortal. <sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "Los síntomas de la enfermedad neumocócica dependen de la parte del cuerpo infectada. Vea los síntomas de algunas de las manifestaciones de la enfermedad neumocócica:"
+          },
+          {
+            "list": [
+              {
+                "text": "Otitis media aguda"
+              },
+              {
+                "text": "Neumonía"
+              },
+              {
+                "text": "Meningitis neumocócica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Causas",
+        "content": [
+          {
+            "text": "El neumococo puede transmitirse por gotitas a otras personas, al toser o estornudar, y por contacto cercano con una persona infectada. La bacteria puede ser transportada por la nariz y la garganta de una persona infectada que no tiene síntomas pero puede transmitir la enfermedad. <sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "Puede prevenir la enfermedad neumocócica siguiendo los 5 pasos a continuación <sup>(5)"
+          },
+          {
+            "text": "Lávese las manos regularmente y con cuidado, especialmente después de tocarse la nariz y la boca y antes de manipular alimentos:"
+          },
+          {
+            "list": [
+              {
+                "text": "Asegurar una nutrición saludable "
+              },
+              {
+                "text": "No comparta biberones, vasos o utensilios de cocina"
+              },
+              {
+                "text": "Beber agua potable"
+              },
+              {
+                "text": "Vacunas de rutina: La vacunación puede prevenir las infecciones neumocócicas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "El diagnóstico temprano y el tratamiento de la enfermedad neumocócica invasiva es muy importante. Los antibióticos pueden tratar la enfermedad neumocócica, pero algunos tipos de neumococo se han vuelto resistentes a los antibióticos usualmente utilizados para tratar estas infecciones.<sup>(4)</sup> El tratamiento siempre debe estar indicado por el médico."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. About Pneumococcal Disease. Disponible en: https://www.cdc.gov/pneumococcal/. Último Acceso: 26 ago. 2019."
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Risk Factors and Transmission. Disponible en:https://www.cdc.gov/pneumococcal/about/risk- transmission.html. Último acceso: Julio 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Symptoms and Complications. Disponible en :https://www.cdc.gov/pneumococcal/about/symptoms- complications.html. Último Acceso: 26 ago. 2019."
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Diagnosis and Treatment. Disponible en: https://www.cdc.gov/pneumococcal/about/diagnosis- treatment.html. Último acceso: Julio 2020."
+          },
+          {
+            "text": "UNITED NATIONS CHILDREN’S FUND. Pneumonia – The Deadliest Childhood Disease. Disponible en: < https://data.unicef.org/resources/world-pneumonia-day-2015-infographic/. Acesso em: 09 set. 2019"
+          }
+        ]
+      }
+    ],
+    "diseases": [
+      {
+        "id": "neumonia",
+        "title": "NEUMONÍA",
+        "image": "/images/diseases/enfermedad-neumococica/02.jpg",
+        "contents": [
+          {
+            "subtitle": "¿Qué es?",
+            "content": [
+              {
+                "text": "La neumonía es una infección de los pulmones que puede generar síntomas leves a graves en personas de todas las edades. Puede ser causado por una infección viral o bacteriana A nivel mundial, la neumonía afecta a millones de personas cada año.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "¿Quién está en riesgo?",
+            "content": [
+              {
+                "text": "Algunas personas tienen un mayor riesgo de enfermarse de neumonía como los niños menores de cinco años , los adultos mayores de 65 años, las personas con otras enfermedades crónicas como el asma, la diabetes y las enfermedades cardíacas, y los fumadores.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Signos y síntomas",
+            "content": [
+              {
+                "text": "Los síntomas más comunes de la neumonía son tos, fiebre y dificultad para respirar, asociado a dolor en el pecho. También puede haber aumento en el ritmo cardíaco, malestar general, sudoración, escalofríos.<sup>(2)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Causas",
+            "content": [
+              {
+                "text": "La neumonía puede ser causada por virus, bacterias u hongos, sin embargo, los médicos no siempre pueden determinar qué causó la enfermedad. Las bacterias y los virus que generalmente causan neumonía en la comunidad son diferentes de los que causan la enfermedad en un hospital.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Prevención",
+            "content": [
+              {
+                "text": "Existen vacunas que ayudan a prevenir la infección por algunas bacterias y virus que causan neumonía, como las vacunas <i>\"Haemophilus influenzae\"</i> tipo b (Hib), la influenza , el sarampión, la tos ferina, el neumococo y la varicela.<sup>(1)</sup>"
+              },
+              {
+                "text": "Es importante mantenerse alejado de las personas enfermas. Otras medidas esenciales son la limpieza regular de las superficies que tienen contacto con muchas personas, al toser o estornudar en un pañuelo o en el codo, limitar el contacto con el humo del cigarrillo y tratar y prevenir enfermedades como la diabetes.<sup>(1)</sup> El sistema inmune de un niño puede ser debilitado por problemas de nutrición, sobre todo aquellos que no son amamantados exclusivamente.<sup>(3)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Tratamiento",
+            "content": [
+              {
+                "text": "La mayoría de las muertes por neumonía podrían prevenirse con vacunas y un tratamiento adecuado con antibióticos y antivirales, cuando sea necesario.<sup>(1)</sup> El tratamiento siempre debe estar indicado por el médico"
+              }
+            ]
+          },
+          {
+            "subtitle": "Bibliografía",
+            "order_list": [
+              {
+                "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. La neumonía se puede prevenir – las vacunas pueden ayudar.Disponible en: <http://www.cdc.gov/Features/Pneumonia/>. Último acceso: Agosto 2020"
+              },
+              {
+                "text": "UK. National Health Service. Overview Pneumonia. Disponible en: https://www.nhs.uk/conditions/pneumonia/. Último acceso: Agosto 2020"
+              },
+              {
+                "text": "ORGANIZACIÓN MUNDIAL DE LA SALUD. Neumonía. Disponible en: https://www.who.int/news-room/fact-sheets/detail/pneumonia. Último acceso: Agosto 2020"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "otitis-media-aguda",
+        "title": "OTITIS MEDIA AGUDA",
+        "image": "/images/diseases/enfermedad-neumococica/03.jpg",
+        "contents": [
+          {
+            "subtitle": "¿Qué es?",
+            "content": [
+              {
+                "text": "La otitis media es una inflamación del oído medio, generalmente causada por bacterias que se multiplican cuando hay líquido detrás del tímpano.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "¿Quién está en riesgo?",
+            "content": [
+              {
+                "text": "Cualquiera puede tener una otitis media, pero los niños la tienen con más frecuencia que los adultos. Cinco de cada seis niños tendrán al menos una infección de oído para el tercer cumpleaños. De hecho, la otitis media es la causa más común por la cual los padres llevan a sus hijos al médico."
+              }
+            ]
+          },
+          {
+            "subtitle": "Signos y síntomas",
+            "content": [
+              {
+                "text": "La otitis media aguda es la infección del oído más común. Las estructuras del oído medio están infectadas, se hinchan y el líquido queda atrapado detrás del tímpano. Esto causa dolor de oído y fiebre. Otros síntomas incluyen que el niño tenga problemas para dormir, problemas de equilibrio o problemas para escuchar.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Causas",
+            "content": [
+              {
+                "text": "La otititis media puede ser causada por virus o bacterias, y en algunos casos puede acompañarse de una infeccion del tracto respiratorio superior.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Prevención",
+            "content": [
+              {
+                "text": "Actualmente, una de las maneras de disminuir el riesgo de otitis media es vacunar a su hijo contra el neumococo, de acuerdo con el calendario de vacunación local, y contra la influenza todos los años. Otras medidas que también pueden reducir el riesgo son: lavarse las manos, evitar ambientes donde haya humo de cigarrillo, nunca acostar a un niño con un biberón.<sup>(1)</sup>"
+              },
+              {
+                "text": "La lactancia materna ayuda a reducir el riesgo de los bebés de contraer otitis media<sup>(2)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Tratamiento",
+            "content": [
+              {
+                "text": "El tratamiento puede incluir medicamentos para el dolor, la fiebre y en ocasiones antibióticos por varios días. Es importante cumplir la prescripción del médico. También se indican medicamentos para reducir el dolor y la fiebre. Si se prescribe un antibiótico, es muy importante dárselo a un niño exactamente como lo indique el médico, todos los días indicados.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Referencias",
+            "order_list": [
+              {
+                "text": "NATIONAL INSTITUTES OF HEALTH - NATIONAL INSTITUTE ON DEAFNESS AND OTHER COMMUNICATION DISORDERS. Ear infections in children. Disponible en:"
+              },
+              {
+                "text": "MEDSCAPE. ¿Cómo la lactancia materna reduce el riesgo de otitis media en infantes? Disponible en: https://www.medscape.com/answers/994656-8300/how-does-breastfeeding-reduce-the-risk-of-otitis-media-om-in-infants Último acceso: Agosto 2020"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "meningitis-neumococica",
+        "title": "MENINGITIS NEUMOCÓCICA",
+        "image": "/images/diseases/enfermedad-neumococica/04.jpg",
+        "contents": [
+          {
+            "subtitle": "¿Qué es?",
+            "content": [
+              {
+                "text": "La meningitis es una infección de las membranas que recubren el cerebro y la médula espinal. El neumococo (Streptococcus pneumoniae) es un tipo de bacteria que causa la meningitis y es la forma más común de enfermedad neumocócica invasiva.<sup>(1)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "¿Quién está en riesgo?",
+            "content": [
+              {
+                "text": "Cualquiera puede tener enfermedad neumocócica, pero la edad y ciertas afecciones médicas son los principales factores de riesgo. Los niños menores de 2 años y los mayores de 65 años son el grupo más vulnerable.<sup>(2)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Signos y síntomas",
+            "content": [
+              {
+                "text": "Los síntomas incluyen la aparición repentina de<sup>(2)</sup>:"
+              },
+              {
+                "list": [
+                  {
+                    "text": "Rigidez en el cuello"
+                  },
+                  {
+                    "text": "Fiebre"
+                  },
+                  {
+                    "text": "Dolores de cabeza"
+                  },
+                  {
+                    "text": "Sensibilidad a la luz"
+                  },
+                  {
+                    "text": "Confusión"
+                  }
+                ]
+              },
+              {
+                "text": "Para los bebés y recién nacidos, es probable que no tengan los síntomas típicos mencionados o que sean difíciles de notar, en su lugar podrían: estar inactivos, irritables, no comer bien y vomitar."
+              }
+            ]
+          },
+          {
+            "subtitle": "Prevención",
+            "content": [
+              {
+                "text": "Las vacunas antineumocócicas son una manera eficaz de protegerse. También puede ayudar mantener hábitos saludables: recibir lactancia materna, no fumar y evitar la exposición al humo de cigarrillos, descansar y evitar el contacto cercano con personas enfermas.<sup>(2)</sup>"
+              }
+            ]
+          },
+          {
+            "subtitle": "Tratamiento",
+            "content": [
+              {
+                "text": "Es importante comenzar el tratamiento lo más pronto posible, los médicos suelen tratar la meningitis bacteriana con antibióticos. Siempre consulte con su médico.<sup>(2)</sup>"
+              },
+              {
+                "text": "Material para pacientes. Por favor consulte a su médico."
+              }
+            ]
+          },
+          {
+            "subtitle": "Referencias:",
+            "order_list": [
+              {
+                "text": "MEDLINE PLUS. Meningitis Neumocócica. Disponible en: https://medlineplus.gov/spanish/ency/article/000607.htm Último acceso: Septiembre 2020"
+              },
+              {
+                "text": "CDC. Meningitis Bacteriana. Disponible en: https://www.cdc.gov/meningitis/bacterial-sp.html. Último acceso: Septiembre 2020"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fiebre Amarilla",
+    "slug": "fiebre-amarilla",
+    "coverpage": "/images/diseases/fiebre-amarilla/01.jpg",
+    "image": "/images/diseases/fiebre-amarilla/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la fiebre amarilla?",
+        "content": [
+          {
+            "text": "Es una enfermedad infecciosa febril aguda, causada por un virus y transmitido por un mosquito. No hay transmisión directa de persona a persona.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Personas que residen o viajan a las zonas tropicales y subtropicales de América del Sur y África, donde el virus es endémico.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "os síntomas iniciales de la fiebre amarilla son aparición repentina de fiebre, escalofríos, dolor de cabeza intenso, dolor de espalda y cuerpo en general, náuseas y vómitos, cansancio y debilidad. La mayoría de las personas mejoran después de estos síntomas iniciales."
+          },
+          {
+            "text": "Algunos casos pueden ser más severos: la persona puede experimentar síntomas como fiebre alta, piel amarilla, sangrado y, finalmente, shock e insuficiencia orgánica múltiple. Aproximadamente del 30 al 60% de los afectados con esta forma de la enfermedad pueden fallecer.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "El virus se transmite a las personas por la picadura de un mosquito infectado.(1) En las áreas forestales, el vector principal es el mosquito del género Haemagogus. En el entorno urbano, el mosquito Aedes aegypti es el principal transmisor.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "Actualmente no existe un tratamiento para esta enfermedad, por lo que la vacunación es la principal forma de prevención. Solo se requiere una dosis para conferir inmunidad de por vida. Para la vacunación de cualquier tipo se debe visitar a un profesional del área de la salud para que evalúe si el individuo es apto y puede vacunarse."
+          },
+          {
+            "text": "También se recomienda el uso de repelentes. Si es posible, use ropa de manga larga, pantalones y medias de color claro que facilita la localización de insectos y evita las picaduras."
+          },
+          {
+            "text": "En caso de realizar un viaje a países de riesgo, averiguar si exigen vacuna contra la fiebre amarilla para el ingreso.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "No existe un tratamiento específico para la enfermedad.<sup>(1)</sup> Consulte a su médico para obtener más información si sospecha de fiebre amarilla."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "COLOMBIA. Ministerio de Salud. Sobre la fiebre amarilla. Disponible en: https://www.minsalud.gov.co/salud/publica/PET/Paginas/Fiebre-amarilla.aspx"
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Fiebre amarilla: Síntomas. Disponible en: https://www.cdc.gov/yellowfever/symptoms/index.html Último acceso: Julio 2020"
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Fiebre amarilla. Preguntas frecuentes sobre el amarillo. 2019. Disponible en: https://www.cdc.gov/yellowfever/qa/index.html. Acceso el 27 de agosto. 2019."
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Fiebre amarilla. Transmisión. Disponible en:  https://www.cdc.gov/yellowfever/transmission/index.html Último acceso: Julio 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hepatitis A",
+    "slug": "hepatitis-a",
+    "coverpage": "/images/diseases/hepatitis-a/02.jpg",
+    "image": "/images/diseases/hepatitis-a/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es?",
+        "content": []
+      },
+      {
+        "subtitle": "",
+        "content": [
+          {
+            "text": "La hepatitis A es una enfermedad contagiosa causada por el virus A (VHA) que causa inflamación aguda del hígado. Generalmente no tiene síntomas. Cuando aparecen los síntomas, aparecen de 2 a 7 semanas después de la infección. En casos raros, la hepatitis A causa insuficiencia hepática e incluso la muerte, esto es más común en personas mayores.<sup>(1)(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Personas que viajan o viven en países donde la enfermedad es común, que han tenido relaciones sexuales con personas infectadas con el virus de la hepatitis A, usuarios de drogas ilícitas (inyectables o no), personas con trastornos de la coagulación y personas que viven con personas infectadas con el virus (miembros de la familia o cuidadores) y todos los niños a la edad de 1 año.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "Los síntomas generalmente aparecen de dos a siete semanas después de la infección. El paciente presenta fiebre, náuseas, vómitos, heces grises, cansancio, dolor abdominal, dolor en las articulaciones, pérdida de apetito, orina oscura e ictericia. No todas las personas infectadas tienen síntomas, siendo la ocurrencia más común en adultos. Por lo general, duran menos de dos meses, pero algunas personas pueden continuar con los síntomas hasta por seis meses.<sup>(2)</sup>"
+          },
+          {
+            "image": "/images/diseases/hepatitis-a/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "El virus de la hepatitis A se transmite por vía fecal-oral, por contacto entre individuos o por agua o alimentos contaminados. La enfermedad puede transmitirse cuando una persona infectada no se lava las manos adecuadamente o cuando se manipula material contaminado con el virus (pañales, orinal) de personas infectadas y  con mala higiene. También se transmite cuando hay relaciones sexuales con personas infectadas.<sup>(1)</sup>"
+          },
+          {
+            "text": "La contaminación de los alimentos puede ocurrir en cualquier momento: en el cultivo, la cosecha, el procesamiento, la manipulación e incluso después de la cocción. Esto generalmente ocurre donde la hepatitis A es común y en lugares con condiciones sanitarias más pobres.<sup>(1)(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La principal manera de prevenir la hepatitis A es la vacunación. Otras formas de prevención consisten en contar con sistemas adecuados de abastecimiento de agua potable, eliminación de aguas residuales de la comunidad y medidas de higiene personal como lavarse las manos.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "El tratamiento de la hepatitis A es descanso, nutrición adecuada, abundantes líquidos y control médico. Algunas personas deben ser hospitalizadas y el paciente puede tardar algunos meses en comenzar a sentirse mejor.<sup>(1)</sup> Recuerde consultar a su médico si sospecha una infección por hepatitis A."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Hepatitis A. 2019. Disponible en: https://www.cdc.gov/hepatitis/hav/pdfs/HepAGeneralFactSheet.pdf.  Ultimo Acceso en: Agosto 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Hepatitis A QuestionsU and Answers for the Public. 2019. Disponible en: https://www.cdc.gov/hepatitis/hav/afaq.htm Acesso Agosto 2020."
+          },
+          {
+            "text": "ORGANIZACIÓN MUNDIAL DE LA SALUD. Hepatitis A. News Room. Disponible en:  https://www.who.int/es/news-room/fact-sheets/detail/hepatitis-a. Último acceso: Junio 2020timo acceso: Junio 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hepatitis B",
+    "slug": "hepatitis-b",
+    "coverpage": "/images/diseases/hepatitis-b/01.jpg",
+    "image": "/images/diseases/hepatitis-b/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es?",
+        "content": [
+          {
+            "text": "La hepatitis B es una enfermedad infecciosa causada por el virus B (VHB). Se considera una infección de transmisión sexual (ITS)  que causa afectación hepática y puede desarrollarse en forma crónica o aguda.<sup>(1)</sup>"
+          },
+          {
+            "text": "La hepatitis B aguda es una infección a corto plazo que ocurre dentro de los primeros seis meses después de que una persona se infecta con el virus. La enfermedad en su forma crónica se refiere a una infección a largo plazo, que con el tiempo puede causar problemas de salud graves, como daño hepático, cáncer de hígado, cirrosis e incluso la muerte."
+          },
+          {
+            "text": "La probabilidad de desarrollar la enfermedad en su forma crónica depende de la edad a la que la persona fue infectada, el 90% de los bebés infectados desarrollarán la forma crónica. En contraste, solo el 5% de los adultos desarrollan esta forma.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "El grupo de riesgo incluye bebés nacidos de madres infectadas, usuarios de drogas inyectables, personas que tienen múltiples parejas sexuales, profesionales de la salud, cuidadores, pacientes sometidos a hemodiálisis y personas que viajan a países donde existe una alta prevalencia de infección por el virus de la hepatitis B.<sup>(2)(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "Muchas personas no tienen síntomas y desconocen que están infectadas. Entre los síntomas que se pueden presentar están: fiebre, sensación de cansancio, falta de apetito, mala digestión, vómitos, piel y ojos amarillos, orina oscura, heces grises y dolor en las articulaciones.<sup>(2)</sup> Y la hepatitis B crónica puede causar problemas de salud graves, como daño hepático, cirrosis, cáncer de hígado.<sup>(3)</sup>"
+          },
+          {
+            "image": "/images/diseases/hepatitis-b/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "El virus de la hepatitis B se transmite cuando la sangre, el semen u otros fluidos corporales de una persona con la enfermedad entran en contacto con el cuerpo de una persona no infectada. El virus también se puede transmitir a través de las relaciones sexuales sin condón, compartiendo agujas, jeringas y el uso de drogas inyectables, transfusiones de sangre (contacto con sangre contaminada) y en el momento del parto, si la madre es portadora. Este virus no se transmite al amamantar, compartir cubiertos, abrazarse, besarse, darse la mano, toser, estornudar o alimentos y agua contaminados.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "El uso de condones, las practicas seguras en el uso de agujas y la vacunación son las principales formas de evitar la contaminación por el virus de la hepatitis B y las graves consecuencias asociadas con él.<sup>(1)(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "Para el tratamiento de enfermedades agudas, el médico generalmente recomienda descanso, nutrición adecuada, hidratación y monitoreo médico. Las personas con hepatitis B crónica deben someterse a pruebas de detección de complicaciones hepáticas y controlarse regularmente. Los tratamientos disponibles pueden retrasar o prevenir los efectos de la enfermedad en el hígado.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Hepatitis B General Information. 2016. Disponible en: &lt;http://www.cdc.gov/hepatitis/hbv/pdfs/hepbgeneralfactsheet.pdf&gt;. Último acceso: Junio 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Viral Hepatitis. Hepatitis B Questions and Answers for health professionals. 2019 Disponible en: &lt;http://www.cdc.gov/hepatitis/hbv/hbvfaq.htm#treatment&gt;. Último acceso: Junio 2020"
+          },
+          {
+            "text": "WORLD HEALTH ORGANIZATION. Hepatitis B. 2019. Disponible en: &lt;http://www.who.int/mediacentre/factsheets/fs204/en/&gt;. Último acceso: Junio 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "<i>\"Haemophilus influenzae\"</i> tipo b (Hib)",
+    "titleMenu": "Hib (<i>\"Haemophilus influenzae\"</i> tipo b)",
+    "titlePage": "Infecciones causadas por <i>\"Haemophilus influenzae\"</i> tipo b",
+    "slug": "hib",
+    "coverpage": "/images/diseases/hib/02.jpg",
+    "image": "/images/diseases/hib/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la enfermedad de Hib?",
+        "content": [
+          {
+            "text": "Hib (o <i>\"Haemophilus influenzae\"</i> tipo b) es una bacteria que puede estar presente en la nariz y la garganta y causar varias enfermedades graves, como la meningitis (una infección del cerebro y la médula espinal).<sup>(1)</sup>"
+          },
+          {
+            "text": "Genera un Amplio espectro de enfermedades que incluyen desde meningitis hasta neumonía, pero también celulitis (infección de la piel), artritis séptica (infección de las articulaciones) y epiglotitis (infección de la epiglotis que provoca obstrucción de la tráquea). Los tipos de secuelas varían: muchas de ellas son en forma de daño neurológico, que incluye ceguera, sordera y alteración del desarrollo.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Cómo se transmite?",
+        "content": [
+          {
+            "text": "Casi todos los niños no vacunados están expuestos a Hib antes de los cinco años. . La bacteria <i>\"Haemophilus influenzae\"</i>  tipo B se propaga por gotitas exhaladas y se encuentra habitualmente en las fosas nasales y la garganta de individuos sanos que viven en regiones en las que no se lleva a cabo la vacunación.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Cualquiera puede contraer la enfermedad de Hib, pero 9 de cada 10 casos ocurren en bebés y niños pequeños (<5 años). Incluso con tratamiento, aproximadamente 1 de cada 20 niños que desarrollan meningitis causada por Hib muere. Los niños con sistemas inmunes debilitados (incluidos los infectados con el VIH) también tienen más riesgo de desarrollar la enfermedad Hib. El riesgo de la enfermedad de Hib es mayor en áreas superpobladas y en malas condiciones de vida.<sup>(2)</sup>"
+          },
+          {
+            "image": "/images/diseases/hib/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Cuáles son los síntomas?",
+        "content": [
+          {
+            "text": "Si la bacteria Hib llegan al torrente sanguíneo, puede causar enfermedades con síntomas que varían según la parte del cuerpo infectada.<sup>(2)</sup> La fiebre alta es un síntoma común de las infecciones más graves. La infección por Hib puede causar meningitis, una infección del tejido que recubre el cerebro3. Los síntomas de meningitis incluyen fiebre, convulsiones, dolor de cabeza, rigidez en el cuello y sensibilidad a la luz<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Cómo proteger a tu hijo?",
+        "content": [
+          {
+            "text": "Las vacunas contra el Hib ayudan a proteger a los niños pequeños cuando tienen el mayor riesgo de contraer la enfermedad por estas bacterias y tener complicaciones graves.<sup>(4)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias:",
+        "order_list": [
+          {
+            "text": "ORGANIZACIÓN MUNDIAL DE LA SALUD. Meningitis Fact Sheet. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/meningococcal-meningitis Último acceso: Septiembre 2020"
+          },
+          {
+            "text": "HISTORY OF VACCINES. Disponible en:  historyofvaccines.org/es/contenido/articulos/haemophilus-influenzae-tipo-b-hib. Último acceso: Julio 2020"
+          },
+          {
+            "text": "CENTRO DE PREVENCIÓN Y CONTROL DE ENFERMEDADES. Enfermedades por Hib y vacunas que las previene. Disponible en: https://www.cdc.gov/vaccines/parents/diseases/hib-sp.html. Último acceso: Julio 2020"
+          },
+          {
+            "text": "CENTRO DE PREVENCIÓN Y CONTROL DE ENFERMEDADES https://www.cdc.gov/hi-disease/vaccination-sp.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fspanish%2Fespecialescdc%2Fhib%2Findex.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Influenza",
+    "slug": "influenza",
+    "coverpage": "/images/diseases/influenza/03.jpg",
+    "image": "/images/diseases/influenza/03.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la influenza?",
+        "content": [
+          {
+            "text": "La influenza es una enfermedad viral grave, que puede conducir a la hospitalización y, a veces, a la muerte.<sup>(1)</sup> Los virus de la influenza A y B son los principales responsables de las epidemias estacionales; y el virus de la influenza A, de las principales pandemias.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Algunas personas tienen un mayor riesgo de complicaciones relacionadas con la influenza. Estas serían: los niños menores de cinco años, especialmente aquellos menores de dos años; personas mayores de 65 años de edad; mujeres embarazadas o dos semanas después del parto; y personas con enfermedades crónicas como asma, trastornos neurológicos, enfermedad pulmonar obstructiva crónica (EPOC), enfermedades cardíacas, trastornos sanguíneos, enfermedades que afectan el sistema inmunológico, entre otros.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "Los síntomas de la influenza incluyen: fiebre, tos, dolor de garganta, secreción nasal, dolor corporal, dolor de cabeza, escalofríos, cansancio y, a veces, diarrea y vómito."
+          },
+          {
+            "text": "Es importante observar los signos de emergencia en los niños: respiración rápida o dificultad para respirar, poca ingesta de líquidos, piel de color azulado, irritabilidad y no despertarse o interactuar, así como fiebre y tos más severa, o fiebre con manchas rojas en la piel. En los adultos, las señales de advertencia son dificultad para respirar o falta de aliento, dolor o presión en el pecho y el abdomen, mareos repentinos, confusión y vómito persistente.<sup>(3)</sup>"
+          },
+          {
+            "image": "/images/diseases/influenza/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "La transmisión ocurre principalmente cuando las personas infectadas tosen, estornudan o hablan y diseminan las gotas que contienen el virus. Estas gotas pueden entrar en contacto con la boca o la nariz de otras personas y posiblemente ser inhaladas, llegando a los pulmones. También es posible contraer la influenza al tocar una superficie u objeto que tiene el virus de la influenza y luego tocarse los ojos, la boca o la nariz.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La influenza se previenemediante la vacunación y las acciones preventivas diarias, tales como: lavarse las manos, especialmente antes de las comidas; cubrirse la nariz y la boca al estornudar o toser; no compartir artículos personales, como vasos y cubiertos; y mantener ambientes ventilados.<sup>(4)</sup> . Así como el aislamiento de las personas enfermas o con sospecha"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "Consulte a su médico para que le indique el mejor tratamiento para la influenza."
+          },
+          {
+            "video_title": "Mitos VS realidad de la Influenza",
+            "youtube_video": "https://www.youtube.com/embed/mscwi4LmuYc"
+          },
+          {
+            "iframe": "/pdf/poster-influenza.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Flu and you. 2016. Disponível em: &lt;http://www.cdc.gov/flu/pdf/freeresources/updated/fluandyou_upright.pdf&gt;. Acesso em: 21 out. 2016."
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Viruses types. Disponible en: https://espanol.cdc.gov/flu/about/viruses/types.htm Último acceso: Junio 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Flu Symptoms. Disponible en: https://espanol.cdc.gov/flu/symptoms/symptoms.htm Último acceso: Agosto 2020"
+          },
+          {
+            "text": "Centers for disease control and prevention (CDC). Hábitos saludables para prevenir la influenza. https://espanol.cdc.gov/flu/prevent/actions-prevent-flu.htm. Último acceso: Agosto 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Poliomielitis",
+    "slug": "poliomielitis",
+    "coverpage": "/images/diseases/poliomielitis/01.jpg",
+    "image": "/images/diseases/poliomielitis/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la polio?",
+        "content": [
+          {
+            "text": "La poliomielitis es una enfermedad muy contagiosa causada por un virus que invade el sistema nervioso y puede causar parálisis en cuestión de horas. El virus se transmite de persona a persona, principalmente por vía fecal-oral o, con menos frecuencia, a través de un vehículo común, como el agua o los alimentos contaminados, y se multiplica en el intestino."
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "La poliomielitis afecta sobre todo a los menores de cinco años.<sup>(1)</sup>"
+          },
+          {
+            "image": "/images/diseases/poliomielitis/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "Los síntomas iniciales son fiebre, cansancio, cefalea, vómitos, rigidez del cuello y dolores en los miembros. Una de cada 200 infecciones produce una parálisis irreversible (generalmente de las piernas), y un 5% a 10% de estos casos fallecen por parálisis de los músculos respiratorios.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La poliomielitis no tiene cura, pero es prevenible. Cuando se administra varias veces, la vacuna antipoliomielítica puede conferir una protección de por vida.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias:",
+        "order_list": [
+          {
+            "text": "Organización Mundial de la Salud https://www.who.int/es/news-room/fact-sheets/detail/poliomyelitis.  Último acceso: Agosto 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Paperas",
+    "slug": "paperas",
+    "coverpage": "/images/diseases/paperas/02.jpg",
+    "image": "/images/diseases/paperas/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué son las paperas?",
+        "content": [
+          {
+            "text": "Las paperas o parotiditis una enfermedad altamente contagiosa, causada por el virus Paramixovirus.<sup>(1)</sup> Es más común en niños en edad preescolar y adolescentes, pero también puede afectar a adultos a cualquier edad.<sup>(3)</sup> En algunos casos, causa complicaciones graves y, en casos raros, puede ser fatal.<sup>(4)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "El síntoma principal y más común de las paperas es la hinchazón de las mejillas y la mandíbula inflamada acompañado de fiebre.<sup>(2)</sup> Los primeros síntomas son fiebre, dolor de cabeza, dolor muscular, cansancio, pérdida de apetito y debilidad. Sin embargo, algunas personas que contraen la enfermedad no manifiestan sus síntomas o estos son muy leves.<sup>(2)</sup>"
+          },
+          {
+            "text": "Las complicaciones son poco frecuentes, pero algunas son potencialmente graves: La enfermedad también puede evolucionar a afecciones más severas, como meningitis, sordera temporal o permanente, encefalitis (inflamación del cerebro), mastitis (inflamación de los senos), orquitis (inflamación de los testículos) y ooforitis (inflamación de los ovarios).<sup>(4)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "El virus se transmite a través de gotitas, cuando la persona infectada tose o estornuda, o por contacto directo con la saliva de personas con virus.<sup>(1)(3)</sup> También puede ocurrir a través del contacto con objetos y / o utensilios contaminados. con secreción de la nariz y / o boca <sup>(1)</sup>"
+          },
+          {
+            "text": "El virus puede propagarse antes de que las glándulas se hinchen y hasta cinco días después."
+          },
+          {
+            "image": "/images/diseases/paperas/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La vacunación es la principal forma de prevenir que ocurra la enfermedad. A los niños la vacuna se administra usualmente una vacuna combinada que protege contra el sarampión, las paperas y la rubeola (SRP o triple viral). También se aconseja a los estudiantes universitarios, a los viajeros internacionales y, en particular, a los trabajadores de salud que se aseguren de tener las dos dosis de la vacuna triple viral.<sup>(5)</sup>"
+          },
+          {
+            "text": "Consulta con tu médico si tú o tu hijo manifiestan signos o síntomas de paperas."
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "El tratamiento se basa en los síntomas del paciente. Dado que son provocadas por un virus, los antibióticos no son efectivos. Las personas con paperas, normalmente, ya no contagian y pueden volver al trabajo o escuela alrededor de 5 días después de signos y síntomas.<sup>(3)</sup>"
+          },
+          {
+            "text": "Consulte a su médico para obtener más información sobre el tratamiento y la enfermedad."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias:",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Mumps and the vaccine (shot) to prevent it. 2016. Disponible en: https://www.cdc.gov/mumps/index.html Último Acceso: Julio 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Signos y síntomas de las paperas. Disponible en: https://www.cdc.gov/mumps/about/signs-symptoms-sp.html Último acceso: Julio 2020"
+          },
+          {
+            "text": "MAYO CLINIC. Paperas: Diagnóstico y Tratamiento. Disponible en: https://www.mayoclinic.org/es-es/diseases-conditions/mumps/diagnosis-treatment/drc-20375366 Último acceso: Julio 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Paperas: complicaciones. Disponible en https://www.cdc.gov/mumps/about/complications.html. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Paperas: vacunación. Disponible en https://www.cdc.gov/mumps/vaccination.html. Último acceso: Agosto 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rotavirus",
+    "slug": "rotavirus",
+    "coverpage": "/images/diseases/rotavirus/02.jpg",
+    "image": "/images/diseases/rotavirus/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es el rotavirus?",
+        "content": [
+          {
+            "text": "El rotavirus causa diarrea severa y vómito. La diarrea y el vómito frecuentes pueden conducir a una deshidratación severa, y si la deshidratación no se trata, puede ser fatal.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "La enfermedad afecta principalmente a bebés y niños pequeños.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "El rotavirus causa fiebre, diarrea acuosa, vómito y dolor en el abdomen. Estos síntomas pueden durar de tres a ocho días y pueden conducir a una deshidratación severa (pérdida de fluidos corporales)."
+          },
+          {
+            "text": "La deshidratación es muy peligrosa, especialmente para bebés, niños pequeños, ancianos y personas con otras enfermedades. Los síntomas de deshidratación incluyen disminución de la orina, sequedad de boca y garganta y mareos al estar de pie.<sup>(1)(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "El rotavirus se transmite fácilmente. Permanece en las heces de las personas infectadas y se transmite a través de contacto con las manos, pañales u objetos como juguetes, cambiadores y mango de puertas o pasamanos contaminadas con el virus. La enfermedad generalmente se propaga en las familias, hospitales y escuelas. El virus permanece en los objetos durante varios días. Incluso limpiando y desinfectando las superficies, es muy difícil prevenir la infección.<sup>(1)</sup>"
+          },
+          {
+            "image": "/images/diseases/rotavirus/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "El principal medio de protección contra el rotavirus es la vacunación.<sup>(1)</sup> Otras acciones preventivas incluyen prácticas de higiene, como:<sup>(3)</sup>"
+          },
+          {
+            "list": [
+              {
+                "text": "Higiene adecuada y técnicas de lavado de las manos: lavarse con jabón y agua antes de comer y después de ir al baño."
+              },
+              {
+                "text": "Limpieza de superficie duras, juguetes y mango de puertas"
+              },
+              {
+                "text": "Manejo apropiado de las evacuaciones y eliminación de pañales sucios"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "No existe un tratamiento específico, solo el control de los síntomas.<sup>(2)</sup>"
+          },
+          {
+            "text": "La mejor manera de prevenir la deshidratación es buscar ayuda médica y aumentar el consumo de líquidos."
+          },
+          {
+            "text": "Las condiciones más severas de deshidratación podrían requerir hospitalización para administración intravenosa."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Rotavirus and the Vaccine (Drops) to Prevent It. Disponible en: &lt;https://www.cdc.gov/vaccines/parents/diseases/rotavirus-basics-color.pdf&gt;. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "Stanford Children’s Health. Infecciones del Rotavirus. Disponible en: https://www.stanfordchildrens.org/es/topic/default?id=rotavirusinfections-90-P05650. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Rotavirus. Treatment. Disponible en: &lt;https://www.cdc.gov/rotavirus/about/treatment.html&gt; Último acceso: Agosto 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rubéola",
+    "slug": "rubeola",
+    "coverpage": "/images/diseases/rubeola/01.jpg",
+    "image": "/images/diseases/rubeola/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la rubéola?",
+        "content": [
+          {
+            "text": "La rubéola es una enfermedad causada por el virus de la rubéola.(1) La infección suele ser leve, con fiebre y erupción roja en la piel. Sin embargo, en mujeres embarazadas, el virus puede causar secuelas irreversibles para el feto.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "La rubéola afecta principalmente a niños y adultos jóvenes.<sup>(1)</sup>"
+          },
+          {
+            "text": "La enfermedad es leve en niños y las complicaciones no son comunes, siendo más frecuentes en adultos. En casos raros, la rubéola puede causar problemas graves, como infección del cerebro y sangrado.<sup>(1)</sup>"
+          },
+          {
+            "text": "Si afecta a una mujer que se encuentra en el primer trimestre del embarazo, existe entre un 80 a 90% de posibilidades que el bebé nazca con malformaciones congénitas, o que pueda producirse un aborto espontáneo."
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "En los niños, la rubéola generalmente causa fiebre baja y manchas rojizas en la piel que comienzan en la cara y se extienden al resto del cuerpo, náuseas y conjuntivitis leve. La característica más sobresaliente es tener los ganglios, principalmente del cuello, inflamados, síntomas parecidos al resfriado (tos, secreción nasal y ojos rojos) y dolor en las articulaciones, especialmente en pacientes jóvenes, en edad reproductiva.<sup>(1)</sup>"
+          },
+          {
+            "text": "Aunque no es grave, la rubéola es particularmente peligrosa en su forma congénita. En este caso, puede dejar secuelas irreversibles en el feto tales como: defectos oculares, autismo, malformación cardíaca, sordera y otros.<sup>(2)</sup>"
+          },
+          {
+            "image": "/images/diseases/rubeola/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "La rubéola se contagia cuando la persona infectada tose o estornuda. La enfermedad es más contagiosa cuando el individuo infectado tiene manchas rojas en la piel, pero puede transmitirse hasta siete días antes de que aparezcan las manchas rojas. Las personas que no tienen síntomas también pueden transmitir el virus.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La principal manera de prevenir la rubéola es vacunarse contra el sarampión, las paperas y la rubéola con una vacuna combinada. En el caso de infección, se recomienda que la persona infectada se mantenga alejada de aquellos que no han contraído la enfermedad.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "No existe un tratamiento específico para la rubéola.<sup>(1)</sup> Consulte a su médico para obtener más información sobre la rubéola y su tratamiento."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "ORGANIZACIÓN MUNDIAL DE LA SALUD. Rubeola. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/rubella Último acceso: Julio 2020"
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. La rubeola y la vacuna (inyección) para prevenirla. 2016. Disponible en: https://www.cdc.gov/vaccines/parents/diseases/rubella-basics-color.pdf. Acceso: Julio 2020"
+          },
+          {
+            "text": "KIDS HEALTH. Rubeola. Disponible en: https://kidshealth.org/es/parents/german-measles-esp.html. Último acceso: Julio 2020."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sarampión",
+    "slug": "sarampion",
+    "coverpage": "/images/diseases/sarampion/01.jpg",
+    "image": "/images/diseases/sarampion/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es?",
+        "content": [
+          {
+            "text": "El sarampión es una enfermedad respiratoria altamente contagiosa causada por un virus, que causa fiebre y erupción cutánea. En algunos niños, puede causar neumonía, sordera y daño cerebral de por vida. En casos raros, puede ser fatal.<sup>(1)(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Cualquier persona no vacunada puede estar en riesgo, pero es mayor y hay más posibilidades de complicaciones en bebés y niños pequeños, las mujeres embarazadas no vacunadas también son un grupo de riesgo."
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "El primer signo suele ser una fiebre muy alta. Otros síntomas que pueden ocurrir son tos, secreción nasal y enrojecimiento en los ojos. En la piel, aparece una erupción roja que comienzan en la cabeza y se extiende al resto del cuerpo."
+          },
+          {
+            "text": "Las complicaciones graves son más comunes en niños menores de 5 años o adultos mayores de 30 años. Los más graves incluyen ceguera, encefalitis (una infección que causa inflamación del cerebro), diarrea severa y deshidratación relacionada, entre otros.<sup>(2)</sup>"
+          },
+          {
+            "image": "/images/diseases/sarampion/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "El sarampión es una de las enfermedades más contagiosas del mundo. La transmisión puede ocurrir cuando una persona infectada con el virus del sarampión tose o estornuda.<sup>(2)</sup> El virus permanece activo y contagioso en el aire o en superficies infectadas por hasta 2 horas. Y puede ser transmitido por una persona infectada desde 4 días previos a la aparición de la erupción hasta 4 días después.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La principal manera de protegerse es vacunarse contra el sarampión, las paperas y la rubéola. Siempre consulte con su médico."
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "No existe un tratamiento específico para la enfermedad.<sup>(2)</sup> Consulte a su médico para obtener más información."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Measles 2016. Disponible en: < https://wwwnc.cdc.gov/travel/diseases/measles > Último acceso: Agosto 2020."
+          },
+          {
+            "text": "WORLD HEALTH ORGANIZATION. Measles. Disponible en: < https://www.who.int/news-room/fact-sheets/detail/measles>Último acceso: Agosto 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tétanos",
+    "slug": "tetanos",
+    "coverpage": "/images/diseases/tetanos/02.jpg",
+    "image": "/images/diseases/tetanos/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es el tétanos?",
+        "content": [
+          {
+            "text": "El tétanos es una enfermedad grave, causada por una toxina producida por la bacteria Clostridium tetani, que causa espasmos musculares dolorosos y puede ser fatal.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "Los síntomas del tétanos en niños comienzan con dolor de cabeza, contracción mandibular y espasmos musculares. El tétanos también causa rigidez muscular en todo el cuerpo, dificultad para tragar, convulsiones, fiebre, sudor, presión alta y frecuencia cardíaca elevada.<sup>(1)</sup> Es una enfermedad muy peligrosa, ya que puede causar dificultad respiratoria y parálisis. Los espasmos musculares pueden ser lo suficientemente fuertes como para romper huesos en niños pequeños.<sup>(1)</sup> Una de cada cinco personas que contraen la enfermedad puede morir.<sup>(1)</sup>"
+          },
+          {
+            "image": "/images/diseases/tetanos/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "La bacteria que causa el tétanos se encuentra en el suelo, el polvo y el estiércol. Puede ingresar al cuerpo cortando, magullando o incluso perforando la piel con una aguja. La persona también puede infectarse después de una quemadura o cuando un animal la muerde. El tétanos no se transmite de una persona a otra<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La principal manera de protegerse contra el tétanos es con la vacunación.<sup>(2)</sup> El cuidado inmediato de las heridas también puede ayudar a prevenir infecciones. La protección que entrega las vacunas no dura para toda la vida, eso significa que si usted ya tuvo tétanos o se vacunó en el pasado, igual tiene que obtener dosis de refuerzo para mantener un alto nivel de protección."
+          },
+          {
+            "text": "No posponga los primeros auxilios para heridas leves no infectadas, como ampollas, rasguños o cualquier rotura en la piel. Lávese las manos frecuentemente con agua y jabón.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "El tétanos es una emergencia médica y requiere hospitalización para el tratamiento inmediato indicado por el médico.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias:",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Tetanus and the Vaccine (Shot) to Prevent It. 2016. Disponible en: &lt;https://www.cdc.gov/vaccines/parents/diseases/tetanus-basics-color.pdf&gt;. Último acceso: Junio 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Tetanus: Prevention. Disponível em: &lt;https://www.cdc.gov/tetanus/about/prevention.html&gt;. Acesso em: 06 set. 2019."
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Tetanus: Diagnosis and treatment. Disponible en: < https://www.cdc.gov/tetanus/about/diagnosis-treatment.html >. Último acceso: junio 2020."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tos Ferina",
+    "slug": "tos-ferina",
+    "coverpage": "/images/diseases/tos-ferina/03.jpg",
+    "image": "/images/diseases/tos-ferina/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la tos ferina?",
+        "content": [
+          {
+            "text": "La tos ferina es una enfermedad infecciosa y altamente contagiosa causada por la bacteria <i>Bordetella pertussis</i>, que compromete el sistema respiratorio humano.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "La mayoría de los casos y muertes se concentran en niños menores de un año de edad, especialmente en los primeros seis meses de vida. Aunque los adultos tienen menos complicaciones que los niños, pueden ser una fuente de infección para los bebés con los que viven. Los adultos mayores y aquellos que tienen enfermedades crónicas en el pulmón, también pueden presentar complicaciones serias.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "La tos ferina puede causar complicaciones graves y a veces fatales en bebés y recién nacidos.<sup>(1)</sup>"
+          },
+          {
+            "text": "Los ataques de tos pueden durar varias semanas o meses. Los bebés y los recién nacidos pueden sentirse angustiados y volverse azulados (cianosis) debido a la dificultad para respirar<sup>(2)</sup>. Un 61% podría sufrir periodos breves donde deja de respirar (apnea) y aproximadamente la mitad de los bebés menores de un año que contraen tos ferina, puede necesitar atención hospitalaria.<sup>(3)</sup>"
+          },
+          {
+            "text": "Cuando son adultos las complicaciones de la tos ferina pueden incluir sinusitis, neumonía, otitis media, pérdida de peso, incontinencia urinaria, fractura de costillas y desmayos.<sup>(2)</sup>"
+          },
+          {
+            "text": "Los bebés sufren complicaciones como encefalopatía, convulsiones, desnutricion o incluso la muerte<sup>(4)</sup>.  Más del 90% de los bebés menores de 2 meses que están infectados con tos ferina son hospitalizados debido a complicaciones asociadas con la enfermedad.<sup>(5)</sup>"
+          },
+          {
+            "image": "/images/diseases/tos-ferina/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "La tos ferina se transmite fácilmente de persona a persona por las gotitas que se eliminan al toser, estornudar o hablar.<sup>(6)</sup>"
+          },
+          {
+            "text": "Muchos recién nacidos pueden contraer la tos ferina de hermanos o hermanas mayores, otros familiares o cuidadores, que pueden no saber que tienen la enfermedad, con los miembros de la familia como la principal fuente de infección en niños menores de 6 meses, principalmente la madre, responsable de la transmisión del 39% de los casos, los padres del 16% de los casos y los hermanos del 16 al 43% de los casos.<sup>(5)(7)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La principal manera de prevenir tos ferina entre bebés, niños, adolescentes, embarazadas y adultos es por medio de la vacunación<sup>(8)</sup>"
+          },
+          {
+            "text": "Otras medidas preventivas incluyen hábitos de higiene simples, como cubrirse la boca y la nariz con un pañuelo cuando tose o estornuda; no besar al bebé en la cara y las manos; lavarse las manos con agua y jabón durante al menos 20 segundos y evitar el contacto con personas enfermas es importante para prevenir la transmisión de tos ferina.<sup>(6)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias:",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE PREVENTION AND CONTROL. Pertussis (Whooping Cough) Questions and Answers. Disponible en: &lt;http://www.immunize.org/catg.d/p4212.pdf&gt;. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "DE SERRES, G. et al. Morbidity of pertussis in adolescents and adults. The Journal of Infectious Diseases, 182(1): 174-9, 2000."
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Pertussis (Whooping Cough). Complications. 2017. Disponible en: &lt;https://www.cdc.gov/pertussis/about/complications.html&gt;. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "WHO Position paper on pertussis Weekly epidemiological report Agust 2015 Disponible en : https://www.who.int/immunization/policy/position_papers/pertussis/en/  Último acceso: Julio 2020)"
+          },
+          {
+            "text": "HONG, J. et al. Update on pertussis and pertussis immunization. Korean Journal of Pediatrics, 53(5): 629-633, 2010."
+          },
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Pertussis (Whooping Cough). Prevention. 2017 Disponible en: &lt;https://www.cdc.gov/pertussis/about/prevention/index.html&gt;. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "CENTERS FOR DISEASE PREVENTION AND CONTROL. Pertussis (Whooping Cough). Causes and Transmission.2017. Disponible en: &lt;https://www.cdc.gov/pertussis/about/causes- transmission.html&gt;. Último acceso: Agosto 2020"
+          },
+          {
+            "text": "WILEY, KE. et al. Sources of pertussis infection in young infants: A review of key evidence informing targeting of the cocoon strategy. Vaccine,31(4): 618-25, 2013"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tuberculosis",
+    "slug": "tuberculosis",
+    "coverpage": "/images/diseases/tuberculosis/03.jpg",
+    "image": "/images/diseases/tuberculosis/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la tuberculosis?",
+        "content": [
+          {
+            "text": "La tuberculosis es una enfermedad causada por la bacteria Mycobacterium tuberculosis, que generalmente afecta los pulmones, pero también puede afectar otras partes del cuerpo, como los riñones, la columna vertebral y el cerebro. Si la enfermedad no se trata adecuadamente, puede ser fatal.<sup>(1)</sup>"
+          },
+          {
+            "text": "Los que contraen la bacteria que causa la tuberculosis no siempre están enfermos. Éstos se identifican como personas que tienen la infección latente. Las personas con infección latente no se sienten enfermas, no tienen síntomas y no pueden transmitir la bacteria de la tuberculosis a otras personas.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Hay dos grupos de individuos con alto riesgo de desarrollar la enfermedad: personas recientemente infectadas por la bacteria que causa la tuberculosis y personas en condiciones médicas que debilitan el sistema inmune (defensas). El primer grupo incluye personas en contacto cercano con las personas infectadas, niños menores de cinco años y personas que viven o trabajan en entornos como hospitales, refugios, centros penitenciarios, hogares de ancianos y residencias para discapacitados. El segundo grupo incluye portadores del VIH, usuarios de drogas ilícitas, diabéticos, personas que se han sometido a trasplantes de órganos, con cáncer, entre otros.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "En general, los síntomas de la tuberculosis incluyen debilidad, pérdida de peso, fiebre y sudoración nocturna. Los síntomas de la enfermedad, cuando afecta los pulmones, incluyen tos, dolor en el pecho y tos con sangre. Los síntomas de la enfermedad en otras partes del cuerpo dependen del área afectada.<sup>(2)</sup>"
+          },
+          {
+            "image": "/images/diseases/tuberculosis/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "La transmisión ocurre cuando una persona infectada con la bacteria tose, estornuda y habla. De esta manera, se liberan gotitas de secreción en el aire, que pueden infectar a otra persona. Dependiendo del medio ambiente, estos microorganismos pueden permanecer en el aire durante horas.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "En países con condiciones epidemiológicas específicas, como Latinoamérica, existen medidas de protección individual, como la vacuna BCG.<sup>(4)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Tratamiento",
+        "content": [
+          {
+            "text": "Es esencial que la persona con tuberculosis reciba atención médica y siga el tratamiento exactamente según lo prescrito por el profesional de la salud. Si el paciente interrumpe el tratamiento, la enfermedad puede regresar y las bacterias que aún no se han combatido pueden volverse resistentes a los medicamentos."
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Tuberculosis (TB) - Datos básicos sobre la tuberculosis, 2016. Disponible en: https://www.cdc.gov/tb/topic/basics/default.htm. Accedido: Accedido: 26 de agosto de 2019."
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Eliminación de TB. Tuberculosis: información general, 2011. Disponible en: https://www.cdc.gov/tb/publications/factsheets/general/tb.pdf . Acceso en: 26 de agosto de 2019."
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Tuberculosis (TB). Factores de riesgo de tuberculosis. 2016. Disponible en: https://www.cdc.gov/tb/topic/basics/risk.htm . Acceso en: 26 de agosto de 2019."
+          },
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. Tuberculosis: vacunas. Disponible en: https://www.cdc.gov/tb/esp/topic/basics/vaccines.htm"
+          },
+          {
+            "text": "ORGANIZACIÓN MUNDIAL DE LA SALUD. Las nuevas recomendaciones de la OMS para prevenir la tuberculosis aspiran a salvar millones de vidas. Disponible en: https://www.who.int/es/news-room/detail/24-03-2020-new-who-recommendations-to-prevent-tuberculosis-aim-to-save-millions-of-lives. Último acceso: Julio 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Varicela",
+    "slug": "varicela",
+    "coverpage": "/images/diseases/varicela/02.jpg",
+    "image": "/images/diseases/varicela/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es la varicela?",
+        "content": [
+          {
+            "text": "La varicela es una infección altamente contagiosa causada por el virus Varicela-zoster<sup>(1)</sup>, que causa fiebre y lesiones típicas en la piel y en las mucosas de la boca o genitales"
+          },
+          {
+            "text": "Es una de las enfermedades más comunes en niños menores de 10 años.(2) Los niños afectados por la enfermedad pueden perder hasta una semana de escuela.<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Cualquier persona que no haya tenido varicela o que no haya sido vacunada contra la enfermedad puede contraerla. Es más común en menores a 15 años.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "La enfermedad generalmente causa lesiones rojas con pequeñas ampollas llamadas vesículas acompañadas de picazón en la piel, fiebre, dolor de cabeza y cansancio. En algunos casos, la varicela puede causar complicaciones graves, como infecciones de la piel, deshidratación, neumonía y encefalitis (inflamación del cerebro).<sup>(1)</sup>"
+          },
+          {
+            "image": "/images/diseases/varicela/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "La varicela se propaga de las siguientes maneras: por gotitas respiratorias en el aire (tos o estornudos); contacto con la piel (apretones de manos o abrazos); tocando una superficie contaminada (manta o manija de la puerta).<sup>(1)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La principal manera de prevenirla es vacunándose contra la varicela. La vacunación es importante porque preserva no solo a la persona contra la enfermedad, sino a todos en su comunidad. Es especialmente importante para mujeres que planean tener un hijo, profesionales de la salud y aquellas personas con un sistema inmune más débil.<sup>(3)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias:",
+        "order_list": [
+          {
+            "text": "CENTROS DE CONTROL Y PREVENCIÓN DE ENFERMEDADES. La varicela y la vacuna (vacuna) para prevenirlo. 2016. Disponible en: https://www.cdc.gov/vaccines/parents/diseases/varicella-basics-color.pdf Último acceso: Julio 2020"
+          },
+          {
+            "text": "ORGANIZACIÓN MUNDIAL DE LA SALUD. Varicela. Disponible en: http://www.who.int/ith/diseases/varicella/en/. Último acceso: Julio 2020"
+          },
+          {
+            "text": "COMISIÓN DE SALUD PÚBLICA DE BOSTON. Hoja informativa - Varicela (varicela). Disponible en: https://www.bphc.org/whatwedo/infectious-diseases/Infectious-Diseases-A-to-Z/Pages/Chickenpox.aspx. Último acceso: Julio 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Virus del Papiloma Humano (VPH)",
+    "slug": "vph",
+    "coverpage": "/images/diseases/vph/01.jpg",
+    "image": "/images/diseases/vph/01.jpg",
+    "contents": [
+      {
+        "subtitle": "¿Qué es el VPH?",
+        "content": [
+          {
+            "text": "El VPH es una infección de transmisión sexual (ITS) muy común. Es tan común que prácticamente todos los hombres y mujeres sexualmente activos pueden infectarse en algún momento de sus vidas. (1) El virus del Papiloma Humano (VPH) es el mayor causante del cáncer de cuello de útero.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "¿Quién está en riesgo?",
+        "content": [
+          {
+            "text": "Cualquier persona que sea sexualmente activa puede contraer el VPH, incluso si tiene relaciones sexuales con una sola pareja en su vida. También es posible desarrollar síntomas años después de haber tenido relaciones sexuales con las personas infectadas, lo que hace difícil detectar cuándo se produjo esta infección. Las personas con más riesgo de infectarse son los adolescentes y menores de 25 años.<sup>(2)</sup>"
+          }
+        ]
+      },
+      {
+        "subtitle": "Signos y síntomas",
+        "content": [
+          {
+            "text": "En la mayoría de los casos, el cuerpo humano elimina el VPH de forma natural y no causa ningún problema, pero cuando permanece, puede causar verrugas genitales, lesiones premalignas y cáncer. Las verrugas genitales aparecen como lesiones planas, en forma de coliflor cerca del área genital.  Las lesiones premalignas no producen síntomas hasta que progresan a cáncer.<sup>(1)</sup>"
+          },
+          {
+            "text": "Algunos tipos de VPH pueden causar cáncer de cuello uterino, pero este puede tardar 20 años o más en desarrollarse después de una infección por VPH. El VPH también producen cáncer de ano, vagina, vulva, pene y orofaringe.<sup>(1)</sup>"
+          },
+          {
+            "image": "/images/diseases/vph/02.jpg"
+          }
+        ]
+      },
+      {
+        "subtitle": "Transmisión",
+        "content": [
+          {
+            "text": "Se transmite a través del contacto directo con la piel o mucosa infectada. La forma principal de contagio es a través de las relaciones sexuales, que incluyen el contacto genital oral, genital-genital o incluso genital manual. "
+          }
+        ]
+      },
+      {
+        "subtitle": "Prevención",
+        "content": [
+          {
+            "text": "La prevención puede llevarse a cabo de varias maneras<sup>(1)</sup>:"
+          },
+          {
+            "list": [
+              {
+                "text": "Vacunación: protege a hombres y mujeres contra las enfermedades causadas por el VPH.<sup>(1)</sup> La vacuna en los niñas y niñas hasta los 15 años requiere de dos dosis, con un intervalo de tiempo de 6 meses a 1 año entre la primera y segunda dosis. Después de los 15 años se necesitan 3 dosis.<sup>(2)</sup>"
+              },
+              {
+                "text": "Examen preventivo para el cáncer cervical: se recomienda que la recolección para el examen preventivo (citología vaginal o citología patológica) se inicie a los 21 años para las mujeres que han tenido o tienen actividad sexual y los exámenes periódicos deben continuar hasta los 65 años.<sup>(1)</sup> Hable con su médico para encontrar el momento ideal para realizar la prevención."
+              },
+              {
+                "text": "Si es sexualmente activa: use un condón en todas las relaciones sexuales, ya que disminuye la posibilidad de infección con el virus.<sup>(1)</sup>"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtitle": "Referencias",
+        "order_list": [
+          {
+            "text": "CENTERS FOR DISEASE CONTROL AND PREVENTION. Genital HPV Infection  CDC Fact Sheet. 2014. Disponible en: https://www.cdc.gov/std/hpv/HPV-FS-July-2017.pdf. Último acceso: Julio 2020."
+          },
+          {
+            "text": "Organización Mundial de la Salud, Position Paper Papiloma Virus humano Mayo 2017 Disponible en: https://www.who.int/immunization/policy/position_papers/hpv/en/ Último acceso: Julio 2020"
+          },
+          {
+            "text": "MAYO CLINIC. VPH: Causas y Síntomas. Disponible en: https://www.mayoclinic.org/es-es/diseases-conditions/hpv-infection/symptoms-causes/syc-20351596. Último acceso: Julio 2020"
+          }
+        ]
+      }
+    ]
+  }
+]

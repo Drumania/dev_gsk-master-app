@@ -1,0 +1,875 @@
+[
+  {
+    "name": "BIOSIGNO AMÉRICA",
+    "address": "CALLE 44 A # 79-145",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 1:00 P.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "BIOSIGNO PRADO",
+    "address": "CALLE 58 # 50-40",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M SABADO 7:00 A.M 1:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "CAFI SALUD SAN JUAN",
+    "address": "CALLE 44 # 72-61",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M SABADO 8:00 A.M 11:00 A.M 4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD ALFONSO LÓPEZ METROSALUD",
+    "address": "CARRERA 71 # 91A-2",
+    "phone": "2573800-4416189",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD ALTAVENIDAISTA METROSALUD",
+    "address": "CALLE 18 # 105-15",
+    "phone": "3430832-3472811",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD ARANJUEZ METROSALUD",
+    "address": "CARRERA 50A # 93-39",
+    "phone": "2361632-5220304",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD BELÉN RINCÓN METROSALUD",
+    "address": "CARRERA 81 # 1 Sur-22",
+    "phone": "2388000-2387580",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD CARPINELO METROSALUD",
+    "address": "CALLE 97A # 24F-90",
+    "phone": "",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD CIVITÓN METROSALUD",
+    "address": "CALLE 77C # 91-65",
+    "phone": "",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD EL LIMONAR METROSALUD",
+    "address": "CARREA 3A Este # 4DD-50",
+    "phone": "2864111-3028754",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD EL POBLADO METROSALUD",
+    "address": "CALLE 14 # 43B-9",
+    "phone": "2661941-2668047",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD ENCISO METROSALUD",
+    "address": "CARREA 29A # 59-31",
+    "phone": "2842434-2842554",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD FLORENCIA METROSALUD",
+    "address": "CARRERA 74 # 111-20",
+    "phone": "4613939-4644147",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD GUAYABAL METROSALUD",
+    "address": "CALLE 9 SUR # 52-42",
+    "phone": "2550606-2856546",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD GUAYAQUIL METROSALUD",
+    "address": "CARRERA 50 # 44-27",
+    "phone": "5138026-5117505",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD LA LOMA METROSALUD",
+    "address": "CALLE 55A # 125A-5",
+    "phone": "4385477-4387766",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD LA QUIEBRA METROSALUD",
+    "address": "CALLE 48DD # 99EE-3",
+    "phone": "2529475-4920794",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD LAS MARGARITAS METROSALUD",
+    "address": "CARREA 108C # 62-25",
+    "phone": "4270539-4274248",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD LLANADITAS METROSALUD",
+    "address": "CALLE 58 # 21-68",
+    "phone": "2841992-2926587",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD LORETO METROSALUD",
+    "address": "CARREA 28A # 38F-84",
+    "phone": "2696946-2262264",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD MORAVENIDAIA METROSALUD",
+    "address": "CARRERA 55 # 79B-29",
+    "phone": "2126612-2630080",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD PABLO VI METROSALUD",
+    "address": "CALLE 120 # 50-11",
+    "phone": "4611213-4618918",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD PALMITAS METROSALUD",
+    "address": "CALLE 22 # 36-47",
+    "phone": "3870107-3870106",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD PICACHITO METROSALUD",
+    "address": "CARRERA 83B # 97AA-82",
+    "phone": "2677935-2675618",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD POPULAR I METROSALUD",
+    "address": "CARRERA 43B # 108-6",
+    "phone": "2580024-5226174",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD RAIZAL METROSALUD",
+    "address": "CARREA 32 # 71A-51",
+    "phone": "2541298-2542233",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD ROBLEDO METROSALUD",
+    "address": "CALLE 75 # 75-29",
+    "phone": "2341587-2340070",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SALVADOR METROSALUD",
+    "address": "CARREA 36 # 40A-16",
+    "phone": "2173194-2178276",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SAN BLAS METROSALUD",
+    "address": "CALLE 89 # 38-61",
+    "phone": "2134274-5713750",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SAN CAMILO METROSALUD",
+    "address": "CARRERA 88 # 80-150",
+    "phone": "4422222-4422488",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTA ELENA METROSALUD",
+    "address": "ANTIGUO RETÉN KILOMETRO 16",
+    "phone": "53828180",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTA ROSA DE LIMA METROSALUD",
+    "address": "CALLE 49DD # 87-11",
+    "phone": "2349478-2341136",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTANDER METROSALUD",
+    "address": "CARRERA 78 # 110A-21",
+    "phone": "2731444-4620046",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTO DOMINGO SAVENIDAIO METROSALUD",
+    "address": "CARREA 33 # 107B-15",
+    "phone": "5292833-5290952",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD SOL DE ORIENTE METROSALUD",
+    "address": "CARREA 17B # 56EE-89",
+    "phone": "",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD TRINIDAD METROSALUD",
+    "address": "CALLE 27 # 65D-49",
+    "phone": "2650068-652632",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA DEL SOCORRO METROSALUD",
+    "address": "CALLE 105 # 48-73",
+    "phone": "5240317-2581568",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA LAURA METROSALUD",
+    "address": "CARREA 105B # 34BB-80",
+    "phone": "4963825-4933973",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLATINA",
+    "address": "CARREA 22B # 21-68",
+    "phone": "2691461-2272674",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "CENTRO DE VACUNACIÓN LAS VEGAS",
+    "address": "CALLE 2 sur # 46-55",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 9:00 A.M 12:00 P.M SABADO 9:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO ADVENTISTA",
+    "address": "CARREA 84 # 33AA-145",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CENTRO PARA LOS TRABAJADORES AGUACATALA",
+    "address": "CARREA 48 # 10 SUR-72",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "CALLEINICA BOLIVARIANA",
+    "address": "CARREA 72A # 78B-50",
+    "phone": "44559380",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 1:00 P.M 5:00 P.M SABADO 7:00 A.M"
+  },
+  {
+    "name": "CALLEINICA COLSANITAS",
+    "address": "CALLE 11B SUR # 44",
+    "phone": "26280660",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 1:00 P.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CALLEÍNICA DEL PRADO",
+    "address": "CARREA 50A # 64-62",
+    "phone": "",
+    "schedule": "LUNES A SABADO 8:00 A.M 4:30 P.M"
+  },
+  {
+    "name": "CALLEINICA LAS AMERICAS",
+    "address": "DIAGONAL 75B # 2A-80",
+    "phone": "3459205",
+    "schedule": "LUNES A VIERNES 10:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "CALLEÍNICA LAS VEGAS",
+    "address": "CALLEÍNICA LAS VEGAS",
+    "phone": "",
+    "schedule": "VACUNACIOÓN DEL RECIÉN NACIDO",
+    "complement": "2 PISO"
+  },
+  {
+    "name": "CALLEINICA NOEL",
+    "address": "CALLE 64 # 50-39",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SALUDCOOP",
+    "address": "CARREA 49 # 58",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 1:00 P.M",
+    "complement": "JUAN LUIS LONDOÑO"
+  },
+  {
+    "name": "CALLEINISANITAS EPS SANITAS",
+    "address": "CALLE 29 # 44-140",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 6:30 A.M 6:30 P.M SABADO 6:30 A.M 1:00 P.M"
+  },
+  {
+    "name": "COMFAMA ARANJUEZ",
+    "address": "CARREA 51B # 91-95",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COMFAMA BELÉN",
+    "address": "COMFAMA BELÉN",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COMFAMA MANRIQUE",
+    "address": "CARREA 45 # 71-68",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 1:00 P.M 4:00 P.M SABADO 8:00 A.M"
+  },
+  {
+    "name": "COMFAMA PEDREGAL",
+    "address": "CALLE 103C # 76AA-24",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "COMFAMA SAN IGNACIO",
+    "address": "COMFAMA SAN IGNACIO",
+    "phone": "2156607",
+    "schedule": ""
+  },
+  {
+    "name": "COMFENALCO",
+    "address": "CALLE 54 # 49-124",
+    "phone": "5123366",
+    "schedule": "VACUNACIÓN DOMICILIARIA"
+  },
+  {
+    "name": "COMSOCIAL ESTADIO",
+    "address": "CARREA 68 # 48D-05",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 3:00 P.M",
+    "complement": "Casa 3"
+  },
+  {
+    "name": "CONS. LUCIANO VÉLEZ SEDE POBLADO",
+    "address": "CALLE 7 # 39-290",
+    "phone": "2660104",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO 8:00 A.M 11:30 A.M",
+    "complement": "Con 806"
+  },
+  {
+    "name": "CONS. LUCIANO VELEZ SEDE SOMA",
+    "address": "AVENIDA LA PLAYA # 45-93",
+    "phone": "5127215",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 11:30 P.M",
+    "complement": "CON 306"
+  },
+  {
+    "name": "CONSULTORIO PEDIATRICO Y DE VACUNACIÓN HERNÁN LÓPEZ",
+    "address": "CALLE 2 sur # 46-55",
+    "phone": "2686814",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO 8:30 A.M 12:00 P.M",
+    "complement": "Con 350"
+  },
+  {
+    "name": "COOMEVA",
+    "address": "COOMEVA",
+    "phone": "4132600",
+    "schedule": ""
+  },
+  {
+    "name": "COOMEVA CALLEINICA MEDELLIN",
+    "address": "COOMEVA CALLEINICA MEDELLIN",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "COOMEVA EPS INTEGRADO HPTU",
+    "address": "CARREA 46 # 49-146",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COOMEVA MP LAURELES",
+    "address": "CARREA 66B # 32D-36",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 11:30 A.M"
+  },
+  {
+    "name": "COOMEVA MP POBLADO",
+    "address": "CALLE 7 # 39-165",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COOMEVA MP PREMIUN PLAZA",
+    "address": "Centro Comercial Premium Plaza",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 10:00 A.M 7:00 P.M SABADO 9:00 A.M 12:00 P.M",
+    "complement": "Loc. 1106"
+  },
+  {
+    "name": "COOMEVA UBA BELÉN",
+    "address": "DIAGONAL 75B # 6-105",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:30 A.M 4:00 P.M SABADO 9:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COOMEVA UBA CALLEINICA DEL PRADO",
+    "address": "COOMEVA UBA CALLEINICA DEL PRADO",
+    "phone": "4481212",
+    "schedule": ""
+  },
+  {
+    "name": "COOMEVA UBA LA 33",
+    "address": "COOMEVA UBA LA 33",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "COOMEVA UBA POBLADO",
+    "address": "Centro Comercial Monterrey",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:30 P.M SABADO 8:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "COOMEVA UNIDAD DE PREVENCION CALLEÍNICA",
+    "address": "COOMEVA UNIDAD DE PREVENCION CALLEÍNICA",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "COOPERATIVA SAN ESTEBAN",
+    "address": "CARREA 131 # 62-28",
+    "phone": "",
+    "schedule": "SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COOPSANA BOLIVIA",
+    "address": "CALLE 56 # 41-28",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "COOPSANA CENTRO",
+    "address": "CARREA 45 # 54-54",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "COOPSANA NORTE",
+    "address": "CARREA 65 # 97-5",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "CRUZ BLANCA CENTRO",
+    "address": "CARREA 43 # 54-2",
+    "phone": "3103795424",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CRUZ BLANCA SAN DIEGO",
+    "address": "CARREA 48 # 37-24",
+    "phone": "2627666",
+    "schedule": ""
+  },
+  {
+    "name": "CRUZ BLANCA SAN JUAN",
+    "address": "CARREA 72 # 44-47",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  { "name": "CRUZ ROJA", "address": "CRUZ ROJA", "phone": "", "schedule": "" },
+  {
+    "name": "CUARTA BRIGADA",
+    "address": "CARREA 77C # 51-136",
+    "phone": "4216365",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 4:00 P.M"
+  },
+  {
+    "name": "FUNDACION CIC",
+    "address": "CALLE 7 # 39-290",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:30 A.M 5:30 P.M SABADO 9:00 A.M 12:00 P.M",
+    "complement": "Con 816"
+  },
+  {
+    "name": "FUNDACION MEDICO",
+    "address": "PREVENTIVA - CALLE 51 # 42",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:30 P.M 2:30 P.M 4:30 P.M"
+  },
+  {
+    "name": "HGM",
+    "address": "CARREA 48 # 32-102",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 1:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "INSTITUTO DEL TORAX LA AMERICA",
+    "address": "CALLE 44 # 82-30",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 10:00 A.M 12:00 P.M 1:00 P.M 3:00 P.M"
+  },
+  {
+    "name": "INSTITUTO DEL TORAX LA PAZ",
+    "address": "CALLE 57 # 50A-37",
+    "phone": "",
+    "schedule": "LUNES, MARTES, JUEVES 7:00 A.M 11:00 P.M VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M"
+  },
+  {
+    "name": "INTERPEDIATRICA",
+    "address": "CALLE 7 # 39-197",
+    "phone": "3213988",
+    "schedule": "LUNES A VIERNES 9:00 A.M 5:30 P.M SABADO 9:00 A.M 2:00 P.M",
+    "complement": "Con 1106"
+  },
+  { "name": "IPS MEGA", "address": "IPS MEGA", "phone": "", "schedule": "" },
+  {
+    "name": "IPS SURA AGUACATALA O SURAMERICANA",
+    "address": "CARRERA 48 # 10 sur-72",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA ALMACENTRO",
+    "address": "CARRERA 43A # 34-95",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA BELEN",
+    "address": "CARRERA 81 # 26-40",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA CENTRO",
+    "address": "CARRERA 43 # 50-58",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA INDUSTRIALES",
+    "address": "CARRERA 48 # 26-50",
+    "phone": "3506842",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA LAURELES",
+    "address": "IPS SURA LAURELES",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "IPS SURA MONTERREY",
+    "address": "CALLE 14 # 48-61",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA ROBLEDO (CORDOBA)",
+    "address": "TRANSVERSAL 78 # 65-417",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS SURA SAMAN",
+    "address": "CALLE 15 sur # 48-92",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "IPS UNIVERSITARIA SEDE CALLEÍNICA LEÓN XIII",
+    "address": "CARREA 51 B # 69-31",
+    "phone": "5167357",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "MEDELLÍN IPS VIVIR UNO A",
+    "address": "CALLE 9C SUR # 50FF-116",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:30 P.M 1:00 P.M 4:30 P.M",
+    "complement": "LC 103"
+  },
+  {
+    "name": "MEDISALUD",
+    "address": "CARRERA 65 # 20-32",
+    "phone": "2650662",
+    "schedule": "LUNES A SABADO 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "PEDIATRIA SOCIAL",
+    "address": "PEDIATRIA SOCIAL",
+    "phone": "2133262",
+    "schedule": ""
+  },
+  {
+    "name": "PREVINM",
+    "address": "CARREA 45 # 50-48",
+    "phone": "5113459",
+    "schedule": "LUNES A VIERNES 8:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "CS 103"
+  },
+  {
+    "name": "PROSALCO CARIBE IPS",
+    "address": "CARRERA 65 # 78-73 ",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 2:00 P.M"
+  },
+  {
+    "name": "PROSALCOLA FLORESTA IPS",
+    "address": "CALLE 47 # 80-5",
+    "phone": "4133391",
+    "schedule": "MARTES Y JUEVES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD EL PESEBRE METROSALUD",
+    "address": "CARRERA 81 # 55-160",
+    "phone": "4215503",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "PUESTO DE SALUD EL TRIUNFO METROSALUD",
+    "address": "CARRERA 86 # 104BB-40",
+    "phone": "4762801 - 4382046",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "SALUD SIGLO XXI",
+    "address": "SALUD SIGLO XXI",
+    "phone": "",
+    "schedule": ""
+  },
+  {
+    "name": "SALUDCOOP IPS BOLIVIA",
+    "address": "CALLE 56 # 45-10 ",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "SALUDCOOP IPS PRADO",
+    "address": "CARRERA 43 # 61-62",
+    "phone": "3113205177",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "SALUDCOOP SANTA TERESITA",
+    "address": "CARRERA 73A # 34A-134",
+    "phone": "4140858 - 3145433918",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 12:30 P.M"
+  },
+  {
+    "name": "SERVACUNAS CENTRO",
+    "address": "CARREA 45 # 53-86",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 9:00 A.M 6:00 P.M SABADO 9:00 A.M 12:00 P.M",
+    "complement": "CS 102"
+  },
+  {
+    "name": "SERVACUNAS POBLADO",
+    "address": "CALLE 14 # 43 B -130",
+    "phone": "3540892",
+    "schedule": "LUNES A VIERNES 9:00 A.M 6:00 P.M SABADO 9:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "SERVICIO MÉDICO SAN IGNACIO",
+    "address": "CARRERA 44 48 51 ",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:30 P.M SABADO 7:00 A.M 11:45 A.M"
+  },
+  {
+    "name": "SUPLIMED HOSPITALARIO",
+    "address": "CARRERA 76 # 35-9",
+    "phone": "4144930",
+    "schedule": "LUNES A VIERNES 8:00 A.M 1:00 P.M SABADO 8:00 A.M 1:00 A.M"
+  },
+  {
+    "name": "SUS MÉDICOS",
+    "address": "CARRERA 66B # 33 -17",
+    "phone": "4486363",
+    "schedule": "LUNES A VIERNES 6:30 A.M 6:30 P.M SABADO 7:30 A.M 12:30 P.M"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA 12 DE OCTUBRE METROSALUD",
+    "address": "CALLE 108BB # 78-10",
+    "phone": "4782755 - 4764947",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA BUENOS AIRES METROSALUD",
+    "address": "CALLE 50 # 31-39",
+    "phone": "2174480 - 2390559",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA CONCEJO DE MEDELLÍN METROSALUD",
+    "address": "CALLE 72A # 48A-70",
+    "phone": "2130800 - 2637000",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA DE BELÉN METROSALUD",
+    "address": "CALLE 28 # 77-124",
+    "phone": "3432525 - 3430674",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA DE CASTILLA METROSALUD",
+    "address": "CARRERA 65 # 98-115",
+    "phone": "4256440 - 4256441",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA DE MANRIQUE METROSALUD",
+    "address": "CALLE 66E # 42-51",
+    "phone": "5164129 - 2118254",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SAN ANTONIO DE PRADO METROSALUD",
+    "address": "CALLE 11 # 9-4",
+    "phone": "2861161 - 4270788",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SAN CRISTÓBAL METROSALUD",
+    "address": "CALLE 63 # 130-44",
+    "phone": "4271313 - 4270788",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SAN JAVENIDAIER METROSALUD",
+    "address": "CALLE 40 # 105-103",
+    "phone": "2538994 - 4344457",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SANTA CRUZ METROSALUD",
+    "address": "CARRERA 51A # 100-80",
+    "phone": "5146800 -5146805",
+    "schedule": "TODO EL DÍA"
+  },
+  {
+    "name": "PUESTO DE SALUD EL PESEBRE METROSALUD",
+    "address": "CARRERA 81 # 55-160",
+    "phone": "4215503",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "PUESTO DE SALUD EL TRIUNFO METROSALUD",
+    "address": "CARRERA 86 # 104BB-40",
+    "phone": "4762801 - 4382046",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "SALUD SIGLO XXI",
+    "address": "SALUD SIGLO XXI",
+    "phone": "4129698 ext 126",
+    "schedule": ""
+  },
+  {
+    "name": "SALUDCOOP IPS BOLIVIA",
+    "address": "CALLE 56 # 45-10 ",
+    "phone": "2922904 ext 104",
+    "schedule": "L - V 7 a 12 y 2 a 5 Sab 8 a 12"
+  },
+  {
+    "name": "SALUDCOOP IPS PRADO",
+    "address": "CARRERA 43 # 61-62",
+    "phone": "2913141 ext 105 -3113205177",
+    "schedule": "L - V 8 a 4 Sab 8 a 1"
+  },
+  {
+    "name": "SALUDCOOP SANTA TERESITA",
+    "address": "CARRERA 73A 34A-134 ",
+    "phone": "4140858-3145433918",
+    "schedule": "L - V 7 a 3 Sab 7 a 12:30"
+  },
+  {
+    "name": "SERVACUNAS CENTRO",
+    "address": "CARRERA 45 # 53-86",
+    "phone": "3110202 ext 116 -",
+    "schedule": "L- V 9 a 6 Sab 9 a 12",
+    "complement": " CS 102"
+  },
+  {
+    "name": "SERVACUNAS POBLADO",
+    "address": "CALLE 14 # 43B-130",
+    "phone": "3540892",
+    "schedule": "L V 9 a 6 Sab 9 a 12"
+  },
+  {
+    "name": "SERVICIO MÉDICO SAN IGNACIO",
+    "address": "CARRERA 44 # 48-51",
+    "phone": "2161144 ext 110",
+    "schedule": "L - V 7 a 5:30 Sab 7 a 11:45"
+  },
+  {
+    "name": "SUPLIMED HOSPITALARIO",
+    "address": "CARRERA 76 # 35-9",
+    "phone": "4144930",
+    "schedule": "L V 8 a 1 y 2 a 5:30 Sab 8 a 1"
+  },
+  {
+    "name": "SUS MÉDICOS",
+    "address": "CARRERA 66B # 33-17",
+    "phone": "14486363",
+    "schedule": "L V 6:30 a 6:30 Sab 7:30 a 12:30"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA 12 DE OCTUBRE METROSALUD",
+    "address": "Calle 108BB # 78-10",
+    "phone": "4782755 - 4764947",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA BUENOS AIRES METROSALUD Calle 50 # 31",
+    "address": "Calle 50 # 31-39",
+    "phone": "2390559",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA CONCEJO DE MEDELLÍN METROSALUD",
+    "address": "Calle 72A # 48A-70",
+    "phone": "2130800 - 2637000",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA DE BELÉN METROSALUD",
+    "address": "Calle 28 # 77-124",
+    "phone": "3432525 - 3430674",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA DE CASTILLA METROSALUD",
+    "address": "Carrera 65 # 98-115",
+    "phone": "4256440 - 4256441",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA DE MANRIQUE METROSALUD",
+    "address": "Calle 66E # 42-51",
+    "phone": "5164129 - 2118254",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SAN ANTONIO DE PRADO METROSALUD",
+    "address": "Calle 11 # 9-4",
+    "phone": "2861161 - 2860055",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SAN CRISTÓBAL METROSALUD",
+    "address": "Calle 63 # 130-44",
+    "phone": "4271313 - 4270788",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SAN JAVIER METROSALUD",
+    "address": "Calle 40 # 105-103",
+    "phone": "2538994 - 4344457",
+    "schedule": "Todo el día"
+  },
+  {
+    "name": "UNIDAD HOSPITALARIA SANTA CRUZ METROSALUD",
+    "address": "Carrera 51A # 100-80",
+    "phone": "5146800 - 5146805",
+    "schedule": "Todo el día"
+  }
+]

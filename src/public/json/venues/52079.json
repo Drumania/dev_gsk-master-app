@@ -1,0 +1,20 @@
+[
+  {
+    "name": "E.S.E. HOSPITAL SAN ANTONIO DE BARBACOAS",
+    "address": "SAN ANTONIO",
+    "phone": "3173631788",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - FIN DE SEMANA 10:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "ASOCIACION DE AUTORIDADES TRADICIONALES Y CABILDOS INDIGENAS AWA UNIPA",
+    "address": "EL DIVISO RESG GRAN SABALO EL VERDE",
+    "phone": "7317640 - 7317640",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 4:00 P.M"
+  },
+  {
+    "name": "P. DE S. ALTAQUER",
+    "address": "P. DE S. ALTAQUER",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - FIN DE SEMANA 10:00 A.M - 12:00 P.M"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PUESTO DE SALUD BALCONES",
+    "address": "CARRERAA 25 # 43 ESQUINA",
+    "phone": "7435999",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL LA MISERICORDIA",
+    "address": "CALLE 43 # 26-13",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M"
+  },
+  {
+    "name": "C.S. BARCELONA",
+    "address": "CARRERA 10 CALLE 13 ESQUINA",
+    "phone": "7656329",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M"
+  },
+  {
+    "name": "C. S. QUEBRADA NEGRA",
+    "address": "QUEBRADA NEGRA",
+    "phone": "3147687694",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M"
+  }
+]

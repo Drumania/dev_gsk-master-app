@@ -1,0 +1,164 @@
+[
+  {
+    "name": "POLICIA",
+    "address": "CARRERA 4 CALLE 15 ESQUINA",
+    "phone": "3222702103",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "EJERCITO",
+    "address": "CANTON MILITAR PIJAO KL 3 VIA ARMENIA",
+    "phone": "2600372-3112073226",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "USI ESE HOSPITAL SAN FRANCISCO",
+    "address": "CALLE 24 CARRERA 8",
+    "phone": "26200003-059086384",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "MI IPS TOLIMA",
+    "address": "CALLE 19 # 7-65",
+    "phone": "2611174",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "IPS VIRREY SOLIS",
+    "address": "CARRERA 5 # 41-35",
+    "phone": "2665464",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "PROMOVER",
+    "address": "CARRERA 4D # 33-8",
+    "phone": "2666817",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "UNIDAD INTERMEDIA JORDAN 8 ETAPA",
+    "address": "MANZANA 26 JORDAN 8 ETAPA",
+    "phone": "2713375",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "UNIDAD INTERMEDIA SUR",
+    "address": "CALLE 23 CARRERA 8 KENNEDY",
+    "phone": "2600452",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "UNIDAD INTERMEDIA SALADO",
+    "address": "CALLE 10 # 8-74 EL SALADO",
+    "phone": "2725244",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "IPS CRHISTUS SINERGIA",
+    "address": "CARRERA 5 # 39-56 4 PISO",
+    "phone": "3148523026",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "VIVA 1 A",
+    "address": "CARRERA 5 CALLE 43 ESQUINA",
+    "phone": "3107619838",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "UAP SANITAS",
+    "address": "CARRERA 4 C # 33-74 CADIZ",
+    "phone": "2648246",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CHAPETON",
+    "address": "JUNTO AL COLEGIO MARIAN MELENDRO",
+    "phone": "3059086384",
+    "schedule": "MARTES A JUEVES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LAS DELICIAS",
+    "address": "CALLE 69A # 24- H CONTROL BUSETA 1",
+    "phone": "2751067",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA MARLEN",
+    "address": "CARRERA 9 CALLE 41 y 42",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD JORDAN 2 ETAPA",
+    "address": "CARRERA 1a # 64-37",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD BELLO HORIZONTE",
+    "address": "MANZANA A LOTE 103 CARRERA 44 SUR # 123-87",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD PICALEÑA",
+    "address": "avenida central frente cancha futbol km 6",
+    "phone": "",
+    "schedule": "MARTES A JUEVES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD AMBALA",
+    "address": "CARRERA 21 A # 54A -4",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD TOPACIO",
+    "address": "MANZANA 20 B CASA 1 TOPACIO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD JARDIN",
+    "address": "CALLE 87 CARRERA 4 LOTE 8-9-10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD GAITAN",
+    "address": "CARRERA 11 # 38 -4-52",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD 20 DE JULIO",
+    "address": "CALLE 6 # 13 -31",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CIUDAD IBAGUE",
+    "address": "CALLE 20 # 3-49 ESTACIÓN",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD GAVIOTA",
+    "address": "CALLE 21 # 39-14 SUR",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD URIBE",
+    "address": "CARRERA3 # 37-20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD BOQUERON",
+    "address": "CALLE 21 # 39-14 SUR",
+    "phone": "2607080",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  2:00 P.M  5:30 P.M"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "CAPS MARICHUELA",
+    "address": "CALLE 76 # 1-42 SUR",
+    "phone": "3202282931",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO 8:00 A.M 2:00 P.M"
+  },
+  {
+    "name": "USS LA FLORA",
+    "address": "CARRERA 15 ESTE SUR # 75B-44",
+    "phone": "3046381790",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS DESTINO",
+    "address": "KILOMETRO 7 VÍA SAN JUAN DE SUMAPAZ",
+    "phone": "3133877670",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS ",
+    "address": "TRANSVERSAL 2A 1 # 35-78 SUR",
+    "phone": "3118431586",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS YOMASA",
+    "address": "CALLE 86B SUR # 49-10",
+    "phone": "3107920178",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "CAPS BETANIA",
+    "address": "CALLE 76B SUR # 2-34 ESE",
+    "phone": "3138990929",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00: A.M 2:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS REFORMA",
+    "address": "CALLE 85A SUR # 6A-05",
+    "phone": "3114667266",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS SANTA MARTA",
+    "address": "CALLE 68C SUR 1A-88 ESTE",
+    "phone": "3204060283",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS LORENZO ALCANTUZ",
+    "address": "CARRERA 54E # 1-03 SUR",
+    "phone": "3103082252",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS DANUBIO AZUL",
+    "address": "CARRERA 5 A BIS # 55-65 SUR",
+    "phone": "3178862288",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO SANTA LIBRADA",
+    "address": "AVENIDA  # 43-28 SUR",
+    "phone": "3123386998",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "IPS SERVIMED SANTA LIBRADA",
+    "address": "CALLE 76 A SUR # 0-43",
+    "phone": "3118284790",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según program"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "IPS HOSPITAL SAN JOSE DE TIBU",
+    "address": "CARRERA 4 # 5-30 EL CARMEN",
+    "phone": "3107615861",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PACCELLY",
+    "address": "DETRÁS DE LA IGLESIA",
+    "phone": "3107615861",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA GABARRA",
+    "address": "CALLE PRINCIPAL",
+    "phone": "3107615861",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CAMPO DOS",
+    "address": "FRENTE AL PARQUE PRINCIPAL",
+    "phone": "3107615861",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PETROLEA",
+    "address": "CALLE PRINCIPAL",
+    "phone": "3107615861",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "IPS HOSPITAL SAN JOSE DE TIBU",
+    "address": "carrera 4 # 5- 30 barrio el carmen",
+    "phone": "3107615861",
+    "schedule": "lunes a viernes de 7 am a 12 y de 2 a 5 pm, sabado y domingos de 7 am a 12 m"
+  },
+  {
+    "name": "PUESTO DE SALUD PACCELLY",
+    "address": "detrás de la iglesia",
+    "phone": "3107615861",
+    "schedule": "lunes a viernes de 7 am a 12 y de 2 a 5 pm, sabado y domingos de 7 am a 12 m"
+  },
+  {
+    "name": "CENTRO DE SALUD LA GABARRA",
+    "address": "calle principal",
+    "phone": "3107615861",
+    "schedule": "lunes a viernes de 7 am a 12 y de 2 a 5 pm, sabado y domingos de 7 am a 12 m"
+  },
+  {
+    "name": "CENTRO DE SALUD CAMPO DOS",
+    "address": "frente al parque principal",
+    "phone": "3107615861",
+    "schedule": "lunes a viernes de 7 am a 12 y de 2 a 5 pm, sabado y domingos de 7 am a 12 m"
+  },
+  {
+    "name": "PUESTO DE SALUD PETROLEA",
+    "address": "calle principal",
+    "phone": "3107615861",
+    "schedule": "lunes a viernes de 7 am a 12 y de 2 a 5 pm, sabado y domingos de 7 am a 12 m"
+  }
+]

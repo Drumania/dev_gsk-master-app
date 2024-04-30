@@ -1,0 +1,63 @@
+[
+  {
+    "name": "VIVA UNO A 20 DE JULIO",
+    "address": "CARRERA22 # 14A-21 SUR",
+    "phone": "3168673745",
+    "schedule": "LUNES A VIERNES 7:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "UNIDAD MEDICA SAN ANTONIO POLICIA NACIONAL",
+    "address": "AVENIDA CARRERA 14 SUR # 2-67",
+    "phone": "3505560857 5804400 Ext. 3201, 3210",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "NUESTRA IPS PRIMERO DE MAYO I",
+    "address": "CALLE 22 SUR # 22-02",
+    "phone": "3057126704 2093244",
+    "schedule": "LUNES A VIERNES 6:20 A.M 1:00 P.M SABADO 7:00 A.M 12:20 P.M DOMINGO"
+  },
+  {
+    "name": "NUESTRA IPS CENTRO ODONTOLOGICO 1 MAYO II",
+    "address": "CALLE 22 SUR # 29-62",
+    "phone": "3102539405 3007348055",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 12:20 P.M DOMINGO"
+  },
+  {
+    "name": "ASMEDAN SAS",
+    "address": "CALLE 22 SUR # 34-41",
+    "phone": "3008164938 7454520 Ext. 273 CEL: 3118357974",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 12:30 P.M DOMINGO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO RESTREPO",
+    "address": "CALLE 19 SUR # 21-32",
+    "phone": "3014121055 2783316 2784988",
+    "schedule": "LUNES A VIERNES 7:30 A.M 5:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "EPS SANITAS RESTREPO",
+    "address": "CARRERA 18 # 16-64 SUR",
+    "phone": "5895393 EXT 5719114",
+    "schedule": "LUNES A VIERNES 7:00 A.M – 6:00 P.M SABADO 7:30 – 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "COMPENSAR PRIMERA DE MAYO",
+    "address": "AVENIDA PRIMERO DE MAYO # 10 BIS-22 SUR",
+    "phone": "3212552811 4285088 Ext. 11662",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M DOMINGO",
+    "complement": "PISO 2"
+  },
+  {
+    "name": "CENTRO MEDICO SURA SUR",
+    "address": "CARRERA 13A # 301 SUR",
+    "phone": "3168316972 3907966",
+    "schedule": "LUNES A VIERNES LUNES A VIERNES 8:00 A.M 5:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "GRUPO EXTRAMURAL CENTRO MAYOR",
+    "address": "CALLE 38 A SUR # 34D-51",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO FESTIVO 7:00 A.M 1.00 P.M"
+  }
+]

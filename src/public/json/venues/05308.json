@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO INTEGRAL DE SALUD GIRARDOTA",
+    "address": "CARREA 18 # 5A-65",
+    "phone": "2895388",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN RAFAEL",
+    "address": "CARREA 16 # 11-01",
+    "phone": "3006951271",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 1:00 P.M - 1:30 P.M - 4:00 P.M - SABADO 8:00 A.M - 1:00 P.M"
+  }
+]

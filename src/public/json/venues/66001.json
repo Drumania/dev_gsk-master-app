@@ -1,0 +1,164 @@
+[
+  {
+    "name": "UNISKEN (CONSULTA EXTERNA)",
+    "address": "CALLE 9 E CARRERA 12 PLAZUELA ESTADIO MORA",
+    "phone": "3315501",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "UNISAC ( CONSULTA EXTERNA)",
+    "address": "CARRERA 7 CALLE 40",
+    "phone": "3272389-3371160",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "UNICENT ( CONSULTA EXTERNA)",
+    "address": "CARRERA 26 # 70 -77",
+    "phone": "3261570-3362278",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA SANTANA",
+    "address": "CARREA 21 CON 17 VIA CANCELES",
+    "phone": "3162477-3162929",
+    "schedule": "MARTES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA CONSOTA",
+    "address": "CARRERA 40 CALLE 70",
+    "phone": "3127340",
+    "schedule": "LUNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD PERLA DEL OTÚN",
+    "address": "CIUDADELA PERLA DEL OPTUN COMUNIDAD ALBANIA 2500 LOTES",
+    "phone": "3276482",
+    "schedule": "VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PUERTO CALDAS",
+    "address": "VEREDA PUERTO CALDAS",
+    "phone": "",
+    "schedule": "MIERCOLES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD MORELIA",
+    "address": "VEREDA MORELIA",
+    "phone": "3234900",
+    "schedule": "VIERNES 7:00 A.M  4:00 P.M DOS VECES AL MES"
+  },
+  {
+    "name": "PUESTO DE SALUD LA PALMILLA",
+    "address": "VEREDA LA PALMILLA",
+    "phone": "3329497",
+    "schedule": "LUNES 7:00 A.M  3:00 P.M UNA VEZ AL MES"
+  },
+  {
+    "name": "CENTRO DE SALUD EL REMANSO",
+    "address": "EL REMANSO",
+    "phone": "",
+    "schedule": "JUEVES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD CAIMALITO",
+    "address": "VEREDA CAIMALITO",
+    "phone": "3683011",
+    "schedule": "MIERCOLES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ARABIA",
+    "address": "VEREDA ARABIA",
+    "phone": "3249064",
+    "schedule": "LUNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ALTAGRACIA",
+    "address": "VEREDA ALTAGRACIA",
+    "phone": "3259659",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "POLICÍA",
+    "address": "CARRERA 14 BIS # 110- 17 ALPES",
+    "phone": "3330979",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:30 A.M  3:00 P.M  4:30 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN JORGE",
+    "address": "CRA 4 CON 24",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "F. REVIVAMOS MEGA CENTRO",
+    "address": "CARRERA5 # 18- 33",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "F. REVIVAMOS SEDE CENTRO",
+    "address": "CLINICA ROSALES",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CRUZ ROJA",
+    "address": "ACLLE 16 CRA 15 ESQUINA",
+    "phone": "3152344",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "COSMITET",
+    "address": "AVENIDA CIRCUNVALAR # 3- 13",
+    "phone": "3310710",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "COOMEVA PREPAGADA",
+    "address": "AVENIDA CIRCUNVALAR # 3- 52",
+    "phone": "3316464",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:00 A.M  2:00 P.M  4:00 P.M  SABADO 8:00 A.M  11:30 A.M"
+  },
+  {
+    "name": "COMFAMILIAR",
+    "address": "CRA 5 # 22 ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  11:30 A.M  1:30 P.M  5:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "VACUNACION PROFESIONAL",
+    "address": "CLLE 19 # 5 – 13 PISO 7",
+    "phone": "3355666-3332205",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "CLÍNICA LOS ROSALES",
+    "address": "CRA 9 # 25 -25",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "BATALLÓN SAN MATEO",
+    "address": "BATALLÓN AVENIDA 30 DE AGOSTO # 53 – 19",
+    "phone": "3294242",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "SAN SEBASTIÁN",
+    "address": "CRA 7 # 27 – 06",
+    "phone": "3244803",
+    "schedule": "LUNES A VIERNES 7:30 A.M  4:00 P.M"
+  },
+  {
+    "name": "SALUD TOTAL",
+    "address": "AVENIDA 30 DE AGOSTO 40- 51",
+    "phone": "3262660",
+    "schedule": "LUNES A VIERNES 8:00 A.M  5:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "MI IPS LA REBECA",
+    "address": "AVENIDA 30 DE AGOSTO 46- 75",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M  SABADO 7:00 A.M  12:00 P.M"
+  }
+]

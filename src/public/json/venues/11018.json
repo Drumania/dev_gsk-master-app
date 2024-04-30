@@ -1,0 +1,94 @@
+[
+  {
+    "name": "PAPS SAN JORGE",
+    "address": "DIAGONAL 45 BIS B SUR # 13F-72",
+    "phone": "3023405552 5171713",
+    "schedule": "LUNES A VIERNES 7:00 A.M 1:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "CAPS DIANA TURBAY",
+    "address": "CARRERA 1F # 48X-76 SUR",
+    "phone": "3102297737",
+    "schedule": "LUNES A VIERNES LUNES A MIERCOLES 7:00 A.M 4:00 P.M JUEVES A VIERNES 3:30 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "IPS MUNDO SALUD MEDICAL GROUP LTDA",
+    "address": "CARRERA 20 # 27-08 SUR",
+    "phone": "3196471301 6967246",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO 9:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "DR. EULISES ORTIZ",
+    "address": "CARRERA 21 # 22-40",
+    "phone": "3196471301 6612676",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 3:00 P.M DOMINGO",
+    "complement": "PISO 2"
+  },
+  {
+    "name": "DR. MENDEZ GONGORA",
+    "address": "CARRERA 21 # 22-30 SUR",
+    "phone": "3022851357 3619499",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 1:00 P.M DOMINGO",
+    "complement": "PISO 2 CONSULTORIO 206"
+  },
+  {
+    "name": "IPS VACUNAR COLOMBIA",
+    "address": "CARRERA 18 # 26A-08 SUR",
+    "phone": "3213229092 4082180",
+    "schedule": "LUNES A VIERNES 7:30 A.M 5:30 P.M SABADO 8:00 A.M 3:00 P.M DOMINGO"
+  },
+  {
+    "name": "VIRREY SOLIS OLAYA",
+    "address": "CALLE 27 SUR # 21A-19",
+    "phone": "3202683905 3725000 Ext. 313",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:30 A.M 12:30 P.M DOMINGO"
+  },
+  {
+    "name": "IPS CAFAM CENTENARIO",
+    "address": "CALLE 27 SUR # 26-24",
+    "phone": "3183817422 3730200 Ext. 5057",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "BIENESTAR IPS CENTENARIO",
+    "address": "CARRERA 27 # 24-40 SUR",
+    "phone": "3172603223",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO QUIROGA",
+    "address": "CALLE30 SUR # 18-30",
+    "phone": "3176414887 7601829 EXT 120",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:30 P.M SABADO 8:00 A.M 4:30 P.M DOMINGO"
+  },
+  {
+    "name": "COORPORACION NUESTRA IPS OLAYA",
+    "address": "CALLE 27 SUR # 20-16",
+    "phone": "3118763835 3610460 3610548",
+    "schedule": "LUNES A VIERNES 6:30 A.M 4:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "PUNTO DE SALUD SURA OLAYA",
+    "address": "CARRERA 14 CALLE 27 SUR",
+    "phone": "3115104170 3721010 OPC 3 Ext. 11531",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 2:00 P.M DOMINGO"
+  },
+  {
+    "name": "POLICLINICO DEL OLAYA",
+    "address": "CARRERA 21 # 22-66 SUR",
+    "phone": "3208340203 3612888 Ext. 105 226 4185700",
+    "schedule": "LUNES A VIERNES 7:00 A.M 1:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO FESTIVOS RECIEN NACIDOS 24 HORAS"
+  },
+  {
+    "name": "ASISTIR SALUD QUIROGA",
+    "address": "CARRERA 14 # 31-19 SUR",
+    "phone": "3162727530 3103556456 3224210644",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "VIRREY SOLIS SANTA LUCIA",
+    "address": "AVENIDA CARACAS # 48-32 SUR",
+    "phone": "320268390 7142010 ext 109",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:30 A.M 12:20 P.M DOMINGO"
+  }
+]

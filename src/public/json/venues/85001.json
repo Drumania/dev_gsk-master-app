@@ -1,0 +1,94 @@
+[
+  {
+    "name": "MI IPS LLANOS",
+    "address": "CALLE 27 # 21-25",
+    "phone": "3112374296",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "POLICIA NACIONAL",
+    "address": "TRANSVERSAL 15 # 13-B5",
+    "phone": "3212309823 - 3212309823",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "LABORATORIO NORA ALVAREZ",
+    "address": "CARRERA 23 # 12-43",
+    "phone": "3152561607",
+    "schedule": "6349027 LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL REGIONAL DE LA ORINOQUIA",
+    "address": "CALLE 15 # 07-95",
+    "phone": "3214610183",
+    "schedule": "TODOS LOS DIAS 7:00 A.M 7:00 P.M",
+    "complement": "MARGINAL DE LA SELVA"
+  },
+  {
+    "name": "CRUZ ROJA",
+    "address": "CARRERA 18 # 15-10",
+    "phone": "6357132 - 6357132",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "JUAN LUIS LONDOÑO",
+    "address": "CALLE 26 # 30-30",
+    "phone": "3133957480 - 3133957480",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL DE YOPAL",
+    "address": "CARRERA 15 # 33-40",
+    "phone": "3133957480 - 3133957480",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "LACOR",
+    "address": "CALLE 15 # 22-52",
+    "phone": "3102091897 - 3102091897",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "TRINISALUD",
+    "address": "CARRERA 26 # 14A-38",
+    "phone": "3143655160 - 6356935",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M",
+    "complement": "INTERIOR 8"
+  },
+  {
+    "name": "CLINICA CASANARE",
+    "address": "CALLEE 13 # 29-36",
+    "phone": "3202340002",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "VISIONAMOS SALUD",
+    "address": "CRRA 29 # 12A-3",
+    "phone": "3171217530 - 6343015",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "BRIGADA XVI",
+    "address": "KILOMETRO 7 AVENIDA MARGINAL DE LA SELVA",
+    "phone": "3212699394",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "FAMEDIC",
+    "address": "CALLE 11 # 26-50",
+    "phone": "3013584383",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "ASISTIR",
+    "address": "CALLEE 17 # 27-56",
+    "phone": "6357082 - 3123918667",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CAIMED",
+    "address": "CALLEE 17 # 2-65",
+    "phone": "3118244070 - 6340000",
+    "schedule": "OCASIONAL"
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "name": "HOSPITAL NAVAL DE CARTAGENA",
+    "address": "AVENIDA SAN MARTÍN ENTRADA A BOCAGRANDE",
+    "phone": "6655360",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "MATERNIDAD RAFAEL CALVO",
+    "address": "AMBERES CALLE 31A # 71-48",
+    "phone": "3013373445 Y 6625817 Y 6625818",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CLINICA HIGEA",
+    "address": "AMBERES CARRERA 41 # 27-92",
+    "phone": "6622143",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "FAC ENFERMERIA",
+    "address": "ZARAGOCILLA CARRERA  50 # 24-1",
+    "phone": "6698181",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M"
+  },
+  {
+    "name": "CLINICA CARTAGENA DE INDIAS (POLICIA)",
+    "address": "MANGA CALLE REAL # 24-03",
+    "phone": "6609999",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "IPS SAN ISIDRO",
+    "address": "TRANSVERSAL 57 # 22-51",
+    "phone": "6622990",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M",
+    "complement": "CALLE ALBORNZ BOSQUE SECTOR SAN ISIDRO CARTAGENA BOLÍVAR"
+  },
+  {
+    "name": "CHRISTUS SINERGIA MANGA",
+    "address": "MANGA AVENIDA JIMÉNEZ # 22-50",
+    "phone": "6605959",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "UAB SANITAS PIE DE LA POPA",
+    "address": "PIE DE LA POPA CALLE 29C",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "IPS SALUD DEL CARIBE PIE DE LA POPA",
+    "address": "CALLE 30 # 21-97",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "NUEVA EPS ARSENAL",
+    "address": "CENTRO CALLE EL ARSENAL CALLE 25 # 10B-50",
+    "phone": "6943367",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CLINICA CARTAGENA DEL MAR",
+    "address": "PIE POPA CALLE 30 # 19A-11",
+    "phone": "6724260",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CENTRO MEDICO CRECER",
+    "address": "EL PRADO AVENIDA PEDRO DE HEREDIA # 34-22",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "NUEVA EPS PEDRO DE HEREDIA",
+    "address": "SECTOR ALCIBIA PEDRO DE HEREDIA # 31-124",
+    "phone": "6642866",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "UCI DEL CARIBE",
+    "address": "BOCAGRANDE CARRERA 3 # 8-177",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CLINICA SAN JOSE DE TORICES",
+    "address": "TORICES CARRERA 14 # 46-66",
+    "phone": "6569030",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CLINICA LA ERMITA",
+    "address": "PIE DE LA POPA CALLE 29D # 20A-18",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "SALUD TOTAL PIE DEL CERRO",
+    "address": "PIE DEL CERRO CALLE 30 # 17-14",
+    "phone": "6666157",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 1:00 P.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "LOCAL 101"
+  },
+  {
+    "name": "CLINICA DE LA MUJER",
+    "address": "AVENIDA PEDRO DE HEREDIA # 35-119",
+    "phone": "6448161",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CLINICA G/RAL DEL NORTE MAGISTERIO",
+    "address": "CHIPRE CALLE 31",
+    "phone": "6945252",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "MZ 6 LOTE 26"
+  },
+  {
+    "name": "CLINICA GENERAL DEL CARIBE",
+    "address": "LA CASTELLANA SECTOR CONTADORA TRANSVERSAL 71B # 31-67",
+    "phone": "6612715",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CLINICA BLAS DE LEZO",
+    "address": "TRANSVERSAL 54 # 47-57",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO",
+    "complement": "CT. BOSQUE"
+  },
+  {
+    "name": "CRUZ ROJA",
+    "address": "ESPAÑA CALLE 30 # 44D-71",
+    "phone": "6626081",
+    "schedule": ""
+  },
+  {
+    "name": "IPS SALUD TOTAL SANTA LUCIA",
+    "address": "SANTA LUCIA SECTOR PROVIDENCIA # 31 71 139",
+    "phone": "6534307",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "C.M RUBEN ISAZA",
+    "address": "PASACABALLOS CALLE LAS FLORES # 9-45",
+    "phone": "6685251",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 4:00 P.M"
+  },
+  {
+    "name": "CLINICA MADRE BERNARDA",
+    "address": "CARRERA 71 # 31-395",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO",
+    "complement": "LA PROVIDENCIA"
+  },
+  {
+    "name": "IPS SALUD CARIBE SANTA LUCIA",
+    "address": "MANZANA G LOTE 2 SANTA LUCIA",
+    "phone": "6630110",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "BIENESTAR IPS NUEVA EPS LA PLAZUELA",
+    "address": "SHOPPING CENTER LA PLAZUELA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "LOCAL 123"
+  },
+  {
+    "name": "SINERGIA SANTA LUCIA",
+    "address": "AVENIDA LA CORDIALIDAD TRANSVERSAL 54 # 31-121 TERNERA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "SALUDSION",
+    "address": "SECTOR LOS ALPES CONTIGUO AL COLEGIO GIMNASIO MODERN DEL NRTE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M"
+  },
+  {
+    "name": "UAB SANITAS PROVIDENCIA",
+    "address": "SANTA LUCIA MZ E LOTE 20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CEDECO GER. S.A.S",
+    "address": "PROVIDENCIA DIAGONAL 32 # 71A-75",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CSSC FATIMA (CENTRO DE APLICACIÓN DE VACUNA ANTIAMALIRICA)",
+    "address": "CARRERA 8A # 33-10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "EDIFICIO ARAUJO"
+  },
+  {
+    "name": "CSCC NVO BOSQUE",
+    "address": "CENTRO GETSEMANI CALLE LARGA CASA FATIMA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC SAN VICENTE DE PAUL",
+    "address": "NUEVO BOSQUE 3",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "ETAPA MANZANA 1 LOTE 14 B"
+  },
+  {
+    "name": "CSSC BOSQUE",
+    "address": "ESCALLON VILLACARRERA 53 # 30D-06",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD CAÑO DEL ORO",
+    "address": "EL BOSQUE AVENIDAPEDRO VELEZ # 20-05",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PUNTA ARENA",
+    "address": "CORREGIMIENTO CAÑO DEL ORO",
+    "phone": "",
+    "schedule": "HORARIO PROGRAMADO POR CENSO MENSUAL"
+  },
+  {
+    "name": "PUESTO DE SALUD TIERRA BOMBA",
+    "address": "CORREGIMIENTO DE PUNTA ARENA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD BOCA CHICA",
+    "address": "CORREGIMIENTO TIERRA BOMBA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ISLAS DEL ROSARIO",
+    "address": "CORREGIMIENTO DE BOCACHICA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "IPS FUNDACION SER SOCIAL SANTANA",
+    "address": "CORREGIMIENTO ISLAS DEL ROSARIO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ISLOTE DE SAN BERNARDO",
+    "address": "CORREGIMIENTO DE SANTANA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC SAN PEDRO Y LIBERTAD",
+    "address": "CORREGIMIENTO DE ISLOTE DE SAN BERNARDO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "HOSPITAL CANAPOTE",
+    "address": "SAN PEDRO Y LIBERTAD CALLE AURORA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC DANIEL LEMAITRE",
+    "address": "CARRERA 14 # 62-3",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "CANAPOTE"
+  },
+  {
+    "name": "CSSC SAN FRANCISCO",
+    "address": "CALLE 69 # 14-99",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "DANIEL LEMAITRE"
+  },
+  {
+    "name": "CSSC BOQUILLA",
+    "address": "SAN FRANCISCO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD MANZANILLO",
+    "address": "CORREGIMIENTO DE LA BOQUILLA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD TIERRA BAJA",
+    "address": "CORREGIMIENTO MANZANILLO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PUERTO REY",
+    "address": "CORREGIMIENTO TIERRA BAJA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PUNTA CANOA",
+    "address": "CORREGIMIENTO PUERTO REY",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ARROYO DE PIEDRA",
+    "address": "CORREGIMIENTO PUNTA CANA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ARROYO GRANDE",
+    "address": "CORREGIMIENTO ARROYO DE PIEDRA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ARROYO DE LAS CANOAS",
+    "address": "CORREGIMIENTO ARROYO GRANDE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC LAS GAVIOTAS",
+    "address": "CORREGIMIENTO ARROYO DE LAS CANAS",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSCC LA ESPERANZA",
+    "address": "LAS GAVIOTAS MZ. 63 115",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSCS LA CANDELARIA",
+    "address": "LA ESPERANZA AVENIDA PRINCIPAL PLAZA NAVIDAD # 29-130",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSCS NUEVO PORVENIR",
+    "address": "AVENIDA PEDRO ROMERO CALLE 31 33 111",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "SEC.ALCIBIA"
+  },
+  {
+    "name": "CSSC FREDONIA",
+    "address": "DIAGONAL 34C TRANSVERSAL 71 Y 72 B",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "NUEVO PORVENIR MZ L LOTE 1"
+  },
+  {
+    "name": "HOSPITAL POZON *",
+    "address": "FREDONIA CALLE 36 # 79-29",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC FOCO ROJO",
+    "address": "POZON AVENIDA PRINCIPAL",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC LIBANO",
+    "address": "OLAYA SEC. RAFAEL NUÑEZ CARRERA 49E # 34-161",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSCC OLAYA HERRERA",
+    "address": "OLAYA SEC. ONCE DE NVIEMBRE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PONTEZUELA",
+    "address": "CARRERA 32B # 64-142",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "OLAYA CARRETERA PRINCIPAL"
+  },
+  {
+    "name": "CSCC BAYUNCA",
+    "address": "CORREGIMIENTO DE PONTEZUELA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC TERNERA",
+    "address": "CORREGIMIENTO BAYUNCA CALLE SAN ANTONIO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC LA REINA",
+    "address": "TERNERA CALLE REAL # 32 32 33",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSCC PASACABALLO",
+    "address": "LA REINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSSC SOCORRO",
+    "address": "CALLE 18 # 08-10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "CORREGIMIENTO PSACABALLO"
+  },
+  {
+    "name": "CSCC BLAS DE LEZO",
+    "address": "EL SOCORRO PLAN 134",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CSCC NELSON MANDELA",
+    "address": "CALLE 25 # 66-75",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "BLAS DE LEZO"
+  },
+  {
+    "name": "HOSPITAL ARROZ BARATO *",
+    "address": "VILLA HERMOSA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CARTAGENA CLINICOS PROGRAMAS DE ATENCION INTEGRAL S.A.S. IPS",
+    "address": "CARRERA 30 # 7-22",
+    "phone": "6424926",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "ARROZ BARATO"
+  },
+  {
+    "name": "CORPOCOSTA BOCAGRANDE",
+    "address": "AVENIDA PEDRO DE HEREDIA CARRERA 13",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M SABADO 7:00 A.M 11:00 A.M",
+    "complement": "LOCALES 263 264 265 CENTRO COMERCIAL MALL PLAZA"
+  }
+]

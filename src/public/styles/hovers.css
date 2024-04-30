@@ -1,0 +1,96 @@
+/* hovers */
+@media (hover: hover) {
+  header nav a:hover {
+    text-decoration: none;
+    border: 1px solid var(--light-orange-color);
+    color: var(--text-color);
+  }
+
+  .btn-custom:hover,
+  .btn-custom:focus {
+    color: var(--white-color);
+    background-color: var(--light-orange-color);
+    border-color: var(--orange-color);
+  }
+
+  .btn-custom-outline:hover,
+  .btn-custom-outline:focus {
+    border-color: var(--light-orange-color);
+  }
+
+  .btn-custom-outline footer a:hover {
+    color: var(--white-color);
+    text-decoration: underline;
+  }
+
+  .submenu-detalle a:hover,
+  .submenu-links a:hover {
+    border: 0;
+    border-bottom: 1px solid var(--black-color);
+  }
+
+  .breadcrumb .breadcrumb-item a:hover {
+    text-decoration: underline;
+  }
+
+  .swiper-tre-notas .swiper-slide .box-white {
+    & .img-thumb-notas:hover {
+      opacity: 0.8;
+    }
+  }
+
+  .puntos-vacuna:hover {
+    background-color: var(--white-color);
+  }
+
+  a.text-orange:hover {
+    border-bottom: 2px solid var(--orange-color);
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+    color: var(--white-color);
+  }
+
+  [data-category="bebes"]:hover {
+    color: var(--white-color);
+    scale: 1.05;
+    transition: all 0.1s;
+    box-shadow: var(--box-shadow);
+  }
+
+  [data-category="Ninos"]:hover {
+    color: var(--white-color);
+    scale: 1.05;
+    transition: all 0.1s;
+    box-shadow: var(--box-shadow);
+  }
+
+  [data-category="Adolescentes"]:hover {
+    color: var(--white-color);
+    scale: 1.05;
+    transition: all 0.1s;
+    box-shadow: var(--box-shadow);
+  }
+
+  [data-category="Adultos"]:hover {
+    color: var(--white-color);
+    scale: 1.05;
+    transition: all 0.1s;
+    box-shadow: var(--box-shadow);
+  }
+
+  [data-category="Mujeres-embarazadas"]:hover {
+    color: var(--white-color);
+    scale: 1.05;
+    transition: all 0.1s;
+    box-shadow: var(--box-shadow);
+  }
+
+  [data-category="Adultos-mayores"]:hover {
+    color: var(--white-color);
+    scale: 1.05;
+    transition: all 0.1s;
+    box-shadow: var(--box-shadow);
+  }
+}

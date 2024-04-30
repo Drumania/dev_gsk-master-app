@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CALLEINICA ESPECIALISTA",
+    "address": "CALLE 16 # 10-47",
+    "phone": "3006841621",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL ARMANDO PAVÓN LÓPEZ",
+    "address": "CALLE 1 # 5-73",
+    "phone": "7178082 - 3004983836",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "ANASHIWAYA",
+    "address": "CALLE 7 # 7-23",
+    "phone": "3012507736",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

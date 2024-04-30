@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HOSPITAL LOCAL",
+    "address": "CARRERA 29 # 10-10 AYENDE",
+    "phone": "4229148 - 3222182835",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 12:00 P.M - FIN DE SEMANA RECIÉN NACIDO"
+  },
+  {
+    "name": "CORPORACIÓN IPS NARIÑO",
+    "address": "EL CARMEN",
+    "phone": "3132805164",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 1:00 P.M"
+  }
+]

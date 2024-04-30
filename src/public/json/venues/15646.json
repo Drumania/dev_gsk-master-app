@@ -1,0 +1,14 @@
+[
+  {
+    "name": "E.S.E HOSPITAL SANTA MARTA DE SAMACA",
+    "address": "CALLE 4 # 2-18",
+    "phone": "7372008 - 7372184",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "CORPORACIÓN IPS BOYACÁ",
+    "address": "CALLE 5 # 5-58",
+    "phone": "3142235156",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:30 P.M - 2:00 P.M - 6:00 P.M - 1 SABADO CADA 15 DÍAS 8:00 A.M - 12:00 P.M"
+  }
+]

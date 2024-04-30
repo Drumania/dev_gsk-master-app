@@ -1,0 +1,87 @@
+[
+  {
+    "name": "PUESTO DE SALUD SAN ANTONIO",
+    "address": "PUESTO DE SALUD SAN ANTONIO",
+    "phone": "3108821810",
+    "schedule": "VACUNACION PROGRAMADA CADA 2 MESES SEGÚN DEMANDA DE USUARIOS Y HASTA COMPLETAR ESQUEMAS (VEREDA SEDE Y CIRCUNVECINAS HASTA CUBRIR EL 100% DEL AREA DEL MUNICIPIO)."
+  },
+  {
+    "name": "PUESTO DE SALUD PUERTO ARANGO",
+    "address": "PUESTO DE SALUD PUERTO ARANGO",
+    "phone": "3202325468",
+    "schedule": "VACUNACION PROGRAMADA CADA 2 MESES SEGÚN DEMANDA DE USUARIOS Y HASTA COMPLETAR ESQUEMAS (VEREDA SEDE Y CIRCUNVECINAS HASTA CUBRIR EL 100% DEL AREA DEL MUNICIPIO)."
+  },
+  {
+    "name": "CENTRO DE SALUD PUEBLO NUEVO",
+    "address": "BARRIO PUEBLO NUEVO",
+    "phone": "3156016712",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "BRIGADA 12",
+    "address": "CALLE 16 # 16-00",
+    "phone": "3143411764",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "SINERGIA SALUD",
+    "address": "CARRERA 15 CALLE 15",
+    "phone": "3123044761 4366474",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M",
+    "complement": "ESQUINA, CONTIGUO A REGISTRADURÍA"
+  },
+  {
+    "name": "CENTRO DE SALUD MALVINAS SEDE CIUDADELA",
+    "address": "BARRIO CIUDADELA",
+    "phone": "3123145083",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "CLINICA MEDILASER",
+    "address": "CALLE 6 # 14A-55",
+    "phone": "3144602217 EXT. 207",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M",
+    "complement": "JUAN XXIII"
+  },
+  {
+    "name": "CORPOMEDICA IPS",
+    "address": "CRA. 9 # 8-77",
+    "phone": "3102006996 4358575",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M",
+    "complement": "B/ EL PRADO"
+  },
+  {
+    "name": "FAMAC LTDA",
+    "address": "CRA. 9 # 9-104",
+    "phone": "3124352625 4363519",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M",
+    "complement": "B/ EL PRADO"
+  },
+  {
+    "name": "HOSPITAL COMUNAL LAS MALVINAS",
+    "address": "AVENIDA CIRCUNVALAR CALLE 4",
+    "phone": "3125416875 3106858639",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M"
+  },
+  {
+    "name": "HOSPITAL MARIA INMACULADA",
+    "address": "DIAGONAL 20 # 7-29",
+    "phone": "3156016712 Y 343509",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M DOMINGO 7:30 A.M 12:00 P.M",
+    "complement": "LA INMACULADA"
+  },
+  {
+    "name": "POLICIA NACIONAL",
+    "address": "CALLE 11 # 11-50",
+    "phone": "3108295692 Y 3505561177",
+    "schedule": "LUNES A SABADO 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M",
+    "complement": "LA INMACULADA"
+  },
+  {
+    "name": "SAN GABRIEL UROCAQ",
+    "address": "CARRERA 11 # 4 SUR",
+    "phone": "3138858361 Y 3183540875",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 2:00 P.M 5:30 P.M SABADO 7:30 A.M 12:00 P.M",
+    "complement": "LAS BRISAS"
+  }
+]

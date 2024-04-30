@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CENTRO INTEGRAL DE SALUD",
+    "address": "CALLE 19 # 13B-105",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SAN JUAN DE DIOS COOMEVA IPS",
+    "address": "CALLE 19 # 21-48",
+    "phone": "",
+    "schedule": "LUNES A SABADO 8:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "ESE HOSPITAL DE LA CEJA ",
+    "address": "CALLE 17 # 19-55",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 6:00 P.M - SABADO 8:00 A.M - 1:00 P.M - DOMINGO 9:00 A.M - 1:00 P.M"
+  }
+]

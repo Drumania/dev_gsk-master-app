@@ -1,0 +1,110 @@
+[
+  {
+    "name": "USS PIAMONTE",
+    "address": "CALLE 68S # 78H-20",
+    "phone": "7799800 EXT 18422 3128660613",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 4:00 P.M"
+  },
+  {
+    "name": "CAPS PABLO VI BOSA CONSULTA EXTERNA",
+    "address": "CARRERA 77I BIS # 69B-70 SUR",
+    "phone": "3112796845",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M DOMINGO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "USS CARBONELL",
+    "address": "DIAGONAL 71C BIS S # 77G-41",
+    "phone": "7799800 EXT 12153 3132779924",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS LAURELES",
+    "address": "CARRERA 73AS # 80-39",
+    "phone": "7799800 EXT 12159 3132779924",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS PALESTINA",
+    "address": "CALLE 70AS # 81G-13",
+    "phone": "7799800 EXT 18581 3104782326",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS SAN BERNARDINO",
+    "address": "CARRERA 100 # 79-97S",
+    "phone": "7799800 EXT 17459 3132779924",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS CABAÑAS",
+    "address": "CALLE 57S # 89B-19",
+    "phone": "7799800 EXT 12154",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "CAPS PORVENIR",
+    "address": "CARRERA 87 # 53B-51S",
+    "phone": "7799800 EXT 48585 3277437644",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS OLARTE",
+    "address": "CARRERA 72A BIS # 57-13 S",
+    "phone": "7799800 EXT 12158",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS ESTACION",
+    "address": "CALLE 60B S # 77-51",
+    "phone": "7799800 EXT 12156",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "TERMINAL SATELITE DEL SUR",
+    "address": "CALLE 57Q # 75F-82",
+    "phone": "0",
+    "schedule": "LUNES A VIERNES 8:00 A.M 4:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO 8:00 A.M 4:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO CHICALA",
+    "address": "CARRERA 85C # 53-21 S",
+    "phone": "7869506 3212377540",
+    "schedule": "LUNES A VIERNES 8:00 A.M 6:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "BIENESTAR",
+    "address": "CARRERA 77M # 65A-35S",
+    "phone": "3167473063",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "DISPENSARIO MEDICO SUR OCCIDENTE",
+    "address": "CARRERA 86 # 53B-83S",
+    "phone": "7799500 EXT 2143 3103719703",
+    "schedule": "LUNES A VIERNES 8:00 A.M 30:30 LUNES A JUEVES Y VIERNES 8:00 A 11 A.M SABADO DOMINGO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO PORVENIR",
+    "address": "CALLE 54F S # 93B-18",
+    "phone": "7434383 EXT 73413 3007521168",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M SABADO 8:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "UNIDAD MEDICA SAN ANTONIO POLICIA NACIONAL",
+    "address": "AVENIDA CARRERA 14 SUR # 2-67",
+    "phone": "2207400 Ext. 3202, 3210 3186088380",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 4:00 P.M SABADO 8:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "VIRREY SOLIS GRANADINA",
+    "address": "CALLE 65G SUR # 79B-35",
+    "phone": "3202683905",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:30 2:00 P.M 4:30 P.M SABADO 7:30 A.M 4:00 P.M"
+  },
+  {
+    "name": "USS BOSA",
+    "address": "CALLE 65D SUR # 79C-90",
+    "phone": "3004947436",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 4:00 P.M DOMINGO7:00 A.M 4:00 P.M"
+  }
+]

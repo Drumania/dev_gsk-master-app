@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="es">
+<%- include('partials/head.html') %>
+
+  <body>
+    <%- include('partials/navigation.html')%>
+
+      <div class="container">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Inicio</a></li>
+          <li class="breadcrumb-item"><a href="/lo-clave-de-la-vacunacion">Sobre la Vacunación</a></li>
+          <li class="breadcrumb-item active" aria-current="page">¿Por qué es importante la vacunación?</li>
+        </ol>
+      </div>
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-12 offset-lg-1 col-lg-6  pt-5 mt-5">
+            <h4>Lo que debes saber</h4>
+            <h1>Sobre la vacunación</h1>
+            <p><strong>Estar al día con las vacunas te ayudará a vivir de 0 a 100.</strong><br />
+              Conoce algunos aspectos clave de la vacunación y
+              por qué es importante.<br />¡Recuerda que hay una vacuna para cada etapa de la vida!
+            </p>
+            <a href="#" class="btn btn-custom mt-3">Sigue aprendiendo</a>
+          </div>
+          <div class="col-4 pt-4">
+            <img src="/images/herosobrelavacunacion.png" alt="hero home" />
+          </div>
+        </div>
+      </div>
+
+
+      <section class="container">
+        <div class="row">
+          <div class="col-12 mt-5 text-center">
+
+            <a href="/lo-clave-de-la-vacunacion" class="btn btn-custom-outline mt-3">Lo clave de la vacunación</a>
+            <a href="/por-que-es-importante-la-vacunacion" class="btn btn-custom mt-3">¿Por qué es importante la
+              vacunación?
+              <img src="/images/double_arrow.svg" />
+            </a>
+
+            <h2 class="my-5 pt-4">¿Por qué es importante la vacunación?</h2>
+
+            <div class="swiper swiper-tre-notas mt-5">
+
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="box-white postion-relative">
+                    <span class="float-category">¿Por qué es importante la vacunación?</span>
+                    <a href="/tener-todas-las-vacunas-recomendadas">
+                      <img src="/images/img-Card3.png" class="img-thumb-notas" />
+                    </a>
+                    <h2>Tener todas las vacunas recomendadas al día puede mejorar tu salud y la de tus hijos</h2>
+                    <p>Recuerda mantener actualizadas tus vacunas y las de tus hijos, para protegerte de diversas
+                      enfermedades y vivir de 0 a 100.</p>
+                    <a href="/tener-todas-las-vacunas-recomendadas" class="text-orange fw-bold">Continuar leyendo
+                      <img src="/images/arroworangenext.svg"></a>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="box-white postion-relative">
+                    <span class="float-category">¿Por qué es importante la vacunación?</span>
+                    <a href="/razones-para-vacunarse">
+                      <img src="/images/img-Card4.png" class="img-thumb-notas" />
+                    </a>
+                    <h2>Razones para vacunarse</h2>
+                    <p>En cada momento de la vida hay una razón para cuidarte y así poder seguir disfrutando. Por eso,
+                      queremos compartirte algunos motivos por los cuáles es recomendable vacunarse.</p>
+                    <a href="/razones-para-vacunarse" class="text-orange fw-bold">Continuar leyendo <img
+                        src="/images/arroworangenext.svg"></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+      </section>
+
+
+      <%- include('partials/double-box.html') %>
+
+        <%- include('partials/slider-enfermedades.html') %>
+
+
+
+          <section class="container">
+            <div class="row">
+              <div class="col-12 border-top mt-5 pt-5 referencias">
+                <strong>Referencias</strong><br />
+                <ul class="mt-3">
+                  <li>CDC. Vaccine-preventable diseases [Internet]. Centers for Disease Control and Prevention. 2023
+                    [citado
+                    el
+                    2 de marzo de 2024]. Disponible en: https://www.cdc.gov/vaccines/parents/diseases/index.html</li>
+                </ul>
+                <div class="text-center py-5 fw-bold text-orange">
+                  Esta información no pretende sustituir el juicio o consejo proporcionado por su equipo de salud y no
+                  debe utilizarse para diagnosticar<br />o dar tratamiento a problemas de salud. Consulte siempre a su
+                  médico
+                  tratante.
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <%- include('partials/footer.html') %>
+  </body>
+
+</html>

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "BIOSIGNO IPS PUERTA DEL NORTE",
+    "address": "DIAGONAL 55 # 35-217",
+    "phone": "4813434",
+    "schedule": "",
+    "complement": "LOCAL 9905"
+  },
+  {
+    "name": "CENTRO INTEGRAL DE SALUD BELLO",
+    "address": "CARREA 49 # 46-34",
+    "phone": "4525524",
+    "schedule": ""
+  },
+  {
+    "name": "COOMEVA INTEGRADOS IPS LTDA",
+    "address": "CALLE 46 # 49-146",
+    "phone": "",
+    "schedule": "",
+    "complement": "PISO 1 Y 4 EDF COTRAFA"
+  },
+  {
+    "name": "COOMSOCIAL BELLO",
+    "address": "CARREA 51 # 33-40",
+    "phone": "4512277 - 4526688",
+    "schedule": ""
+  },
+  {
+    "name": "ESE HOSPITAL MARCO FIDEL SUAREZ",
+    "address": "AVENIDA 42 # 59-06",
+    "phone": "4547510",
+    "schedule": ""
+  },
+  {
+    "name": "ESE HOSPITAL ROSALPI",
+    "address": "CALLE 54 # 56A-11",
+    "phone": "4482030",
+    "schedule": ""
+  },
+  {
+    "name": "IPS BELLO",
+    "address": "CARREA 50 # 46-146",
+    "phone": "4567093",
+    "schedule": ""
+  },
+  {
+    "name": "IPS SURA BELLO",
+    "address": "CARREA 48 # 45-46",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 5:00 P.M - SABADO 7:00 A.M - 1:00 P.M"
+  }
+]

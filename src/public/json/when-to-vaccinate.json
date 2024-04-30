@@ -1,0 +1,218 @@
+[
+  {
+    "id": "recien-nacido",
+    "title": "Recién Nacido",
+    "color": "#6CAC3F",
+    "icon": "icon-recien-nacido",
+    "vaccines": [
+      {
+        "title": "BCG",
+        "diseases": "Meningitis tuberculosa"
+      },
+      {
+        "title": "Hepatitis B",
+        "diseases": "Hepatitis B"
+      }
+    ]
+  },
+  {
+    "id": "2-meses",
+    "title": "2 Meses",
+    "color": "#BA177D",
+    "icon": "icon-meses-2",
+    "vaccines": [
+      {
+        "title": "PENTAVALENTE ",
+        "diseases": "Difteria - Tos ferina - Tétanos Meningitis y otras enfermedades causadas por Haemophilus Influenzae tipo b, hepatitis B."
+      },
+      {
+        "title": "Polio",
+        "diseases": "Poliomielitis"
+      },
+      {
+        "title": "Rotavirus",
+        "diseases": "Diarrea por Rotavirus"
+      },
+      {
+        "title": "Neumococo",
+        "diseases": "Neumonía, otitis, meningitis y bacteremia"
+      }
+    ]
+  },
+  {
+    "id": "4-meses",
+    "title": "4 Meses",
+    "color": "#4B6DB0",
+    "icon": "icon-meses-4",
+    "vaccines": [
+      {
+        "title": "PENTAVALENTE",
+        "diseases": "Difteria - Tos ferina - Tétanos Meningitis y otras enfermedades causadas por Haemophilus Influenzae tipo b, hepatitis B."
+      },
+      {
+        "title": "Polio",
+        "diseases": "Poliomielitis"
+      },
+      {
+        "title": "Rotavirus",
+        "diseases": "Diarrea por Rotavirus"
+      },
+      {
+        "title": "Neumococo",
+        "diseases": "Neumonía, otitis, meningitis y bacteremia"
+      }
+    ]
+  },
+  {
+    "id": "6-meses",
+    "title": "6 Meses",
+    "color": "#18B3BB",
+    "icon": "icon-meses-6",
+    "vaccines": [
+      {
+        "title": "PENTAVALENTE",
+        "diseases": "Difteria - Tos ferina - Tétanos Meningitis y otras enfermedades causadas por Haemophilus Influenzae tipo b, hepatitis B."
+      },
+      {
+        "title": "Polio",
+        "diseases": "Poliomielitis"
+      },
+      {
+        "title": "Influenza estacional",
+        "diseases": "Enfermedad respiratoria causada por el virus de la influenza"
+      }
+    ]
+  },
+  {
+    "id": "7-meses",
+    "title": "7 Meses",
+    "color": "#EB6B2E",
+    "icon": "icon-meses-7",
+    "vaccines": [
+      {
+        "title": "Influenza estacional",
+        "diseases": "Enfermedad respiratoria causada por el virus de la influenza"
+      }
+    ]
+  },
+  {
+    "id": "12-meses",
+    "title": "12 Meses",
+    "color": "#6CAC3F",
+    "icon": "icon-meses-12",
+    "vaccines": [
+      {
+        "title": "SRP",
+        "diseases": "Sarampión - Rubeola - Paperas"
+      },
+      {
+        "title": "Varicela",
+        "diseases": "Varicela"
+      },
+      {
+        "title": "Neumococo",
+        "diseases": "Neumonía, otitis, meningitis y bacteremia"
+      },
+      {
+        "title": "Hepatitis A",
+        "diseases": "Hepatitis A"
+      },
+      {
+        "title": "Fiebre Amarilla (FA)",
+        "diseases": "Fiebre amarilla"
+      }
+    ]
+  },
+  {
+    "id": "18-meses",
+    "title": "18 Meses",
+    "color": "#BA177D",
+    "icon": "icon-meses-18",
+    "vaccines": [
+      {
+        "title": "DPT",
+        "diseases": "Difteria - Tos ferina - Tétanos"
+      },
+      {
+        "title": "Polio",
+        "diseases": "Poliomielitis"
+      }
+    ]
+  },
+  {
+    "id": "5-anios",
+    "title": "5 Años",
+    "color": "#4B6DB0",
+    "icon": "icon-anios-5",
+    "vaccines": [
+      {
+        "title": "DPT",
+        "diseases": "Difteria - Tos ferina - Tétanos"
+      },
+      {
+        "title": "Polio",
+        "diseases": "Poliomielitis"
+      },
+      {
+        "title": "SRP",
+        "diseases": "Sarampión - Rubeola - Paperas"
+      },
+      {
+        "title": "Varicela",
+        "diseases": "Varicela"
+      }
+    ]
+  },
+  {
+    "id": "ninias-9-anios",
+    "title": "Niñas a los 9 años",
+    "color": "#18B3BB",
+    "icon": "icon-ninia-9-anios",
+    "vaccines": [
+      {
+        "title": "Virus del Papiloma Humano (VPH)",
+        "diseases": "Cáncer de cuello uterino"
+      }
+    ]
+  },
+  {
+    "id": "mujeres-edad-fertil-10-49-anios",
+    "title": "Mujeres en Edad Fértil (MEF) entre los 10 y 49 años",
+    "color": "#EB6B2E",
+    "icon": "icon-mujeres-10-49",
+    "vaccines": [
+      {
+        "title": "Toxoide tetánico y diftérico del adulto (Td)",
+        "diseases": "Difteria - Tétanos - Tétanos neonatal"
+      }
+    ]
+  },
+  {
+    "id": "gestantes",
+    "title": "Gestantes",
+    "color": "#6CAC3F",
+    "icon": "icon-gestantes",
+    "vaccines": [
+      {
+        "title": "Influenza estacional",
+        "diseases": "Enfermedad respiratoria causada por el virus de la influenza"
+      },
+      {
+        "title": "Tdap",
+        "diseases": "Tétanos neonatal - Difteria - Tos ferina del recién nacido"
+      }
+    ]
+  },
+  {
+    "id": "adultos-60-anios",
+    "title": "Adultos de 60 años y más",
+    "color": "#BA177D",
+    "icon": "icon-adultos",
+    "vaccines": [
+      {
+        "title": "Influenza estacional",
+        "diseases": "Enfermedad respiratoria causada por el virus de la influenza"
+      }
+    ]
+  }
+]

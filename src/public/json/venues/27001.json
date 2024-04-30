@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SANIDAD POLICIA NACIONAL",
+    "address": "QUIBDO",
+    "phone": "3128295761",
+    "schedule": "LUNES A VIERNES 9:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN FRANCISCO DE ASIS",
+    "address": "QUIBDO",
+    "phone": "3206043073",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL ISMAEL ROLDAN VALENCIA",
+    "address": "REPOSO QUIBDO",
+    "phone": "3122015728",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL ISMAEL ROLDAN VALENCIA",
+    "address": "SAN VICENTE QUIBDO",
+    "phone": "3122015728",
+    "schedule": "LUNES A VIERNES 8:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL ISMAEL ROLDAN VALENCIA",
+    "address": "QUIBDO",
+    "phone": "3122015728",
+    "schedule": "LUNES A VIERNES 9:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "IPS COMFACHOCO",
+    "address": "QUIBDO",
+    "phone": "3226341677",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "COLOMBIA SALUDABLE",
+    "address": "QUIBDO",
+    "phone": "3218303704",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "FUNVIDA",
+    "address": "QUIBDO",
+    "phone": "3128521903",
+    "schedule": "LUNES A VIERNES 9:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CONTROL VIDA",
+    "address": "QUIBDO",
+    "phone": "3204980699",
+    "schedule": "LUNES A VIERNES 11:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  }
+]

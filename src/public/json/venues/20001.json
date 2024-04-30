@@ -1,0 +1,273 @@
+[
+  {
+    "name": "WINTUKWA (INDIGENA)",
+    "address": "CARREERAA 9 # 3-69 LOS CAMPANOS",
+    "phone": "5735000-3205741403",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "VILLA GERMANIA",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "VALENCIA DE JESUS",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "SANIDAD DE LA POLICIA",
+    "address": "CALLEL 14 # 15-16 ALFONSO LOPEZ",
+    "phone": "5711458-3156956685",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO CADA 15 DÍAS 7:30 A.M 1:00 P.M"
+  },
+  {
+    "name": "SALUD TOTAL",
+    "address": "DIAG 16 # 14-64",
+    "phone": "5805678-3188373392",
+    "schedule": "LUNES A VIERNES 7:30 A.M 5:30 P.M SABADO 7:30 A.M 1:30 P.M"
+  },
+  {
+    "name": "RIO SECO",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "PATILLAL",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "MARIANGOLA",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "LOS CORAZONES",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "LOS VENADOS",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "LAS RAICES.",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "LA VEGA ARRIBA",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "LA MINA",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "HOSPITAL ROSARIO PUMAREJO DE LOPEZ",
+    "address": "CALLEL 16C # 17-141 SANTANA",
+    "phone": "5712339-3158798668",
+    "schedule": "TODOS LOS DIAS 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "HEAD SAN MARTIN",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HEAD NEVADA",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HEAD LOS MAYALES",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HEAD EL CARMEN",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HEAD CDV",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "GUAYMARAL",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "GUACOCHITO",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "FUNDACION MEDICO PREVENTIVA",
+    "address": "CALLEL 17 # 16-261 SANTANA",
+    "phone": "5749470-3186126139",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO CADA 15 DÍAS 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "EL PERRO",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "EL ALTO DE LA VUELTA",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "31869033920",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "SINERGIA ALFONSO LOPEZ",
+    "address": "CARREERAA 18 # 11-76 ALFONSO LOPEZ",
+    "phone": "5898527 EXT 51126 -3183868129",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO CADA 15 DÍAS 8:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "CALLEINICA VALLEDUPAR",
+    "address": "CALLEL 16 # 15-15 SANTANA",
+    "phone": "5748550 EXT 251 -3155702533",
+    "schedule": "TODOS LOS DIAS 6:00 A.M 10:00 P.M"
+  },
+  {
+    "name": "CALLEINICA MEDICOS ALTA COMPLEJIDAD",
+    "address": "CALLEL 16 # 11-33 ALFONSO LOPEZ",
+    "phone": "5847612-3152222541",
+    "schedule": "TODOS LOS DIAS 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "CALLEINICA LAURA DANIELA",
+    "address": "CARREERA 19 # 14-47 ALFONSO LOPEZ",
+    "phone": "5803535-3154943517",
+    "schedule": "LUNES A VIERNES 6:00 A.M 9:00 P.M FINES DE SEMANA 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "CALLEINICA CESAR",
+    "address": "CALLEL 16 # 14-90 ALFONSO LOPEZ",
+    "phone": "5748654-310206867",
+    "schedule": "LUNES A VIERNES 6:00 A.M 10:00 P.M FINES DE SEMANA 6:00 A.M 2:00 P.M"
+  },
+  {
+    "name": "BIENESTAR IPS",
+    "address": "TRANSERSAL 18 # 20-46 LOCAL 101 LAS DELICIAS",
+    "phone": "5897883-3015243712",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "CARACOLI",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "3186903392 - 5842828 - 5822445",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "BADILLO",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "3186903392 - 5842828 - 5822445",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "AGUAS BLANCAS",
+    "address": "ZONA RURAL DE VALLEDUPAR",
+    "phone": "3186903392 - 5842828 - 5822445",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "SANTA HELENA DEL VALLE",
+    "address": "CARREERA 11 # 14-34",
+    "phone": "5898620-3015667636",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "LOCAL 2 LOPERENA"
+  },
+  {
+    "name": "KANKUAMA (INDIGENA)",
+    "address": "CARREERAA 19 # 22A 25 PRIMERO DE MAYO",
+    "phone": "5803886",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M"
+  },
+  {
+    "name": "DUSAKAWI (INDIGENA)",
+    "address": "CALLE 16 # 17141 INTERIOR DEL HOSPITAL ROSARIO PUMAREJO DE LOPEZ",
+    "phone": "5804440-3164479306",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M"
+  },
+  {
+    "name": "DISPENSARIO BATALLON LA POPA",
+    "address": "KILOMETRAJE 1 VIA LA MEZA",
+    "phone": "3182945953-5832765",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CALLEINCA SANTO TOMAS",
+    "address": "CALLE 10 # 13C-47 SIMON BOLIVAR",
+    "phone": "5743227",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA BUENOS AIRES",
+    "address": "CARREERAA 15 # 14-36 ALFONSO LOPEZ",
+    "phone": "5806494-3174404634",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "KANKUAMA (INDIGENA)",
+    "address": "KANKUAMA (INDIGENA)",
+    "phone": "58038860",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "FUNDACION VISION CARIBE",
+    "address": "CARREERA 11A # 14-106",
+    "phone": "5742775",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "DUSAKAWI (INDIGENA)",
+    "address": "HOSPITAL ROSARIO PUMAREJO DE LOPEZ",
+    "phone": "5804440-3188691392",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "DISPENSARIO BATALLON LA POPA",
+    "address": "BATALLON L A POPA",
+    "phone": "5832765-3214927947",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SANTA ISABEL",
+    "address": "CARREERAA 18 # 22-23",
+    "phone": "5748480",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "UNIDAD PEDIATRICA SIMON BOLIVAR",
+    "address": "CARREERA 18D # 28-41 SIMON BOLIVAR",
+    "phone": "5821859 - 3185955068",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - FINES DE SEMANA 8:00 A.M - 12:00 P.M"
+  }
+]

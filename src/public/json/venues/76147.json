@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CAJA DE COMPENSACION FAMILIAR DEL VALLE DEL CAUCA",
+    "address": "CARRERA 4 # 9-45",
+    "phone": "922110111 - 3104517363",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "IPS DEL MUNICIPIO DE CARTAGO E.S.E. GUADALUPE",
+    "address": "CARRERA 3BIS N1-40",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "MI IPS",
+    "address": "CALLE 8 BIS # 3 A 25",
+    "phone": "57962118300",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "IPS HYL SALUD S.A.S.",
+    "address": "IPS HYL SALUD S.A.S.",
+    "phone": "3104517363",
+    "schedule": ""
+  },
+  {
+    "name": "SANIDAD POLICIA",
+    "address": "SANIDAD POLICIA",
+    "phone": "3104517363",
+    "schedule": ""
+  },
+  {
+    "name": "IDIME IPS",
+    "address": "IDIME IPS",
+    "phone": "3104517363",
+    "schedule": ""
+  }
+]

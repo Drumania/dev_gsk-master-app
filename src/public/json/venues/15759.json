@@ -1,0 +1,83 @@
+[
+  {
+    "name": "ALUD SOGAMOSO E.S.E",
+    "address": " CARRERA 8 # 11-87",
+    "phone": "3103238245",
+    "schedule": "LUNES A VIERNES 8:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M LUNES A VIERNES 8:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "SEDE MONQUIRA"
+  },
+  {
+    "name": "SALUD SOGAMOSO E.S.E",
+    "address": "CARRERA 8 # 11-87",
+    "phone": "3103238245",
+    "schedule": "LUNES A VIERNES 8:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "SEDE MAGDALENA"
+  },
+  {
+    "name": "SALUD SOGAMOSO E.S.E",
+    "address": "CARRERA 8 # 11-87",
+    "phone": "3103238245",
+    "schedule": "LUNES A VIERNES 8:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "SEDE CENTRO"
+  },
+  {
+    "name": "HOSPITAL REGIONAL DE SOGAMOSO E.S.E",
+    "address": "CALLE 11 # 8A-43",
+    "phone": "7702201 - 3142205177",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CARRERAUZ ROJA COLOMBIANA SECCIONAL BOYACA UNIDAD MUNICIPAL SOGAMOSO",
+    "address": "CALLE 11 # 847.",
+    "phone": "7702201 - 313 3620167",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:30 P.M 2:00 P.M 5:00 P.M SABADO 7:30 A.M 1:00 P.M"
+  },
+  {
+    "name": "CORPORACIÓN IPS BOYACÁ",
+    "address": "CARRERA 11 # 21A-10",
+    "phone": "3103238245",
+    "schedule": ""
+  },
+  {
+    "name": "CALLEINICA EL LAGUITO S.A",
+    "address": "CALLE. 22 # 11-73",
+    "phone": "3108185531",
+    "schedule": "ANTIRRÁBICA"
+  },
+  {
+    "name": "CALLEINICA DE ESPECIALISTAS LTDA.",
+    "address": "CARRERA 9 # 14-17",
+    "phone": "",
+    "schedule": "ANTIRRÁBICA"
+  },
+  {
+    "name": "ALIANZA CALLEINICOS COMPENSAR",
+    "address": "CALLE 9A # 13-39",
+    "phone": "7703039 - 3133346074",
+    "schedule": "LUNES A VIERNES 8:00 A.M 11:00 A.M 2:00 P.M 4:00 P.M 1 SABADO CADA 15 DÍAS 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "BATALLON DE ARTILLERIA TARQUI ESM 5038 SOGAMOSO",
+    "address": "KILOMETRO 5 VIA IZA 3173785643",
+    "phone": "3138805583",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:30 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "UNIDAD BASICA DE ATENCION II DISTRITO POLICIA NACIONAL",
+    "address": "Carrera 11 CALLE 14",
+    "phone": "3212071135",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:30 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "CENTRO DE APOYO DIAGNSTICO SANTA ANA",
+    "address": "CALLE INICA CHIA CARRERA 11 # 9",
+    "phone": "3118444536 - 3118444536",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:30 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "COLSUBSIDIO IPS",
+    "address": "CALLE 13A # 16A 22",
+    "phone": "3214544162",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:30 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 1:00 P.M"
+  }
+]

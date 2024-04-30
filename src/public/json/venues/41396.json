@@ -1,0 +1,32 @@
+[
+  {
+    "name": "COORPORACION MI IPS HUILA",
+    "address": "CARRERA 3 # 6-42",
+    "phone": "3134806243 - 3012539312",
+    "schedule": "MARTES A VIERNES 7:30 A.M - 11:45 P.M - 2:00 P.M - 4:45 P.M - SABADO 7:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "HOSPITAL SAN ANTONIO DE PADUA",
+    "address": "AVENIDAD LIBERTADORES VIA NEIVA",
+    "phone": "3208921405",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "ESE SAN SEBASTIAN SEDE ESE SAN SEBASTIAN",
+    "address": "CARRERA 4 # 9-103",
+    "phone": "3133270087",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "ESE SAN SEBASTIAN SEDE BELEN",
+    "address": "CENTRO POBLADO DE BELEN",
+    "phone": "3143268466",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "ESE SAN SEBASTIAN SEDE ESE CAMILO TORRES",
+    "address": "CARRERA 4 # 9-103",
+    "phone": "3184698668",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 5:00 P.M"
+  }
+]

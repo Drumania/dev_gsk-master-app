@@ -1,0 +1,242 @@
+[
+  {
+    "name": "ALIANZA DIAGNSTICA",
+    "address": "CALLE 47 # 2956 SOTOMAYOR",
+    "phone": "6474792- 6474710",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE ATENCIÓN Y DIAGNÓSTICO DE ENFERMEDADES INFECCIOSAS",
+    "address": "CDI SA  CARRERA 37 # 51- 126",
+    "phone": "6461666-3214637163",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD BUCARAMANGA",
+    "address": "CALLE 69 # 10 1",
+    "phone": "6442258-0",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CAFÉ MADRID",
+    "address": "FRENTE AL VIVE DIGITAL 6731718",
+    "phone": "3212491421-",
+    "schedule": "LUNES A VIERNES 6:30 A.M  4:30 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CAMPO HERMOSO",
+    "address": "CALLE 45 # 0 199 CAMPO HERMOSO",
+    "phone": "3155326328-6424670",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD COLORADOS",
+    "address": "AVENIDANIDA 52 # 21 89 COLORADOS 3224134375",
+    "phone": "6738127-",
+    "schedule": "LUNES A VIERNES 6:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD COMUNEROS",
+    "address": "CALLE 10 # 1728",
+    "phone": "6711110-3152152212",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CONCORDIA",
+    "address": "CALLE 53 N2163",
+    "phone": "6574663-3132176620",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD GIRARDOT.",
+    "address": "CARRERA 625- 34 GIRARDOT",
+    "phone": "6334486-3132435065",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD IPC",
+    "address": "CRR 40 N13 07 DIVISO",
+    "phone": "3165690403-6400014",
+    "schedule": "LUNES A VIERNES 6:30 A.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD KENNEDY",
+    "address": "CARRERA 9 12N #RTE 6405757",
+    "phone": "6409002-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA JOYA",
+    "address": "CALLE 41N 431",
+    "phone": "6427389-3008064818",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD MORRORICO",
+    "address": "CALLE 34 # 35 57",
+    "phone": "6352746-3165359571",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD MUTIS",
+    "address": "CARRERA 3N 5721 MUTIS",
+    "phone": "6410558-3217266150",
+    "schedule": "LUNES A VIERNES 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD PABLO VI",
+    "address": "CARRERA 10D # 67A8",
+    "phone": "3144882349-3184399753",
+    "schedule": "LUNES A JUEVES 7:00 A.M  5:00 P.M  VIERNES 7:00 A.M  3:00 A.M"
+  },
+  {
+    "name": "CENTRO DE SALUD REGADEROS",
+    "address": "TRANSVERSAL 25N 1 92 COLINA RUITOQUE FLRIDABLANCA SANTANDER 3114591202",
+    "phone": "6404640-",
+    "schedule": "LUNES A VIERNES 6:30 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD ROSARIO",
+    "address": "CALLE 34 # 35 57",
+    "phone": "6352746-3003328434",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTANDER",
+    "address": "CALLE 27 # 8OCC 35",
+    "phone": "6333197-6333197",
+    "schedule": "LUNES A VIERNES 7:00 A.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD TOLEDO PLATA",
+    "address": "CALLE 105 # 15B28",
+    "phone": "3104835023-6370759",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD VILLA ROSA",
+    "address": "CARRERA 11 # 18B 50 VILLA ROSA 3188585231",
+    "phone": "6406677-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "CENTRO SALUD LIBERTAD",
+    "address": "CARRERA 32 # 9918",
+    "phone": "3182826838-3630188",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA CHICAMOCHA",
+    "address": "CALLE 40 # 27A 22",
+    "phone": "6459680-3125843301",
+    "schedule": "LUNES A VIERNES 9:00 A.M  11:30 A.M  2:00 P.M  4:30 P.M"
+  },
+  {
+    "name": "CALLEINICA MATERN INFANTIL SAN LUIS",
+    "address": "CALLE 48 # 2556",
+    "phone": "6430026-3105597923",
+    "schedule": "LUNES A VIERNES 8:00 A.M  11:00 A.M  2:00 P.M  5:00 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "DISPENSARIO MEDICO BUCARAMANGA",
+    "address": "CARRERA 33 # 1435",
+    "phone": "6915610-3166550301",
+    "schedule": "LUNES A VIERNES 7:00 A.M  4:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL UNIVERSITARIO DE SANTANDER",
+    "address": "CARRERA 33 # 28126",
+    "phone": "6346110-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  4:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "ESPAB SABUC POLICIA NACIONAL",
+    "address": "CALLE 48 35 a 17 CABECERA 3208437095",
+    "phone": "6450309-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "FOSCAL CABECERA",
+    "address": "CARRERA 33 N.4935 EDIFICIO DAVIVIENDA OFICINA 108",
+    "phone": "6575858-3152112102",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL DEL NRTE",
+    "address": "CARRERA9 CALLE12N HLN MINUTO DE DIOS 6405757",
+    "phone": "6409002-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "IPS CAJASAN CIUDADELA REAL DE MINAS",
+    "address": "DIAGONAL 16 N. 5956 REAL DE MINAS",
+    "phone": "6434444-3165770309",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS COMFENALCO SANTANDER",
+    "address": "CALLE 34 # 263",
+    "phone": "6346595-3155016356",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  SABADO 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "IPS COOMULTRASAN CABECERA",
+    "address": "CALLE 52 N. 31109 CABECERA",
+    "phone": "64311111-3046728546",
+    "schedule": "LUNES A VIERNES 7:00 A.M  4:00 P.M  SABADO 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "IPS COOMULTRASAN CARRERA 27",
+    "address": "CARRERA 27 # 3387",
+    "phone": "3162392571-6347584",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS SURA",
+    "address": "CALLE 52 # 29123",
+    "phone": "6470800-3178640260",
+    "schedule": "LUNES A VIERNES 7:00 A.M  8:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "LOS COMUNEROS HOSPITAL UNIVERSITARIO DE BUCARAMANGA",
+    "address": "CARRERA 27 # 3015 LA AURORA",
+    "phone": "6343536-3182985914",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "MÓVIL RURAL ISABU",
+    "address": "CALLE 45 # 19 91",
+    "phone": "3132266986-6700870",
+    "schedule": "LUNES A VIERNES 8:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "SALUD TOTAL",
+    "address": "CARRERA 29 # 5116",
+    "phone": "3013992165-3153523420",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "SINERGIA SALUD ATENCIÓN BÁSICA MESETA",
+    "address": "CARRERA 34 # 42—90 6970983",
+    "phone": "3122780451-",
+    "schedule": "LUNES A VIERNES 8:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "UAP BUCARAMANGA SANITAS",
+    "address": "CARRERA 33 # 5419 CABECERA",
+    "phone": "6851050-3187564155",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "UIMIST",
+    "address": "CARRERA 21 # 122",
+    "phone": "6716502-3157894080",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  1:00 P.M  3:00 P.M"
+  },
+  {
+    "name": "CALLEINICA DE URGENCIAS BUCARAMANGA",
+    "address": "CARRERA 33 # 54 27",
+    "phone": "3102505145-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M"
+  }
+]

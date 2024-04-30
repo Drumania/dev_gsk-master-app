@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SERVIMEDICOS ACACIAS -",
+    "address": "SERVIMEDICOS ACACIAS -",
+    "phone": "6656440",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "CORPORACION IPS LLANS",
+    "address": "CARRERA 16 N13-25",
+    "phone": "6560155",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL MUNICIPAL DE ACACIAS E.S.E",
+    "address": "DIAGONAL 15 # 26-21 ACACIAS",
+    "phone": "3112301103",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

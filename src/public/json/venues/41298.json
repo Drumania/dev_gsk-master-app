@@ -1,0 +1,44 @@
+[
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA",
+    "address": "KRA 13 # 3- 39",
+    "phone": "3163947433",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 11:00 A.M"
+  },
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA ZULUAGA",
+    "address": "VDA ZULUAGA",
+    "phone": "3143229514",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:30 P.M"
+  },
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA SAN ANTONIO DEL PESCADO",
+    "address": "CENTRO POBLADO SAN ANTONIO DEL PESCADO",
+    "phone": "3209650663",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:30 P.M"
+  },
+  {
+    "name": "HOSPITAL MARIA AUXILIADORA SAN GERARDO",
+    "address": "VDA SAN GERARDO",
+    "phone": "322855870",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN VICENTE DE PAUL",
+    "address": "CLL 7 # 14- 69 SAN VICENTE",
+    "phone": "3134767387",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "SALUD VITAL",
+    "address": "KRA 8 # 4-21",
+    "phone": "8335255 - 3222299280",
+    "schedule": "LUNES A VIERNES 7:00 A.M  1:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  10:00 A.M"
+  },
+  {
+    "name": "CORPORACION IPS HUILA",
+    "address": "KRA 13 # 3-8",
+    "phone": "8333473 - 3115391860",
+    "schedule": "LUNES A VIERNES 7:30 A.M  1:00 P.M  2:00 P.M  5:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "EMPRESA SOCIAL DEL ESTADO HOSPITAL EMIRO QUINTERO CAÑIZARES",
+    "address": "CALLE 7 N0 29- 14",
+    "phone": "5636330",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD AGUAS CALLEARAS",
+    "address": "CORREGIMIENTO AGUAS CALLEARAS",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DE PUEBLO NUEVO",
+    "address": "CORREGIMIENTO PUEBLO NUEVO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD OTARE",
+    "address": "CORREGIMIENTO DE OTARE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD BUENAVENIDAISTA",
+    "address": "CORREGIMIENTO DE BUENAVENIDAISTA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD CRISTO REY",
+    "address": "CRISTO REY",
+    "phone": "5690022",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DE TORCOROMA",
+    "address": "LA TORCOROMA",
+    "phone": "5692036",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PROMESA DE DIOS",
+    "address": "PROMESA DE DIOS",
+    "phone": "5692035",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CIUDADELA NRTE",
+    "address": "CIDADELA NRTE",
+    "phone": "5613137",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  }
+]

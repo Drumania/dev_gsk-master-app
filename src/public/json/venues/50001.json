@@ -1,0 +1,80 @@
+[
+  {
+    "name": "CORPORACION IPS PARQUE",
+    "address": "CARRERA 40 # 32-6",
+    "phone": "6631069-31385441227",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "UBA COOMEVA EL BARZAL",
+    "address": "CARRERA 38 # 34-40 BARZAL",
+    "phone": "6824700",
+    "schedule": "MARTES A VIERNES 8:00 A.M  4:00 P.M"
+  },
+  {
+    "name": "ESIMED DE LOS LLANS",
+    "address": "CALLE 32 # 40A-40 BARZAL ALTO",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "POLICIA NUESTRA SEÑORA DELPILAR",
+    "address": "CALLE 44 # 35-98 EL TRIUNFO",
+    "phone": "6646891-6646246",
+    "schedule": "MARTES A VIERNES 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "NUEVA LUZ IPS",
+    "address": "CALLE 34 # 41-28 BARZAL",
+    "phone": "6632711",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "INVERSIONES CALLEINICA META",
+    "address": "CALLE 33 # 36-50",
+    "phone": "6680564-6723336",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL MILITAR",
+    "address": "KILOMETRO 7 VIA PUERTO LÓPEZ VEREDA APIAY 0",
+    "phone": "66984540",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "FUERZA AEREA",
+    "address": "KILOMETRO 12 VIA PUERTO LÓPEZ BASE AEREA APIAY 0",
+    "phone": "67201660",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "E.S.E CENTRO DE SALUD PORFIA",
+    "address": "CALLE 54 # 44-03 PORFIA",
+    "phone": "6695597-3112081173",
+    "schedule": "LUNES A VIERNES 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "E.S.E CENTRO DE SALUD ESPERANZA",
+    "address": "CARRERA 12 # 47B-03 LA ESPERANZA",
+    "phone": "6705935-3112081173",
+    "schedule": "LUNES A VIERNES 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "CALLEINICA UNIVERSIDAD COOPERATIVA DE COLOMBIA",
+    "address": "CALLE 36 # 35-70 BARZAL",
+    "phone": "6628658",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CALLEINICA MARTHA S.A.",
+    "address": "CARRERA 36 # 35-09 BARZAL",
+    "phone": "-3153109483",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "CALLEINICA COLSANITAS SA",
+    "address": "CALLEINISANITAS VILLAVICENCIO  CALLE 37A # 34-36 BARZAL",
+    "phone": "6632564-6680019",
+    "schedule": "LUNES A VIERNES 8:00 A.M  1:00 P.M  2:00 P.M  5:00 P.M"
+  }
+]

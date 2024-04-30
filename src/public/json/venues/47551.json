@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ESE HOSPITAL SANTANDER HERRERA",
+    "address": "CALLE 14 # 12-46",
+    "phone": "3004571363",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "MARIA PINTO",
+    "address": "SAN JOSE",
+    "phone": "3004571363",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "PIEDAD SANTODOMINGO",
+    "address": "SHILER -",
+    "phone": "3004571363",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "EVERLIDES TERNERA",
+    "address": "NUEVA ESPERANZA",
+    "phone": "3004571363",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "YOLANDA JARABA",
+    "address": "VILLA SALAH",
+    "phone": "3004571363",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

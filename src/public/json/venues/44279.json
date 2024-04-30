@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ESE HOSPITAL SANTO TOMAS",
+    "address": "CALLE 14 # 13-27",
+    "phone": "7772051",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SANTO TOMAS",
+    "address": "CALLE 14 # 13-28",
+    "phone": "7772051",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "Liria García peñaranda",
+    "address": "CALLE 15 # 21-31",
+    "phone": "3116729203",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

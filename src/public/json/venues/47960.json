@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HOSPITAL LOCAL ZAPAYAN",
+    "address": "AVENIDA PIEDRAS DE MOLER",
+    "phone": "3103857350",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "PARQUE MARÍA AUXILIADORA",
+    "address": "PARQUE MARÍA AUXILIADORA",
+    "phone": "3103857350",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL ZAPAYAN",
+    "address": "AVENIDA PIEDRAS DE MOLER ",
+    "phone": "3103857350",
+    "schedule": "8 A 12 - 2 A 6 PM"
+  },
+  {
+    "name": "PARQUE MARÍA AUXILIADORA",
+    "address": "parque María Auxiliadora",
+    "phone": "3103857350",
+    "schedule": "8 A 12 - 2 A 6 PM"
+  }
+]

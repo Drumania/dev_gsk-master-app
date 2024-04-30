@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HOSPITAL SAN VICENTE DE PAÚL",
+    "address": "CALLE 4 # 6 – 17",
+    "phone": "3687000 - 3687192",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 1:00 P.M"
+  },
+  {
+    "name": "HOSPITAL DEPARTAMENTAL CLARENCE LYND NEWBALL",
+    "address": "VÍA SAN LUIS -BAHÍA HOOKER",
+    "phone": "3162320529 - 3164913142",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 4:00 P.M"
+  },
+  {
+    "name": "SANIDAD DE LA ARMADA -",
+    "address": "AVENIDA CIRCUMVALAR KM 10 SECTOR COVE",
+    "phone": "3214900690 - 3202138702",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 10:00 A.M - 2:00 P.M - 4:00 P.M"
+  },
+  {
+    "name": "SANIDAD POLICÍA",
+    "address": "VÍA SAN LUIS 2DO PISO- CLÍNICA VILLAREAL",
+    "phone": "3505561092 - 3204990531",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 10:00 A.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO INSULAR",
+    "address": "AVENIDA PROVIDENCIA CRA 2 #. 4-93",
+    "phone": "5125522 - 3208452709",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 2:00 P.M"
+  }
+]

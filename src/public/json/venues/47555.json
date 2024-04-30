@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HOSPITAL 7 DE AGOSTO",
+    "address": "CARRERA 23 CALLE 14 ESQUINA",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PARQUE SANTANDER.",
+    "address": "PARQUE SANTANDER",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PARQUE JUAN 23.",
+    "address": "PARQUE JUAN 23",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CORPORACION COSTA ATLANTICA.",
+    "address": "CORPORACION COSTA ATLANTICA.",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LAS MERCEDES.",
+    "address": "CARRERA 15 LAS MERCEDES",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD POLICARPA.",
+    "address": "CALLE 8 y 9 POLICARPO",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SAN RAFAEL.",
+    "address": "CALLE 01 CARRERA 15 SAN RAFAEL",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD APURE.",
+    "address": "CORREGIMIENTO DE APURE",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD CARMEN DEL MAGD.",
+    "address": "CORREGIMIENTO DEL CARMEN",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DISCIPLINA.",
+    "address": "CORREGIMIENTO DE DISCIPLINA",
+    "phone": "3116917073",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  }
+]

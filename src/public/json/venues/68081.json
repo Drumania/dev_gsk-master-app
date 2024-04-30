@@ -1,0 +1,128 @@
+[
+  {
+    "name": "CENTRO DE ATENCION Y DIAGNSTICOS DE ENFERMEDADES INFECCIOSAS C.D.I S.A",
+    "address": "DIAGONAL 48 # 27 107",
+    "phone": "3183731752-6202557",
+    "schedule": "LUNES A VIERNES 7:30 A.M  5:30 P.M  SABADO 8:00 A.M  11:30 A.M"
+  },
+  {
+    "name": "CRUZ ROJA COLOMBIANA SECCIONAL SANTANDER UNIDAD MUNICIPAL BARRANCABERMEJA",
+    "address": "CALLE 48 # 22141",
+    "phone": "3138864964-",
+    "schedule": "LUNES A VIERNES 6:30 A.M  5:30 P.M  SABADO 8:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "IPS CAJASAN BARRANCABERMEJA",
+    "address": "CALLE 57 # 27 15",
+    "phone": "3206892630-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CON CAMAS EL DANUBIO",
+    "address": "TRANSVERSAL 27 DIAGONAL 58",
+    "phone": "6030007-3217370083",
+    "schedule": "LUNES A JUEVES 7:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M  VIERNES 6:00 A.M  11:00 A.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SIN CAMAS EL CAMPIN",
+    "address": "CARRERA 54 CALLE 44 Y 45",
+    "phone": "6030008-3218252483",
+    "schedule": "LUNES A JUEVES 6:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M  VIERNES 6:00 A.M  11:00 A.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CON CAMAS EL CASTILLO",
+    "address": "CALLE 30 CARRERA 48",
+    "phone": "6030014-3168690763",
+    "schedule": "LUNES A JUEVES 6:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M  VIERNES 6:00 A.M  11:00 A.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD CON CAMAS EL CENTRO",
+    "address": "VEREDA PUEBLO REGADO CORREGIMIENTO EL CENTRO",
+    "phone": "6030006-3204835018",
+    "schedule": "LUNES A JUEVES 6:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M  VIERNES 6:00 A.M  11:00 A.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SIN CAMAS LA FLORESTA",
+    "address": "CARRERA 30 CALLE 74 ESQUINA",
+    "phone": "6030004-3212351841",
+    "schedule": "LUNES A JUEVES 6:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M  VIERNES 6:00 A.M  11:00 A.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SIN CAMAS CARDALES",
+    "address": "CALLE 45 # 15 50",
+    "phone": "6030011-3204999514",
+    "schedule": "LUNES A JUEVES 6:00 A.M  11:00 A.M  1:00 P.M  5:00 P.M  VIERNES 6:00 A.M  11:00 A.M  1:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "EMPRESA SOCIAL DEL ESTADO HOSPITAL REGONAL DEL MAGDALENA MEDIO",
+    "address": "CARRERA 17 # 57119 PUEBLO NUEVO",
+    "phone": "3115205796-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "UNIDAD CALLEINICA LA MAGDALENA S.A.S",
+    "address": "CALLE 50  # 24- 37",
+    "phone": "3105605324-6110809",
+    "schedule": "LUNES A DOMINGO 8:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "PEDICENTRO SAS",
+    "address": "CARRERA 28 # 60115 ESQUINA",
+    "phone": "3002978845-6207751",
+    "schedule": "LUNES A VIERNES 6:00 A.M  10:00 A.M  12:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SAN JOSE S.A.S",
+    "address": "CALLE 47 N. 2872 PALMIRA",
+    "phone": "6024545-3114728724",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "M & M DIAGNSTICO LTDA",
+    "address": "CALLE 57 N. 2715 PISO 2.",
+    "phone": "6211110-",
+    "schedule": "LUNES A VIERNES 10:00 A.M  11:00 A.M  4:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "RVO IPS S.A.S",
+    "address": "CARRERA 20 # 5128",
+    "phone": "3165261003-6202016",
+    "schedule": "LUNES A VIERNES 2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "UNIDAD CALLEINICA SAN NICOLAS LIMITADA",
+    "address": "CALLE 52 # 1893 URIBE URIBE",
+    "phone": "3112272953-6223173",
+    "schedule": "LUNES A SABADO 7:30 A.M  10:30 A.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO FAMILIAS SAS",
+    "address": "CALLE 23 # 49 31",
+    "phone": "3158208079-6224528",
+    "schedule": "24 HORAS RECIÉN NACIDO"
+  },
+  {
+    "name": "SALUD 10 IPS S.A.S",
+    "address": "CALLE 48 # 2425 COLOMBIA",
+    "phone": "3006310613-6008797",
+    "schedule": "LUNES A SABADO 7:30 A.M  11:45 A.M  2:00 P.M  5:30 P.M"
+  },
+  {
+    "name": "IPS BARRANCABERMEJA",
+    "address": "CALLE 48 # 2441",
+    "phone": "6222037-3133434690",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "NUEVA IPS FORPRESALUD",
+    "address": "CALLE 48 # 2272",
+    "phone": "3005048385-",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "UNIDA DE ATENCION AMBULATORIA BARRANCABERMEJA",
+    "address": "DIAGONAL 56 # 18  80 CENTRO COMERCIAL SAN SILVESTRE LOCAL 327",
+    "phone": "-3006928814",
+    "schedule": "HORARIO ADMINISTRATIVO"
+  }
+]

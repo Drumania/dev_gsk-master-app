@@ -1,0 +1,16 @@
+[
+  {
+    "id": 9,
+    "image": "/images/slider/footer/09.jpg",
+    "link": "https://www.instagram.com/mevacunopor/?igshid=YmMyMTA2M2Y%3D",
+    "name": "Slider 9",
+    "target": "_blank"
+  },
+  {
+    "id": 10,
+    "image": "/images/slider/footer/10.jpg",
+    "link": "https://www.instagram.com/mevacunopor/?igshid=YmMyMTA2M2Y%3D",
+    "name": "Slider 10",
+    "target": "_blank"
+  }
+]

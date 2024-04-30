@@ -1,0 +1,208 @@
+[
+  {
+    "name": "FUNCENTRA",
+    "address": "CARRERA 3 # 21-44",
+    "phone": "3233673067-3107087018",
+    "schedule": ""
+  },
+  {
+    "name": "CALLEINICA CENTRAL LTDA",
+    "address": "CARRERA 6 # 30-36",
+    "phone": "3024057160-3173748031",
+    "schedule": "LUNES A SABADO 7:00 A.M 4:00 P.M DOMINGOS 24 HORAS"
+  },
+  {
+    "name": "CALLEINICA DEL RIO",
+    "address": "CALLE 3 # 12-08 BUENAVISTA",
+    "phone": "3107312277-3042140935",
+    "schedule": "LUNES A VIERNES 7:00 A.M 2:00 P.M 5:00 P.M 7:00 P.M FIN DE SEMANA 8:00 A.M 2:00 P.M"
+  },
+  {
+    "name": "CALLEINICA MATERNO INFANTIL CASA DEL NIÑO LT",
+    "address": "CALLELE 39 # 615",
+    "phone": "3205791910-3128917783",
+    "schedule": "LUNES A SABADO 8:00 A.M 4:00 P.M DOMINGOS 24 HORAS"
+  },
+  {
+    "name": "CALLEINICA MONTERIA SA",
+    "address": "CARRERA 4 # 60-35",
+    "phone": "3103850735",
+    "schedule": "LUNES A SABADO 7:00 A.M 3:00 P.M FINES DE SEMANA 24 HORAS"
+  },
+  {
+    "name": "CALLEINICA ZAYMA",
+    "address": "CALLE 28 # 7-11",
+    "phone": "3146842693-3126746351",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "ENTIDAD DE SANIDAD MILITAR BATALLON BR11",
+    "address": "VIA A JARAQUIEL",
+    "phone": "3126632180-3205464415",
+    "schedule": "LUNES A SABADO 7:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "EPS SANITAS CENTRO MEDICO MONTERIA",
+    "address": "CENTRO COMERCIAL NUESTRO",
+    "phone": "3002240089-3008960823",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "LOCAL 322"
+  },
+  {
+    "name": "ESE VIDASINU",
+    "address": "MANANA 6 SUEÑO REAL",
+    "phone": "3017071862-3114106627",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "EVALUAMOS CALLEINICA LA ESPERANZA IPS",
+    "address": "CALLE 12 # 4-58",
+    "phone": "3116990214",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M FIN DE SEMANA 24 HORAS"
+  },
+  {
+    "name": "FUNDACION AMIGOS DE LA SALUD",
+    "address": "CARRERA 11 # 2-71",
+    "phone": "3016861899-3183474827",
+    "schedule": "24 HORAS"
+  },
+  {
+    "name": "HOSPITAL SAN JERONIMO",
+    "address": "CALLE 14 # 22-200",
+    "phone": "3136031604-3126523736",
+    "schedule": "LUNES A DOMINGO 5:00 A.M 8:00 A.M 3:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "MEDICINA INTEGRAL NUEVA EPS",
+    "address": "CALLE 30 # 38",
+    "phone": "3003440631-3216267364",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 1:00 P.M 6:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "MEDICINA INTEGRAL SEDE MAGISTERIO",
+    "address": "CALLE 44 # 14E-382",
+    "phone": "3013236064-7918058",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 11:00 A.M"
+  },
+  {
+    "name": "PROMOSALUD DEL SINU",
+    "address": "CALLE 27 # 9-55",
+    "phone": "3105079855-3046247610",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "PROMOSALUD IPS SEDE EXCALLEUSIVA",
+    "address": "CALLELE 24 # 7-44",
+    "phone": "3137914437-3145276362",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "SERVISALUD ALEF UBA COOMEVA",
+    "address": "CARRERA 7 # 12-40 BUENA VISTA",
+    "phone": "3232096730-7839001",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 7:00 A.M 12:30 P.M"
+  },
+  {
+    "name": "CHRISTUS SINERGIA GLOBAL",
+    "address": "CALLE 24 # 5-53",
+    "phone": "3013974689-3116865566",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 7:00 A.M 12:30 P.M"
+  },
+  {
+    "name": "VIRREY SOLIS IPS S.A PERLA DEL SINU",
+    "address": "CALLE 29 # 9-47",
+    "phone": "3226608002",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "CRUZ ROJA COLOMBIANA",
+    "address": "CALLELE 24 CARRERA 13 # 24-71",
+    "phone": "3126729674-7951979",
+    "schedule": "LUNES A SABADO 8:00 A.M 1:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "KIDS CENTER UNIDAD PEDIATRICA",
+    "address": "CALLE 72 B # 74-71",
+    "phone": "3103850735-7898820",
+    "schedule": "LUNES, MIERCOLES Y VIERNES 3:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "PROFAMILIA MONTERIA",
+    "address": "CARRERA 3 # 17-08 BUENAVISTA",
+    "phone": "3015172087-3107286402",
+    "schedule": "LUNES A VIERNES 7:00 A.M 12:00 P.M 1:00 P.M 6:00 P.M SABADO 7:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "VACUNARTE IPS",
+    "address": "CALLE 33 # 15B-04 EL EDEN",
+    "phone": "3204100690-3205350834",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CENTRO ESPECIALIZADO DE ATENCION Y TRATAMIENTO DE HRIDAS CAATH",
+    "address": "CARRERA 14 # 37-7",
+    "phone": "3504860720-7887743",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M SABADO 8:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "SANIDAD POLICIA",
+    "address": "LOS LAURELES # 42-64",
+    "phone": "3136031604-3218490037",
+    "schedule": "LUNES A SABADO 8:00 A.M 3:00 P.M"
+  },
+  {
+    "name": "SERVISALUD ALEF UBA COOMEVA",
+    "address": "CRA 7 # 12-40 BARRIO BUENA VISTA",
+    "phone": "3232096730-7839001",
+    "schedule": "LUNES A VIERNES DE 7 AM A 12 M Y DE 2 PM A 5 PM SABADOS DE 7 AM A 12.30 pm"
+  },
+  {
+    "name": "CHRISTUS SINERGIA GLOBAL",
+    "address": "CALLE 24 # 5-53",
+    "phone": "3013974689-3116865566",
+    "schedule": "7 AM A 12 M DE 2 PM A 5 PM, SABADOS DE 7 AM A 12:30 PM"
+  },
+  {
+    "name": "VIRREY SOLIS IPS S.A PERLA DEL SINU",
+    "address": "CALLE 29 # 9-47",
+    "phone": "3226608002",
+    "schedule": "DE 7 AM A 7 PM. SABADOS DE 7 AM A 1 PM"
+  },
+  {
+    "name": "CRUZ ROJA COLOMBIANA",
+    "address": "CRA 13 # 24-71",
+    "phone": "3126729674-7951979",
+    "schedule": "LUNES A VIERNES DE 8AM A 12 M Y DE 2 PM A 5 PM"
+  },
+  {
+    "name": "KIDS CENTER UNIDAD PEDIATRICA",
+    "address": "CALLE 72 B # 74-71",
+    "phone": "3103850735-7898820",
+    "schedule": "LUNES, MIERCOLES Y VIRENES DE 3 PM A 6 PM"
+  },
+  {
+    "name": "PROFAMILIA MONTERIA",
+    "address": "CRA 3 # 17-08 BARRIO BUENAVISTA",
+    "phone": "3015172087-3107286402",
+    "schedule": "DE 7 AM A 12 M Y DE 1 PM A 6 PM, SABADOS DE 7 AM A 12 M"
+  },
+  {
+    "name": "VACUNARTE IPS",
+    "address": "CALLE 33 # 15B-04",
+    "phone": "3204100690-3205350834",
+    "schedule": "DE 8 AM12 AM Y 2.6 PM, SABADOS DE 8 AM A 12",
+    "complement": "B/ EL EDEN"
+  },
+  {
+    "name": "CENTRO ESPECIALIZADO DE ATENCION Y TRATAMIENTO DE HRIDAS CAATH",
+    "address": "CRA 14 # 3-77",
+    "phone": "3504860720-7887743",
+    "schedule": "DE 8 AM1226 , SABADO DE 8 AM A 1 PM"
+  },
+  {
+    "name": "SANIDAD POLICIA",
+    "address": "BARRIO LOS LAURELES # 42-64",
+    "phone": "3136031604-3218490037",
+    "schedule": "DE 8 AM A 3 PM DE LUNES A SABADO"
+  }
+]

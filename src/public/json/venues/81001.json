@@ -1,0 +1,57 @@
+[
+  {
+    "name": "HOSPITAL MATERNO INFANTIL",
+    "address": "CARRERA 19 # 1A-64",
+    "phone": "8850220",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M",
+    "complement": "BARRIO FUNDADORES"
+  },
+  {
+    "name": "CENTRO DE SALUD UNION",
+    "address": "CARRERA 28 # 25-54",
+    "phone": "8850220",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "BARRIO UNION"
+  },
+  {
+    "name": "CENTRO DE SALUD MERIDIANO 70",
+    "address": "CALLE 13 # 10-48",
+    "phone": "8850220",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "BARRIO MERIDIA# 70"
+  },
+  {
+    "name": "UNIDAD DE ATENCION BASICA COMUNA TRES",
+    "address": "CARRERA 40A # 18C-18",
+    "phone": "8850220",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "BARRIO PORVENIR"
+  },
+  {
+    "name": "PUENTE INTERNACIONAL JOSE ANTONIO PAEZ",
+    "address": "PUENTE INTERNACIONAL JOSE ANTONIO PEREZ",
+    "phone": "8850220",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M SABADO 8:00 A.M 12:00 P.M"
+  },
+  {
+    "name": "CORPORACION MI IPS NORTE DE SANTANDER",
+    "address": "CALLE 15 # 14-11",
+    "phone": "3122605448",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "BARRIO MERIDIA# 70"
+  },
+  {
+    "name": "IPS MEDICINA Y TECNOLOGIA EN SALUD",
+    "address": "CALLE 15 # 7-180",
+    "phone": "3157117223",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "BARRIO CRISTO REY"
+  },
+  {
+    "name": "HOSPITAL SAN VICENTE DE ",
+    "address": "CARRERA 16 # 14-26",
+    "phone": "8852024 - 8852024",
+    "schedule": "RECIÉN NACIDO",
+    "complement": "BARRIO CRISTO REY"
+  }
+]

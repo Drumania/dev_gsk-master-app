@@ -1,0 +1,26 @@
+[
+  {
+    "name": "ESE HOSPITAL SAN JUAN DE DIOS",
+    "address": "AVENIDA ORI#CO #. 10",
+    "phone": "3202384725 - 3012737779",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "SECRETARIA DE SALUD",
+    "address": "PUNTO DE ATENCIO AL MIGRANTE (CARPA OPS) -",
+    "phone": "3214671269 - 3012737779",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 11:30 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN JUAN DE DIOS",
+    "address": "AVENIDA ORI#CO #. 10",
+    "phone": "3202384725 - 3012737779",
+    "schedule": "7 A 12 M Y DE 2 A 5PM"
+  },
+  {
+    "name": "SECRETARIA DE SALUD",
+    "address": "PUNTO DE ATENCIO AL MIGRANTE (CARPA OPS)",
+    "phone": "3214671269 - 3012737779",
+    "schedule": "7 A 11,30 AM Y DE 2 A 5PM"
+  }
+]

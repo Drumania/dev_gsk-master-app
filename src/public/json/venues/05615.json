@@ -1,0 +1,41 @@
+[
+  {
+    "name": "BIOSIGNO IPS RIONEGRO",
+    "address": "CARREA 48 # 48-39",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:30 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  { "name": "COMFAMA", "address": "COMFAMA", "phone": "", "schedule": "" },
+  {
+    "name": "COOMEVA IPS SEDE CORDOBA",
+    "address": "CARREA 50 # 45-07",
+    "phone": "5610506",
+    "schedule": "LUNES A SABADOS 8:00 A.M - 11:30 P.M - VIERNES VACUNACION CONTRA LA FIEBRE AMARILLA",
+    "complement": "BL 6 L 114"
+  },
+  {
+    "name": "ESE HOSPITAL GILBERTO MEJIA MEJIA",
+    "address": "CARREA 70 # 40-68",
+    "phone": "3148433643",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 4:00 P.M - SABADO 8:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN JUAN DE DIOS",
+    "address": "ESE HOSPITAL SAN JUAN DE DIOS",
+    "phone": "5313700",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "IPS SURA RIONEGRO",
+    "address": "CARREA 50 # 46-22",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 7:00 P.M - SABADO 7:00 A.M - 1:00 P.M"
+  },
+  { "name": "SALUDCOOP", "address": "SALUDCOOP", "phone": "", "schedule": "" },
+  {
+    "name": "VACUNAR EU",
+    "address": "CALLE 38 # 54A-35",
+    "phone": "5350691",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M - SABADO 8:00 A.M - 1:00 P.M"
+  }
+]

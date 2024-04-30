@@ -1,0 +1,75 @@
+[
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO GIRARDOT",
+    "address": "CARRERA 7A # 33-77 / 199 CENTRO COMERCIAL UNICENTRO",
+    "phone": "3175151045",
+    "schedule": "LUNES A VIERNES 8:00 A.M 1:00 P.M 2:00 P.M 4:00 P.M"
+  },
+  {
+    "name": "CALLEINICA METROPOLITANA CMO SANITAS",
+    "address": "CARRERA 20 # 8-28 GRANADA",
+    "phone": "3115161473",
+    "schedule": "LUNES A VIERNES 8:00 A.M 11:45 A.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DIEZ DE MAYO",
+    "address": "CARRERA 2 Y 3 CALLE 9",
+    "phone": "3212938381 3115119783",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DE MIRAFLORES",
+    "address": "CARRERA 12 # 33-06",
+    "phone": "3212862796 3115119783",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DE BARZALOSA",
+    "address": "VEREDA BARZALOSA",
+    "phone": "3133217173 3115119783",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PERIFERICO NUMERO 1",
+    "address": "CARRERA 11 # 18-45",
+    "phone": "3143516670 3115119783",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CORPORACION MI IPS HUILA",
+    "address": "CALLE 17 # 10-70/74",
+    "phone": "3007537832 3017834380",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "COMPLEJO INTEGRAL DE SALUD JUNICAL MEDICAL S.A.S",
+    "address": "CARREA 6A # 20-115",
+    "phone": "3196896592",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M",
+    "complement": "PRIMER PISO"
+  },
+  {
+    "name": "CENTRO DE SALUD DE KENNEDY",
+    "address": "FRENTE MANZANA 50 KENEDY",
+    "phone": "3017198982 3115119783",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD BUENS AIRES",
+    "address": "CARRERA 20 # 4-28",
+    "phone": "3144520963 3115119783",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "BIENESTAR IPS",
+    "address": "CALLE 20A # 7A-18/20 GRANADA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SAN RAFAEL DUMIAN",
+    "address": "CARRERAA 5 CALLEL 21 SAN ANTONIO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M"
+  }
+]

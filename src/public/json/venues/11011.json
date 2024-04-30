@@ -1,0 +1,183 @@
+[
+  {
+    "name": "CAPS DE SUBA",
+    "address": "DIAGONAL 77 # 120-01",
+    "phone": "3291723",
+    "schedule": "LUNES A VIERNES 8AM A 3PM SABADOS 8AM A 3PM DOMINGO NO"
+  },
+  {
+    "name": "USS PRADO VERANIEGO",
+    "address": "CARRERA 92 # 147C-30",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 7PM SABADOS 7AM A 4PM DOMINGO7AM A 4PM"
+  },
+  {
+    "name": "USS GAITANA",
+    "address": "CALLE 128C # 53A-27",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 1PM 2PM A 4PM SABADOS NO DOMINGO NO"
+  },
+  {
+    "name": "USS RINCON",
+    "address": "CARRERA 116C # 133-00",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 4PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "CENTRO ESPECIALIZADO",
+    "address": "CARRERA 94B # 129B-04",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 4PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "CLINICA JUAN N. CORPAS",
+    "address": "AK 104 # 152-00",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 4PM SABADOS 7AM A 10:30AM DOMINGO NO"
+  },
+  {
+    "name": "VIVA 1A CALLE 118",
+    "address": "CARRERA 111 # 159A-61",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8AM A 3:30PM SABADOS 8AM A 11:30AM DOMINGO NO"
+  },
+  {
+    "name": "SINERGIA SALUD ATENCION UPREC",
+    "address": "CARRERA 45 # 118-59",
+    "phone": "7454949",
+    "schedule": "LUNES A VIERNES 7AM A 5PM SABADOS 7AM A 11AM DOMINGO NO"
+  },
+  {
+    "name": "SUPLIMED HOSPITALARIO",
+    "address": "AK 45 # 103-03",
+    "phone": "3199555",
+    "schedule": "LUNES A VIERNES 7AM A 5PM SABADOS 7AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "CLINISANITAS ILARCO",
+    "address": "CARRERA 63 # 100-27",
+    "phone": "3204210329",
+    "schedule": "LUNES A VIERNES 8AM A 5:30PM SABADOS 8AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "POLICIA ESPAM NORTE",
+    "address": "TRANSVERSAL 60 # 115-58",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8AM A 12M 1PM A 4:30PM SABADOS 9:30AM A 11:30AM DOMINGO NO"
+  },
+  {
+    "name": "SERVISALUD QCALLE SUBA",
+    "address": "CARRERA 70D # 116-12",
+    "phone": "2207500",
+    "schedule": "LUNES A VIERNES 7AM A 12:30M 2PM A 4PM SABADOS NO DOMINGO NO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO PORTAL NORTE",
+    "address": "CALLE 116 # 71D-49",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 4:30PM SABADOS 8AM A 11:30AM DOMINGO NO"
+  },
+  {
+    "name": "COLSUBSIDIO MAZUREN",
+    "address": "CARRERA 45 # 176-31",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8AM A 5PM SABADOS 8AM A 11AM DOMINGO NO"
+  },
+  {
+    "name": "CLINICA LA COLINA",
+    "address": "CALLE 152 # 53A-05",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8AM A 5PM SABADOS 8AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "CLINISANITAS COLINA CAMPESTRE",
+    "address": "CALLE 167 # 72-07",
+    "phone": "4897000",
+    "schedule": "LUNES A VIERNES 24 HORAS SABADOS 24 HORAS DOMINGO24 HORAS"
+  },
+  {
+    "name": "BIENESTAR COLINA",
+    "address": "CARRERA 59 # 152-19",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 9PM SABADOS 7AM A 9PM DOMINGO NO"
+  },
+  {
+    "name": "A&G SERVICIOS DE SALUD NIZA",
+    "address": "CALLE 138 Av. Boyaca CENTRO COMERCIAL MALL",
+    "phone": "4803434",
+    "schedule": "LUNES A VIERNES 7AM A 4:30PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "NIP CASTELLANA CEPAIN",
+    "address": "CALLE 127 # 71-96",
+    "phone": "7455901",
+    "schedule": "LUNES A VIERNES 7AM A 7PM SABADOS 7AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "COOMEVA SUBA",
+    "address": "CARRERA 69 # 98A-11",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 7PM SABADOS 7AM A 10AM DOMINGO NO",
+    "complement": "LOCAL 111"
+  },
+  {
+    "name": "VIRREY SOLIS SUBA",
+    "address": "CALLE 145 # 85",
+    "phone": "52",
+    "schedule": "LUNES A VIERNES 7AM A 4:30PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "SANITAS SUBA",
+    "address": "AC 145 # 85-52",
+    "phone": "6453535",
+    "schedule": "LUNES A VIERNES 7:30AM A 12:30M 2:00 PM A 4:30 PM SABADOS 7:30AM A 12:30M DOMINGO NO"
+  },
+  {
+    "name": "CENTRO MEDICO CORPAS SUBA",
+    "address": "CALLE 145 # 88-76",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:30AM A 5PM SABADOS 8AM A 4PM DOMINGO NO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO SUBA",
+    "address": "CALLE 127 # 57B-11",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 6AM A 7PM SABADOS 7AM A 11AM DOMINGO NO"
+  },
+  {
+    "name": "NUEVA EPS VIVA 1A",
+    "address": "CALLE 145 # 92-30",
+    "phone": "7420395",
+    "schedule": "LUNES A VIERNES 7AM A 6PM SABADOS 7AM A 1PM DOMINGO NO"
+  },
+  {
+    "name": "CENTRO MEDICO COLSUBSIDIO NUEVO SUBA",
+    "address": "CALLE 147 # 101-56",
+    "phone": "3907760",
+    "schedule": "LUNES A VIERNES 7AM A 1PM 2PM A 4PM SABADOS 7AM A 12M DOMINGO NO"
+  },
+  {
+    "name": "CENTRO DE ATENCION EN SALUD CAFAM SUBA",
+    "address": "CALLE 147 # 101-56",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8AM A 5PM SABADOS 8AM A 11AM DOMINGO NO"
+  },
+  {
+    "name": "USS SAN CARLOS",
+    "address": "TRANSVERSAL 114 # 142-46",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7AM A 8PM SABADOS 7AM A 4PM DOMINGO NO"
+  },
+  {
+    "name": "USS SCALABRINI",
+    "address": "CARRERA 143F # 141-20",
+    "phone": "3291723",
+    "schedule": "LUNES A VIERNES 8AM A 3PM SABADOS 8AM A 3PM DOMINGO"
+  },
+  {
+    "name": "YESSICA CASTILLO",
+    "address": "CALLE 136 # 153-76",
+    "phone": "3291723",
+    "schedule": "LUNES A VIERNES 8AM A 3PM SABADOS 8AM A 3PM DOMINGO"
+  }
+]

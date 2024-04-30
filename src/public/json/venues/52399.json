@@ -1,0 +1,14 @@
+[
+  {
+    "name": "E.S.E. HOSPITAL EDUARDO SANTOS DE LA UNION",
+    "address": "CARRERA 2 # 16-08 EDUARDO SANTOS",
+    "phone": "7442029 - 7265293",
+    "schedule": "URGENCIAS"
+  },
+  {
+    "name": "E.S.E. CENTRO DE SALUD MUNICIPAL NIVEL I LUIS ACOSTA",
+    "address": "PANAMERICANO",
+    "phone": "7265932 - 7265931",
+    "schedule": "MARTES A JUEVES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M - VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 4:00 P.M - SABADO 7:00 A.M - 1:00 P.M"
+  }
+]

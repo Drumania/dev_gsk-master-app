@@ -1,0 +1,92 @@
+[
+  {
+    "name": "CAPS VISTA HERMOSA",
+    "address": "CARRERA 18 # 66A-55 SUR",
+    "phone": "7300000 EXT 2491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS CASA DE TEJA",
+    "address": "CALLE 70 VIA MOCHUELO",
+    "phone": "7300000 EXT 10491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS PARAÍSO",
+    "address": "CARRERA 27 L # 71H-46 SUR",
+    "phone": "7300000 EXT 4031",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS JERUSALEN",
+    "address": "CARRERA 46C # 72C-16 SUR",
+    "phone": "7300000 EXT 72403",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS POTOSÍ",
+    "address": "CARRERA 42 # 77-80 SUR",
+    "phone": "7300000 EXT 6491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "CAPS PERDOMO",
+    "address": "CARRERA 71 # 63A-07 SUR",
+    "phone": "7300000 EXT 5491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 2:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS SIERRA MORENA",
+    "address": "CALLE 70 SUR # 56-56",
+    "phone": "7316153 7165168",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS SAN ISIDRO",
+    "address": "CALLE 76B SUR # 60A-42",
+    "phone": "7300000 EXT 14491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "USS SAN FRANCISCO",
+    "address": "CALLE 67 SUR # 20A-09",
+    "phone": "7300000 EXT 6491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "CAPS CANDELARIA",
+    "address": "TRANSVERSAL 36 # 59B-59 SUR",
+    "phone": "7300000 EXT 1491",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 2:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS MOCHUELO",
+    "address": "VEREDA MOCHUELO PASQUILLA",
+    "phone": "7300000 EXT 41661",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "USS DE MEISSEN",
+    "address": "CARRERA 18 # 60G-36 SUR",
+    "phone": "3213120609",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 8:00 A.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "ASISTIR SALUD",
+    "address": "ASISTIR SALUD",
+    "phone": "3133241637",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "BIENESTAR IPS",
+    "address": "BIENESTAR IPS",
+    "phone": "3194341496",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO Según programacion de agendas DOMINGO"
+  },
+  {
+    "name": "UNIDAD DE SERVICIOS EN SALUD COMPENSAR AUTOPISTA SUR",
+    "address": "AUTOPISTA SUR # 87-54",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO Según programacion de agendas DOMINGO"
+  }
+]

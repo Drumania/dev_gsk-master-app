@@ -1,0 +1,27 @@
+[
+  {
+    "name": "E.S.E HOSPITAL REGIONAL DE CHIQUINQUIRA",
+    "address": "CARRERA 13 # 18-60",
+    "phone": "7261999 - 79556514",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "CORPORACIÓN IPS BOYACÁ",
+    "address": "CALLE 17 # 9-32",
+    "phone": "7260498 - 7260498",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "COLSUBSIDIO",
+    "address": "CALLE 17 # 10-45",
+    "phone": "7264001 - 7264001",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "SALUD VITAL INTEGRAL",
+    "address": "CALLE 17 # 7-34",
+    "phone": "3102894790",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M",
+    "complement": "LOCAL 208"
+  }
+]

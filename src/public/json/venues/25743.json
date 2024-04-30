@@ -1,0 +1,20 @@
+[
+  {
+    "name": "PUESTO DE SALUD DE SUBIA",
+    "address": "CARRERAA 10 # 8  KM 36 VÍA BOGOTA  GIRARDOT",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD AGUA BONITA",
+    "address": "VEREDA AGUA B BOGOTA FUSAGASUGA",
+    "phone": "8684026",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "E.S.E. HOSPITAL ISMAEL SILVA",
+    "address": "CALLE 9 # 9-25",
+    "phone": "8684026",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

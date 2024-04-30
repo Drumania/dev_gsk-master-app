@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO DE SALUD JUAN BAUTISTA LUNA",
+    "address": "RIO SUCIO",
+    "phone": "3146075869",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  },
+  {
+    "name": "BELEN DE BAJIRA",
+    "address": "BELEN DE BAJIRA",
+    "phone": "3116093121",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 6:00 P.M"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "SALUCOOP CLINICA LOS ANDES",
+    "address": "CARRERA 42 # 18 A 56",
+    "phone": "7317000-7316900",
+    "schedule": "URGENCIAS"
+  },
+  {
+    "name": "ODONTOLOGOS Y MEDICOS COOPERADOS MEDICOOP",
+    "address": "CARRERA 34 # 19-99 AURORA",
+    "phone": "3173065540-7311657",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "HOSPITAL INFANTIL LOS ANGELES DE PASTO",
+    "address": "CARRERA 32 # 21A 30 AVENIDA LOS ESTUDIANTES",
+    "phone": "7311532-7311370",
+    "schedule": "URGENCIAS"
+  },
+  {
+    "name": "FUNDACION HOSPITAL SAN PEDRO",
+    "address": "CALLE 16 CARRERA 43 ESQUINA",
+    "phone": "7234349-7334319",
+    "schedule": "URGENCIAS"
+  },
+  {
+    "name": "E.S.E. PASTO SALUD",
+    "address": "CARRERA 20 # 19 B 22",
+    "phone": "7201372-3168232429",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD LORENZO",
+    "address": "CARRERA 2B # 18A-1",
+    "phone": "3127358387-7201373",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD HOSPITAL LOCAL CIVIL",
+    "address": "EL CALVARIO",
+    "phone": "7201374-3017504082",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M  SABADO 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD CENTRO HOSPITAL LA ROSA",
+    "address": "LA ROSA 12A",
+    "phone": "7201375-3174998365",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M  SABADO 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD CENTRO DE SALUD TAMASAGRA",
+    "address": "CALLE 8F # 22 B  95 TAMASAGRA",
+    "phone": "3178119428-7201376",
+    "schedule": "LUNES A VIERNES 7:00 A.M  7:00 P.M  SABADO 7:00 A.M  4:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD CENTRO DE SALUD SAN VICENTE",
+    "address": "CARRERA 35 # 61 SAN VICENTE",
+    "phone": "7201377-3136323491",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M  SABADO 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD CENTRO DE SALUD PRIMERO DE MAYO",
+    "address": "CARRERA 45 # 24  11 ARANDA",
+    "phone": "3017504082-7201374",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:00 P.M  SABADO 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "E.S.E PASTO SALUD CENTRO DE SALUD PROGRESO",
+    "address": "CALLE 16 # 8A-2 EL PROGRESO",
+    "phone": "3168978956-7201378",
+    "schedule": ""
+  },
+  {
+    "name": "CRUZ ROJA COLOMBIANA SECCIONAL NARIÑO",
+    "address": "CARRERA 25 # 13-26",
+    "phone": "7237385-7232993",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CORPORACION IPS SALUCOOP NARIÑO",
+    "address": "CARRERA 13 # 22-25",
+    "phone": "7316200-7208720",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "CLINICA NUESTRA SEÑORA DE FATIMA S.A.",
+    "address": "CALLE 21 # 26-40",
+    "phone": "7221772-7293150",
+    "schedule": "URGENCIAS"
+  },
+  {
+    "name": "AREA DE SANIDAD POLICIA NARIÑO ARSAN DENAR",
+    "address": "CARRERA 35 # 19-119 PALERMO",
+    "phone": "3156814849-7311177",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "IPS PASTO ESPECIALIDADES",
+    "address": "CARRERA 28 # 17 -39",
+    "phone": "3166776447-3166776447",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PROVIVACUNAS",
+    "address": "CALLE 19 # 35-30",
+    "phone": "3214444312-3214444312",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M"
+  },
+  {
+    "name": "PROFAMILIA",
+    "address": "CARRERA 35A # 19-130",
+    "phone": "3164461663",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 9:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "MEDFAM",
+    "address": "CALLE 12 # 34- 131 SAN IGNACIO",
+    "phone": "3217660947-3217660947",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "SUR SALUD",
+    "address": "CALLE 20 # 34-34",
+    "phone": "3113822112-3113822112",
+    "schedule": "LUNES A VIERNES 7:00 A.M  6:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "PROINSALUD",
+    "address": "CALLE 14 # 34  24 SAN IGNACIO",
+    "phone": "3187841651-3187841651",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:30 P.M  2:30 P.M  6:00 P.M  SABADO"
+  }
+]

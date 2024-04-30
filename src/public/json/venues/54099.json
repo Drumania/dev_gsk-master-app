@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO DE SALUD BOCHALEMA",
+    "address": "CARRERA 2 CUEVA SANTA",
+    "phone": "5863019",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LA DON JUANA",
+    "address": "EL CENTRO",
+    "phone": "5863019",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

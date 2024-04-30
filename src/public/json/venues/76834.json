@@ -1,0 +1,80 @@
+[
+  {
+    "name": "IPS COMFANDI TULUÁ",
+    "address": "CARRERA 18 # 25 60",
+    "phone": "2254007",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS TULUA",
+    "address": "CALLE 25 # 34 11",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "UNIDAD DE SALUD OCUPACIONAL TULUA",
+    "address": "CARRERA 33N 2439",
+    "phone": "2244768",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SINERGIA SALUD ATENCIÓN BÁSICA TULUA",
+    "address": "CARRERA 30 # 2720 ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA MARIA ANGEL DUMIAN MEDICAL",
+    "address": "CARRERA 40 CALLE 26 LA VARIANTE",
+    "phone": "3,10E+10",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HECTOR FABIO MONDRAGON GORDILLO",
+    "address": "CARRERA 34 # 2609 CS # 403",
+    "phone": "922244790",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "E.S.E. HOSPITAL RUBEN CARRERAUZ VELEZ EMPRESA SOCIAL DEL ESTADO",
+    "address": "CALLE 20 # 1445",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LA MARINA",
+    "address": "PUESTO DE SALUD LA MARINA",
+    "phone": "2260066",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "E.S.E. HOSPITAL DEPÀRTAMENTAL TOMAS URIBE URIBE DE TULUA ESE EMPRESA SOCIAL DEL ESTADO",
+    "address": "CALLE 27 CARRERA 39",
+    "phone": "2317777",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "ASISTENCIA EN SERVICIOS DE SALUD INTEGRALES SA N2",
+    "address": "CARRERA 32A # 24 57",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "YAMILE DEL SOCORRO LUNA MUÑOZ",
+    "address": "CARRERA 36 25 44",
+    "phone": "2254772",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SAN FRANCISCO",
+    "address": "CALLEINICA SAN FRANCISCO",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "ESPAB PONAL",
+    "address": "ESPAB PONAL",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  }
+]

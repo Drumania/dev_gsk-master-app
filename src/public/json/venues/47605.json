@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HOSPITAL LOCAL DE REMOLIN",
+    "address": "CALLE 9 CARRERA 2",
+    "phone": "3045986852",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "HOSPITAL LOCAL DE REMOLINO",
+    "address": "CALLE 9 KRA. 2",
+    "phone": "3045986852",
+    "schedule": "8 A 12 - 2 A 6 PM"
+  }
+]

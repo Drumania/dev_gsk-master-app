@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HOSPITAL SALAZAR DE VILLETA",
+    "address": "CALE 1 SUR # 7-56",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 6:00 A.M 6:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD BAGAZAL",
+    "address": "UNIDAD FUNCIONAL",
+    "phone": "3185320182",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "UNIDAD MEDICA CENTRAL",
+    "address": "CALLE 5 # 6-51",
+    "phone": "8445318 3107682015",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

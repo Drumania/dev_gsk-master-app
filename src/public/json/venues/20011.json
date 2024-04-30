@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HOSPITAL ESE SAN EDUARDO",
+    "address": "CARREERA 32 10 NORTE 97",
+    "phone": "3166270875",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL ESE SAN EDUARDO BARAHOJA",
+    "address": "CARREERA 7 # 2-160 BARAHOJA",
+    "phone": "3166270875",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

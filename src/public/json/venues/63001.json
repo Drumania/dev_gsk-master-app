@@ -1,0 +1,134 @@
+[
+  {
+    "name": "SANIDAD POLICIA",
+    "address": "CARRERA 13A # 1A-117",
+    "phone": "-3117100846",
+    "schedule": "LUNES A VIERNES 7:00 A.M  3:30 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN JUAN DE DIOS",
+    "address": "AVENIDA BOLIVAR CARRERA 14 CALLE 17N ESQUINA -",
+    "phone": "",
+    "schedule": "24 HORAS RECIÉN NACIDO"
+  },
+  {
+    "name": "FUNDACION SANITAS CALLEINICENTRO ARMENIA",
+    "address": "CARRERA 13A # 1A-117",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:30 A.M  6:30 P.M  SABADO 7:30 A.M  12:30 P.M"
+  },
+  {
+    "name": "DISPENSARIO SANIDAD MILITAR",
+    "address": "AVENIDA CENTENARIO CARRERA 25N # 25N-0",
+    "phone": "-3148859294",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  4:00 P.M"
+  },
+  {
+    "name": "IDIME IPS",
+    "address": "CARRERA 14 1N 72 -",
+    "phone": "-3207409287",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "SINERGIA BLOBAL SALUD UBA BOSQUE",
+    "address": "CALLE 22 # 22-65",
+    "phone": "-3102672281",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CORPORACION IPS EJE CAFETERO PRADO",
+    "address": "CALLE 2N # 12-180",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  4:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "IPS SALUD DEL CARIBE",
+    "address": "CALLEL 2N # 12-78 ALCAZAR",
+    "phone": "7314460-3172656266",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "CALLEINICA SAGRADA FAMILIA",
+    "address": "CARRERA 15 CALLE10 ESQUINA -",
+    "phone": "-3133927659",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:30 P.M  SABADO 8:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CALLEINICA DEL CAFÉ DUMIAN",
+    "address": "CARRERA 12 # 0-75 CONSULTORIO 415",
+    "phone": "",
+    "schedule": "24 HORAS RECIÉN NACIDO"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTA RITA",
+    "address": "MANZANA 14 ESQUINA SANTA RITA -",
+    "phone": "7371010-3136863259",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD ALFONSO CORREA GRILLO",
+    "address": "KM 2 VÍA A MONTENEGRO FRENTE AL ANCIANATO EL CARMEN -",
+    "phone": "7371010-3136863261",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD MIRAFLORES",
+    "address": "CARRERA 19 # 37 – 20 MIRAFLORES -",
+    "phone": "7371010-3136863263",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA NUEVA LIBERTAD",
+    "address": "CARRERA 40 CALLEL 43- 44 VILLA LILIANA",
+    "phone": "7371010-3148888382",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA PATRIA",
+    "address": "LA PATRIA FRENTE A LA MANZANA 33 -",
+    "phone": "7371010-3507275354",
+    "schedule": "LUNES A JUEVES 7:00 A.M  4:00 P.M  VIERNES 7:00 A.M  3:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA CALLEARITA",
+    "address": "LA CALLEARITA FRENTE A LA MANZANA A -",
+    "phone": "7371010-3136863260",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD EL PARAISO",
+    "address": "BARRO EL PARAÍSO FRENTE A LA MANZANA P -",
+    "phone": "7371010-3136863264",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA MILAGROSA",
+    "address": "CARRERA 19 DETRÁS DE BOMBERO DEL N0RTE -",
+    "phone": "7371010-3148888381",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PILOTO URIBE",
+    "address": "FIEBRE AMARILLA- AVENIDAENIDA ANCIZAR LÓPEZ ANTIGUO COMANDO DE LA POLICÍA",
+    "phone": "7371010-3136863258",
+    "schedule": "LUNES A JUEVES 7:00 A.M  5:00 P.M  VIERNES 7:00 A.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD EL PILOTO URIBE",
+    "address": "AVENIDAENIDA ANCIZAR LÓPEZ ANTIGUO COMANDO DE LA POLICÍA -",
+    "phone": "7371010-3136863258",
+    "schedule": "LUNES A JUEVES 7:00 A.M  5:00 P.M  VIERNES 7:00 A.M  4:00 P.M"
+  },
+  {
+    "name": "CENTRO DE ATENCION CAA DEL SUR",
+    "address": "CARRERA 19 CON CALLEL 42 ESQUINA -",
+    "phone": "7371010-",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL DEL SUR",
+    "address": "AVENIDA MONTECARLO FRENTE A GUADUALES DE LA VILLA -",
+    "phone": "7371010-",
+    "schedule": "LUNES A JUEVES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M"
+  }
+]

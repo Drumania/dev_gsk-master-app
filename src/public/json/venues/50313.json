@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MI IPS LLANS GRANADA",
+    "address": "CALLE 15 # 15-71",
+    "phone": "3115129674",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 11:00 A.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL DEPARTAMENTAL",
+    "address": "CALLE 15 ENTRE CARRERA 2 Y 4",
+    "phone": "",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "SERVIMEDICOS",
+    "address": "CARRERA 12 # 13- 08 TAMAGUAVY",
+    "phone": "6500294",
+    "schedule": "LUNES A VIERNES 7:30 A.M - 12:00 P.M - 2:00 P.M - 5:30 P.M"
+  }
+]

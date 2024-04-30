@@ -1,0 +1,914 @@
+[
+  {
+    "name": "TERRON COLORADO",
+    "address": "AVENIDAenida 4 OESTE CALLE 19 ESQUINA LA VARIANTE",
+    "phone": "8942340",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LA PAZ URBANA",
+    "address": "AVENIDA 8 OESTE # 19 103",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "VISTA HERMOSA",
+    "address": "AVENIDA6 OESTE 5A51 CARRERAILOMETRO 6 VIA AL MAR",
+    "phone": "8942339",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SEDE LA PRMERA DESA (INSTITUTO DE DIAGNSTICO MEDICO DESA SEDE LA PRIMERA",
+    "address": "CARRERA 1 # 3441",
+    "phone": "3814160",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "P.S. LA CAMPIÑA",
+    "address": "AVENIDA 9 # CALLE 47N",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "BIENSA",
+    "address": "AVENIDAENIDA 4 NRTE # 19N76",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SEDE SANTA MONICA PRINCIPAL (CONSULTORIOS CALLEINICA COMFENALCO IPS)",
+    "address": "AVENIDAENIDA 6AN # 28N – 23",
+    "phone": "8850443",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SERSALUD",
+    "address": "AVENIDAENIDA 3N # 45N89",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "C.M.F. CENTRO MÉDICO FAMILIAR VERSALLES",
+    "address": "AVENIDA 4N # 20N 33",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CAFI ESIMED CALI NRTE IPS",
+    "address": "CALLE 38 # 3CN26",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALI NRTE (CALLEinica Esimed Cali NRTE)",
+    "address": "AVENIDA 3 NRTE # 32AN 40",
+    "phone": "3128545636",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CORPORACION MI IPS CHIPICHAPE",
+    "address": "AVENIDA. 6 NRTE # 26N  13 SANTA MÓNICA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "C.M.F. LA FLORA",
+    "address": "CALLE 52 NRTE # 3 A 93",
+    "phone": "3008960140",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA VERSALLES",
+    "address": "AVENIDA 5 NRTE # 23N59 VERSALLES",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN JUAN DE DIOS",
+    "address": "CARRERA 4 # 1767",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO MEDICO IMBANACO TRADE CENTER WORD CHIPICHAPE",
+    "address": "CENTRO COMERCIAL CHIPICHAPE (CALLE 36 NRTE # 6A 65 PISO 7)",
+    "phone": "3182528252",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "ANGIOGRAFIA DE OCCIDENTE CALLE 26",
+    "address": "CALLE 26E # 3749",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS SURA LA FLORA",
+    "address": "CALLE 38N 4N102",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS SALUD SURA CHIPACHAPE",
+    "address": "AVENIDAEN 6A BIS 35N 64",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SEBASTIAN DE BELALCAZAR (CALLEINISANITAS NRTE)",
+    "address": "AVENIDA 4N # 7N53",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "TRADI",
+    "address": "SALUD LTDA SEDE NRTE  CALLE 23AN # 2N 33",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PONAL SEDE GRANADA FATIMA",
+    "address": "AVENIDA 10 NRTE # 16N21",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "NUEVA EPS AVENIDA VASQUEZ COBO (ANGIOGRAFIA DE OCCIDENTE IPS VASQUEZ COBO)",
+    "address": "AVENIDA VÁSQUEZ COBO # 24AN 14",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LA FLORA (EPS SANITAS CENTRO MEDICO FLORA INDUSTRIAL)",
+    "address": "CARRERA 5 NRTE 55N39",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS VIRREY SOLIS VERSALLES",
+    "address": "AVENIDAEN 4N # 18N56",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL BASICO CAÑAVENIDAERALEJO",
+    "address": "CALLE 3 OESTE # 12A 20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SAN PASCUAL (PUESTO DE SALUD FRAY DAMIAN)",
+    "address": "CALLE 13 A # 13A49",
+    "phone": "8937700",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFENALCO G8 CALLE 5",
+    "address": "CALLE 5 # 6 63 TORRE A",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFANDI SAN NICOLAS",
+    "address": "CALLE 21 # 725",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA COMFENALCO CIS VIDA",
+    "address": "CALLE 5D # 38A 39",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CS POPULAR",
+    "address": "CARRERAA 2 # 45 AN 77",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COLSALUD LTDA",
+    "address": "CARRERA 2 # 575",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA RIVERA",
+    "address": "CARRERA 1G # 65  35 LA RIVERA (ATRÁS DE LA ESTACIÓN DE POLICÍA DE LA RIVERA)",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CS SAN LUIS 2",
+    "address": "CALLE 72 C # 1A12 61",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PS PETECUY 3",
+    "address": "CARRERAA 1 I CON 75",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CS FLORALIA",
+    "address": "CALLE 82 CON CARRERAA 3AN 0",
+    "phone": "3193858824",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PS PETECUY 2",
+    "address": "CALLE 74 CON CARRERAA 1C 1",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL JOAQUIN PAZ BORRERO",
+    "address": "CARRERAA 7 A BIS CON CALLE 72",
+    "phone": "4184747",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CS PTO MALLARIN",
+    "address": "CARRERAA 9 # 76 35",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "ANGIOGRAFÍA DE OCCIDENTE VILLA COLOMBIA (ANGIOGRAFIA DE OCCIDENTE S.A. IPS NRORIENTE)",
+    "address": "CARRERA 8 # 49  76 VILLACOLOMBIA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEÍNICA ORIENTE VILLACOLOMBIA (CALLEINICA ORIENTE LTDA UBA)",
+    "address": "CARRERA 12A # 52 04",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SERINSA NRORIENTE S.A.S (SERVICIOS INTEGRADOS DE SALUD SAS)",
+    "address": "CARRERA 8 N° 52  164 LA BASE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SANIDAD MILITAR EMAVENIDAI",
+    "address": "CARRERA 8 # 52 67",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL PRIMITIVO IGLESIAS",
+    "address": "CARRERA 16 A # 33 D  20 LA FLORESTA",
+    "phone": "4437678",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PRIMITIVO CARRERAESPO",
+    "address": "CARRERA 17G # 27 8",
+    "phone": "4417356",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD DIEGO LALINDE",
+    "address": "CARRERA12 E # 50 18 VILLACOLOMBIA",
+    "phone": "4411518",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD BELALCAZAR",
+    "address": "CALLE 17 # 19 A 17",
+    "phone": "8813799",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD BRETAÑA (CENTRO DE SALUD RAMIRO GUERRERO)",
+    "address": "CARRERA 23 # 10 15",
+    "phone": "5570793",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD OBRERO",
+    "address": "CALLE 23 # 11B 47",
+    "phone": "8892917",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFANDI ALAMEDA",
+    "address": "CALLE 5 N23B2",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CORPORACION MI IPS OCCIDENTE PASOANCHO (CENTRO MÉDICO FAMILIAR PASOANCHO)",
+    "address": "CALLE 13 # 49A 10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS SURA PASO ANCHO",
+    "address": "CARRERA 50 12A 90",
+    "phone": "3314925",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD EL GUABAL (PUESTO DE SALUD EL DIVIN NIÑO)",
+    "address": "CARRERA 41A # 14C  50 EL GUABAL",
+    "phone": "3347819",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD ALFONSO YOUNG VALERO",
+    "address": "CARRERA 23 # 4313",
+    "phone": "3350353",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD PANAMERICAN",
+    "address": "CALLE 13 # 46 A0",
+    "phone": "3351589",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD CARRERAISTOBAL COLON",
+    "address": "CALLEL 15 # 3371",
+    "phone": "3352034",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFANDI TORRES",
+    "address": "CARRERA 1 # 5690",
+    "phone": "4855520",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LA PRIMAVENIDAERA",
+    "address": "CALLE 35 CARRERA 32 B",
+    "phone": "3351112",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD AGUA BLANCA",
+    "address": "CALLE 26 A # 2546",
+    "phone": "3350513",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LUIS H. GARCES",
+    "address": "CALLE 23 # 43  13 LA FORTALEZA",
+    "phone": "3371379",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFANDI EL PRADO",
+    "address": "CARRERA 23 # 26B 46",
+    "phone": "3340000",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD DOCE DE OCTUBRE",
+    "address": "CARRERA 49 CALLEle 28G ESQUINA",
+    "phone": "4451008",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SANTIAGO RENGIFO",
+    "address": "CARRERA 26 # 50 12",
+    "phone": "4445593",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD EL RODEO",
+    "address": "CALLE 39 # 25B 21",
+    "phone": "4453602",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS CARLOS HOLMES TRUJILLO",
+    "address": "CALLE 72 U # 26 E 0",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS DIAMANTE",
+    "address": "CALLE 41 CARRERA 43 C ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS COMUNEROS II",
+    "address": "CALLE 72 CARRERA 28A",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS CHARCO AZUL",
+    "address": "DIAGONAL 72 CARRERA 22",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS RICARDO BALCAZAR",
+    "address": "CARRERA 26I DIAGONAL 71A1",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS ULPIAN LLOREDA",
+    "address": "CALLE 72B CARRERA 24",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS LOS LAGOS",
+    "address": "CARRERA 26Q CALLE 72W",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS VERGEL",
+    "address": "CALLE 46B # 34 A 4",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS POBLADO II",
+    "address": "CARRERA 28F # 72C",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFANDI CALIPSO",
+    "address": "CARRERA 28F N7017",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COMFANDI MORICHAL",
+    "address": "CALLE 54 N°4525",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS VERSALLES SAN MARCOS",
+    "address": "TRANSVERSAL 103 95 ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS MARROQUIN CAUQUITA",
+    "address": "DIAGONAL 26J TRANSVERSAL 80",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS MANUELA BELTRAN",
+    "address": "CARRERA 26CARRERA CALLE 108",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS ALIRIO MORA BELTRÁN",
+    "address": "CALLE 73A # 260",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS ALFONSO BONILLA ARAGON",
+    "address": "CARRERA 26 U CALLE 76",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS LOS NARANJOS",
+    "address": "CARRERA 23G2 CALLE 77 ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS EL VALLADO",
+    "address": "CARRERA 41 B CALLE 51",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS EL RETIRO",
+    "address": "CARRERA 39 B CALLE 49",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS CIUDAD CORDOBA",
+    "address": "CALLE 50 CARRERA 50",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS COMUNEROS I",
+    "address": "CALLE 54 CARRERA 30 A",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD MOJICA",
+    "address": "CARRERA 29 C 96",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD ANTONIO NARIÑO IPS",
+    "address": "CARRERA 47 # 44  74 (CARRERA 39D # 39",
+    "phone": "3281187",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL CARLOS CARMONA MONTOYA",
+    "address": "CARRERA 43 # 39A0",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD MARIAN RAMOS",
+    "address": "CARRERA 41D # 45 100",
+    "phone": "3377123",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "UIS UNICENTRO CHRISTUS SINERGIA",
+    "address": "CARRERA 100 # 5169 CC UNICENTRO LOCAL 810-810A PISO 3 ED.PASOANCHO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SERVIMEDIC QUIRON",
+    "address": "CARRERA 64 A N12 A 149 CALLE 13 N° 64 -30",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS CALI SUR",
+    "address": "CARRERAA 66 # 12 15",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL MILITAR DE OCCIDENTE (HOMRO) SANIDAD MILITAR",
+    "address": "CALLE 5 # 830",
+    "phone": "3245979",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD PRIMERO DE MAYO",
+    "address": "CARRERA 56 # 13G 10",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD MELENDEZ",
+    "address": "CARRERA 94 # 4C 65",
+    "phone": "3319565",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ALTO POLVORINES",
+    "address": "PUNTO MOVIL  CARRERA 94A- 1 OESTE CALLE 2A OESTE",
+    "phone": "4039692",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS NAPOLES",
+    "address": "CARRERA 73B # 2c16",
+    "phone": "3241776",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD POLVORINES",
+    "address": "CALLE 4 OESTE # 91100",
+    "phone": "4039692",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD ALTO NAPOLES",
+    "address": "CALLE 2B OESTE # 82D 24",
+    "phone": "3232343",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD LOURDES",
+    "address": "CARRERA 73N1B13",
+    "phone": "3232346",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SINERGIA SALUD ATENCIÓN BÁSICA TEQUENDAMA",
+    "address": "CALLE 6 # 426",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "VIVA 1 A",
+    "address": "CARRERA 44 # 9A 32",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "ANGIOGRAFÍA DE OCCIDENTE TEQUENDAMA",
+    "address": "CARRERA 42N 5 e14",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS VIVIR SURA (SANACION Y VIDA IPS S.A.S)",
+    "address": "CALLE 10 # 487",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINISANITAS TEQUENDAMA (UBA PRIMARIA)",
+    "address": "CARRERA 43A 5C94",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "USACA (BIENESTAR UNIVERSATARIO UNIVERSIDAD SANTIAGO DE CALI SEDE PAMPALINDA)",
+    "address": "CALLE 5 CARRERA 6 BLOQUE 5 PISO 2",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "TRADI",
+    "address": "SALUD LTDA UNILIBRE  DIAGONAL 37A # 3 -29",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PRODUMEDIHOS",
+    "address": "CALLE 7 # 2955 2 PISO CONSULTORIO 214 CENTRO MÉDICO SAN JOSÉ",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PREVENIR INTEGRAL SAS",
+    "address": "CALLE 7 CARRERA 30 ESQUINA 2 PISO CENTRO MÉDICO SAN JOSÉ",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS PREVENTIVA FARALLONES SAS",
+    "address": "CALLE 9C # 50  25 CONSULTORIO 2",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS CUIDAME",
+    "address": "CARRERA 38 # 5B210",
+    "phone": "3939707",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS AMISALUD",
+    "address": "CARRERA 39 N4A45",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IMBANACO TEQUENDAMA",
+    "address": "CARRERA 38 BIS # 5 B2 4",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "DARPACOL",
+    "address": "CARRERA 45 # 6A18",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CARRERAUZ ROJA COLOMBIANA",
+    "address": "CARRERA 38 BIS # 5 91",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA REY DAVENIDAID",
+    "address": "CARRERA 34 # 7A1A 7A-99.",
+    "phone": "5185000",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CEIP SAS (CENTRO DE ESTUDIOS EN INFECTOLOGIA PEDIATRICA)",
+    "address": "CALLEl 5 B5 # 37 BIS 20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PROFAMILIA SEDE TEQUENDAMA",
+    "address": "CALLE 7 N4134",
+    "phone": "3860001",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "COSMITET CENTRO MEDICO EL BOSQUE",
+    "address": "CARRERA 41 # 5C  51 (CARRERA 40 N° 5C- 45)",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL UNIVERSITARIO",
+    "address": "CALLE 5 # 368",
+    "phone": "3216395311",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS BELLAVENIDAISTA",
+    "address": "CARRERA 3 OESTE 130",
+    "phone": "3147396348",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SILOE",
+    "address": "EN REMODELACION SE REUBICO EN CARRERA 42 22 CON 3A",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD BELEN",
+    "address": "CARRERA 39 # 2B25",
+    "phone": "3147396348",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LA ESTRELLA",
+    "address": "CARRERA 44A OESTE # 6G12",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SULTANA",
+    "address": "CARRERA 22 OESTE # 4731",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD BRISAS DE MAYO",
+    "address": "CARRERA 54 OESTE # 10 0",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SIRENA",
+    "address": "SECTOR ANDES SIRENA",
+    "phone": "5518755",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS DECEPAZ",
+    "address": "CARRERA 26 A # 12310",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IPS POTRERO GRANDE",
+    "address": "CARRERA 28 D2 # 123 1",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PIZAMOS",
+    "address": "CALLE 122D  CARRERA 28G1 ESQUINA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "IMBANACO CIUDAD JARDIN",
+    "address": "CALLE 15 A # 103 20",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINISANITAS CIUDAD JARDIN",
+    "address": "CALLE 15B # 1056",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CALLEINICA VALLE DEL LILI",
+    "address": "CARRERA 98 # 1849",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "NAVENIDAARRO",
+    "address": "CORREGIMIENTO DE NAVENIDARRO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "BUITRERA",
+    "address": "CORREGIMIENTO LA BUITRERA CARRERAM 3",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PANCE",
+    "address": "MOVIL PERMANENTE  PUEBLO PANCE",
+    "phone": "5581136",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "VORAGINE",
+    "address": "MOVIL PERMANENTE  LA VORAGINE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CASCAJAL",
+    "address": "MOVIL PERMANENTE  CARRERA 139 # 2- 68 VEREDA CASCAJAL",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "HORMIGUERO",
+    "address": "MOVIL PERMANENTE  EL HORMIGUERO # 3-32",
+    "phone": "8937701",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "VILLACARMELO",
+    "address": "MOVIL PERMANENTE  VILLA CARMELO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "MONTEBELLO",
+    "address": "AVENIDAENIDA 42 OESTE # 11 18",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LA PAZ RURAL",
+    "address": "MOVIL PERMANENTE  ZONA RURAL MONTEBELLO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "GOLONDRINAS",
+    "address": "MOVIL PERMANENTE  ZONA RURAL MONTEBELLO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LA ELVIRA",
+    "address": "MOVIL PERMANENTE  ZONA RURAL MONTEBELLO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "CASTILLA",
+    "address": "MOVIL PERMANENTE  ZONA RURAL MONTEBELLO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "ALTO AGUACATAL",
+    "address": "MOVIL PERMANENTE  ZONA RURAL MONTEBELLO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "SALADITO",
+    "address": "CARRERAM 14 VIA AL MAR",
+    "phone": "5501290",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "FELIDIA",
+    "address": "MOVIL PERMANENTE  ZONA RURAL SALADITO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LEONERA",
+    "address": "MOVIL PERMANENTE  ZONA RURAL SALADITO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "LOS ANDES",
+    "address": "MOVIL PERMANENTE  ZONA RURAL SALADITO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PICHINDE",
+    "address": "MOVIL PERMANENTE  ZONA RURAL SALADITO",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  },
+  {
+    "name": "PEÑAS BLANCAS",
+    "address": "MOVIL PERMANENTE",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  1:00 P.M  5:00 P.M"
+  }
+]

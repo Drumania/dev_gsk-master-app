@@ -1,0 +1,167 @@
+[
+  {
+    "id": "5",
+    "name": "Antioquia",
+    "location": { "lat": 6.702032125, "lng": -75.50455704 }
+  },
+  {
+    "id": "8",
+    "name": "Atlántico",
+    "location": { "lat": 10.67700953, "lng": -74.96521949 }
+  },
+  {
+    "id": "11",
+    "name": "Bogotá",
+    "location": { "lat": 4.316107698, "lng": -74.1810727 }
+  },
+  {
+    "id": "13",
+    "name": "Bolívar",
+    "location": { "lat": 8.079796863, "lng": -74.23514814 }
+  },
+  {
+    "id": "15",
+    "name": "Boyacá",
+    "location": { "lat": 5.891672889, "lng": -72.62788054 }
+  },
+  {
+    "id": "17",
+    "name": "Caldas",
+    "location": { "lat": 5.280139978, "lng": -75.27498304 }
+  },
+  {
+    "id": "18",
+    "name": "Caquetá",
+    "location": { "lat": 0.798556195, "lng": -73.95946756 }
+  },
+  {
+    "id": "19",
+    "name": "Cauca",
+    "location": { "lat": 2.396833887, "lng": -76.82423283 }
+  },
+  {
+    "id": "20",
+    "name": "Cesar",
+    "location": { "lat": 9.53665993, "lng": -73.51783154 }
+  },
+  {
+    "id": "23",
+    "name": "Córdoba",
+    "location": { "lat": 8.358549754, "lng": -75.79200872 }
+  },
+  {
+    "id": "25",
+    "name": "Cundinamarca",
+    "location": { "lat": 4.771120716, "lng": -74.43111092 }
+  },
+  {
+    "id": "27",
+    "name": "Chocó",
+    "location": { "lat": 5.397581542, "lng": -76.942811 }
+  },
+  {
+    "id": "41",
+    "name": "Huila",
+    "location": { "lat": 2.570143029, "lng": -75.58434836 }
+  },
+  {
+    "id": "44",
+    "name": "La Guajira",
+    "location": { "lat": 11.47687008, "lng": -72.42951072 }
+  },
+  {
+    "id": "47",
+    "name": "Magdalena",
+    "location": { "lat": 10.24738355, "lng": -74.26175733 }
+  },
+  {
+    "id": "50",
+    "name": "Meta",
+    "location": { "lat": 3.345562732, "lng": -72.95645988 }
+  },
+  {
+    "id": "52",
+    "name": "Nariño",
+    "location": { "lat": 1.571094987, "lng": -77.87020496 }
+  },
+  {
+    "id": "54",
+    "name": "Norte de Santander",
+    "location": { "lat": 8.09513751, "lng": -72.88188297 }
+  },
+  {
+    "id": "63",
+    "name": "Quindío",
+    "location": { "lat": 4.455241567, "lng": -75.68962853 }
+  },
+  {
+    "id": "66",
+    "name": "Risaralda",
+    "location": { "lat": 5.240757239, "lng": -76.00244469 }
+  },
+  {
+    "id": "68",
+    "name": "Santander",
+    "location": { "lat": 6.693633184, "lng": -73.48600894 }
+  },
+  {
+    "id": "70",
+    "name": "Sucre",
+    "location": { "lat": 9.064941448, "lng": -75.10981755 }
+  },
+  {
+    "id": "73",
+    "name": "Tolima",
+    "location": { "lat": 4.03477252, "lng": -75.2558271 }
+  },
+  {
+    "id": "76",
+    "name": "Valle del  Cauca",
+    "location": { "lat": 3.569858693, "lng": -76.62850427 }
+  },
+  {
+    "id": "81",
+    "name": "Arauca",
+    "location": { "lat": 6.569577215, "lng": -70.96732394 }
+  },
+  {
+    "id": "85",
+    "name": "Casanare",
+    "location": { "lat": 5.404064237, "lng": -71.60188073 }
+  },
+  {
+    "id": "86",
+    "name": "Putumayo",
+    "location": { "lat": 0.3673031, "lng": -75.51406183 }
+  },
+  {
+    "id": "88",
+    "name": "San Andrés",
+    "location": { "lat": 12.54311512, "lng": -81.71762382 }
+  },
+  {
+    "id": "91",
+    "name": "Amazonas",
+    "location": { "lat": -1.54622768, "lng": -71.50212858 }
+  },
+  {
+    "id": "94",
+    "name": "Guainía",
+    "location": { "lat": 2.727842865, "lng": -68.81661272 }
+  },
+  {
+    "id": "95",
+    "name": "Guaviare",
+    "location": { "lat": 1.924531973, "lng": -72.12859569 }
+  },
+  {
+    "id": "97",
+    "name": "Vaupés",
+    "location": { "lat": 0.64624561, "lng": -70.56140566 }
+  },
+  {
+    "id": "99",
+    "name": "Vichada",
+    "location": { "lat": 4.713557125, "lng": -69.41400011 }
+  }
+]

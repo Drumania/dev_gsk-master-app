@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HOSPITAL CENTRO",
+    "address": "CALLE 9 # 5 -30",
+    "phone": "3187169870",
+    "schedule": "LUNES A SABADO"
+  },
+  {
+    "name": "CENTRO DE SALUD BILBAO",
+    "address": "CALLE 9 # 5 -30",
+    "phone": "3208353313",
+    "schedule": "LUNES A SABADO"
+  },
+  {
+    "name": "CENTRO DE SALUD GAITANIA",
+    "address": "CALLE 9 # 5 -30",
+    "phone": "3187128043",
+    "schedule": "LUNES A SABADO"
+  }
+]

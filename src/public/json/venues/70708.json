@@ -1,0 +1,20 @@
+[
+  {
+    "name": "SAN MARCOS HOSPITAL REGIONAL DE II NIVEL ATENCION",
+    "address": "CALLEE 22",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "SAN MARCOS ESE CENTRO DE SALUD SAN JOSE",
+    "address": "CALLEE 15 SAN JOSE",
+    "phone": "3114261992",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "SAN MARCOS IPS GUACARI",
+    "address": "CALLEE18",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CALLEINICA SAN JUAN",
+    "address": "CALLE 8 CARRERA 2",
+    "phone": "3126566735",
+    "schedule": "RECIÉN NACIDO"
+  },
+  {
+    "name": "HOSPITAL NTRA. SRA. DEL PERPETUO SOCORRO",
+    "address": "TRANSVERSAL 8 # 6-45",
+    "phone": "7177532 - 3014862541",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL DE NAZARETH",
+    "address": "ALTA GUAJIRA",
+    "phone": "7285484 - 3122185468",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

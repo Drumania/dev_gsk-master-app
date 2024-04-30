@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CENTRO DE SALUD LA SIERRA",
+    "address": "BARRIO ALTOS DEL CARBURO",
+    "phone": " 8337129 - 3136888381",
+    "schedule": "LUNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - MATES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 7:00 P.M",
+    "complement": "PARTE BAJA"
+  },
+  {
+    "name": "ESE HOSPITAL OCTAVENIDAIO OLIVARES",
+    "address": "CARREA 5 # 45-103",
+    "phone": "8347033 - 3136888380 ",
+    "schedule": "LUNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M - MATES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

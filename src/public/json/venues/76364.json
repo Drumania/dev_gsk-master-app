@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO MEDICO JAMUNDI",
+    "address": "CARRERA 2 # 10-111",
+    "phone": "5166907",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M"
+  },
+  {
+    "name": "E.S.E. HOSPITAL PILOTO JAMUNDI EMPRESA SOCIAL DEL ESTADO",
+    "address": "AVENIDA CIRCUNVALAR # 9-13",
+    "phone": "3186497852",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M"
+  }
+]

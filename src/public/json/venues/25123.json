@@ -1,0 +1,14 @@
+[
+  {
+    "name": "CENTRO DE SALUD",
+    "address": "CARRERA 8 CALLE 4",
+    "phone": "8443023 3203026625",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD PEÑA NEGRA",
+    "address": "PEÑA NEGRA",
+    "phone": "3214522018",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

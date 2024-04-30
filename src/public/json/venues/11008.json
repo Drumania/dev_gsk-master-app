@@ -1,0 +1,210 @@
+[
+  {
+    "name": "USS 10 ABASTOS",
+    "address": "CARRERA 80C # 2-40",
+    "phone": "4021329 4021328",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "CAPS 30 BOMBEROS",
+    "address": "CALLE 40C S # 79-10",
+    "phone": "2732098",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 91 CLASS",
+    "address": "CALLE 57B S # 80H-10",
+    "phone": "7804486",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 68 BRITALIA",
+    "address": "CARRERA 81C # 48-25 S",
+    "phone": "4530030",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:30 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 37 PIO XII",
+    "address": "CARRERA 79D # 6-15",
+    "phone": "2928821",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 105 CATALINA",
+    "address": "CARRERA 78A # 53A-47 S",
+    "phone": "2674787",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 79 CARVAJAL",
+    "address": "CARRERA 72Q # 35B-05 S",
+    "phone": "2656987 4036016",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 63 ALQUERIA",
+    "address": "CALLE 38D S # 68C-48",
+    "phone": "7560505 EXT 1100",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS DINDALITO",
+    "address": "CALLE 42A S # 90-00",
+    "phone": "2649625 4519637",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "CAPS 92 PATIOS",
+    "address": "CALLE 2 # 88B 47",
+    "phone": "4533984",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "USS 50 MEXICANA",
+    "address": "CALLE 40 S # 89C-12",
+    "phone": "2646806",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "CAPS PATIO BONITO",
+    "address": "DIAGONAL 38 S # 82-30",
+    "phone": "4547018",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "UHME OCCIDENTE DE KENNEDY",
+    "address": "AVENIDA 1 MAYO # 40B-54",
+    "phone": "4480700",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADOS 7:00 A.M 7:00 P.M DOMINGO 7:00 A.M 7:00 P.M"
+  },
+  {
+    "name": "USS PATIO BONITO TINTAL",
+    "address": "CALLE 10B # 86-58",
+    "phone": "0",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "UNIDAD MEDICA SANTA FE KENNEDY",
+    "address": "CARRERA 78K # 33A-03",
+    "phone": "3177237985 7433300 EXT 106",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 1:00 P.M 2:00 P.M 4:00 P.M DOMINGO"
+  },
+  {
+    "name": "CAFAM KENNEDY",
+    "address": "CARRERA 78K # 37A-53 S",
+    "phone": "4481150 EXT 5604",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 2:00 P.M DOMINGO"
+  },
+  {
+    "name": "POLICIA NACIONAL KENNEDY",
+    "address": "CALLE 41 D SUR # 70N-05",
+    "phone": "5804400 EXT 3260 3257",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO DOMINGO"
+  },
+  {
+    "name": "VIVA 1A KENNEDY",
+    "address": "CARRERA 78D # 40-25 SUR",
+    "phone": "3204820428",
+    "schedule": "LUNES A VIERNES 7:00 A.M 1:00 P.M 2:00 P.M 4:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "SANITAS KENNEDY",
+    "address": "TRANSVERSAL 73D # 39A-62 SUR",
+    "phone": "5895478 EXT 5718747",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:30 A.M 4:30 P.M DOMINGO"
+  },
+  {
+    "name": "VIVA 1A ALQUERIA",
+    "address": "AVENIDA CARRERA 68 # 39-11 SUR",
+    "phone": "3134971228",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "CORVESALUD",
+    "address": "AVENIDA BOYACA # 36-57 S",
+    "phone": "3015236923",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "DARSALUD IPS",
+    "address": "CARRERA 78K # 33A-76 SUR",
+    "phone": "7452207",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:00 P.M 1:00 A.M 4:30 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "COLSUBSIDIO IPANEMA",
+    "address": "CALLE 26 S # 93D-12",
+    "phone": "4673525 EXT 1417",
+    "schedule": "LUNES A VIERNES 8:00 A.M 6:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "FUNDACION MIRA TU SALUD",
+    "address": "CALLE 24A SUR # 68H-66",
+    "phone": "4173131 EXT 111 310",
+    "schedule": "LUNES A VIERNES 7:00 A.M 3:30 P.M SABADO 7:00 A.M 11:30 A.M DOMINGO"
+  },
+  {
+    "name": "UNIDAD MEDICA STA FE AMERICAS",
+    "address": "AVENIDA AMERICAS # 50-69",
+    "phone": "7430506 EXT 117 107",
+    "schedule": "LUNES A VIERNES 7:00 A.M 6:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  },
+  {
+    "name": "COLSUBSIDIO 1 MAYO",
+    "address": "TRANSVERSAL 78H # 42C-10 SUR",
+    "phone": "3906827",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 4:00 P.M DOMINGO",
+    "complement": "2 PISO"
+  },
+  {
+    "name": "COLSUBSIDIO ROMA",
+    "address": "CALLE 53 SUR # 85-71",
+    "phone": "7431040 EXT 224",
+    "schedule": "LUNES A VIERNES 8:00 A.M 1:00 P.M SABADO 8:00 A.M 11:00 A.M DOMINGO",
+    "complement": "PISO 2"
+  },
+  {
+    "name": "CLINICA DE OCCIDENTE",
+    "address": "AVENIDA AMERICAS # 71C-29",
+    "phone": "4068707 EXT 212 221",
+    "schedule": "LUNES A VIERNES 7:00 A.M 5:00 P.M SABADO 9:00 A.M 12:00 P.M DOMINGO VACUNA LA JEFE DEL SERVICIO"
+  },
+  {
+    "name": "COMPENSAR KENNEDY",
+    "address": "TRANSVERSAL 78H # 41C-48 SUR",
+    "phone": "4285088 EXT 12152",
+    "schedule": "LUNES A VIERNES 7:00 A.M 7:00 P.M SABADO 7:00 A.M 5:00 P.M DOMINGO"
+  },
+  {
+    "name": "VIRREY SOLIS KENNEDY",
+    "address": "CARRERA 78F SUR # 41B-06",
+    "phone": "4038205 4519525",
+    "schedule": "LUNES A VIERNES 7:30 A.M 12:30 P.M 2:00 P.M 4:30 P.M SABADO 7:30 A.M 12:30 P.M DOMINGO"
+  },
+  {
+    "name": "CRUZ ROJA ALQUERIA",
+    "address": "CARRERA 68 # 31-41 S",
+    "phone": "NO TIENE",
+    "schedule": "LUNES A VIERNES 8:00 A.M 5:00 P.M SABADO 8:00 A.M 1:00 P.M DOMINGO"
+  },
+  {
+    "name": "CRUZ ROJA PLAZA DE LAS AMERICAS",
+    "address": "CENTRO COMERCIAL PLAZA DE LAS AMERICAS",
+    "phone": "NO TIENE",
+    "schedule": "LUNES A VIERNES 10:00 A.M 7:00 P.M SABADO 10:00 A.M 3:00 P.M DOMINGO UN DOMINGO AL MES DE 10:00 7:00P.M",
+    "complement": "LOCAL 1512"
+  },
+  {
+    "name": "VIRREY SOLIS BOSA",
+    "address": "CARRERA 86 # 43-04 SUR",
+    "phone": "7338519",
+    "schedule": "LUNES A VIERNES 7:30 A.M 4:30 P.M SABADO 7:30 A.M 12:30 P.M DOMINGO",
+    "complement": "LOCAL 35"
+  },
+  {
+    "name": "VIVA 1 A VENECIA",
+    "address": "CALLE 44 BIS A # 68B-24",
+    "phone": "3008427993",
+    "schedule": "LUNES A VIERNES 7:00 A.M 4:00 P.M SABADO 7:00 A.M 12:00 P.M DOMINGO"
+  }
+]

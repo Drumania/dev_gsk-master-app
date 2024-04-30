@@ -1,0 +1,14 @@
+[
+  {
+    "name": "POLICALLEINICO DEL CAFÉ",
+    "address": "CARRERA 6 # 15-29",
+    "phone": "7538161 - 3216439148",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M - SABADO 7:00 A.M - 12:00 P.M"
+  },
+  {
+    "name": "HOSPITAL ROBERTO QUINTERO VILLA",
+    "address": "KILOMETRO 1 VIA ARMENIA",
+    "phone": "7536666",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 1:00 P.M - 5:00 P.M"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "E.S.E.HOSPITAL LOCAL VILLA DEL ROSARIO",
+    "address": "CALLE 5 # 7-49 CENTRO",
+    "phone": "5829960",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LOMITAS",
+    "address": "CARRERA 6 # 8-71 LOMITAS",
+    "phone": "5785571",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "CENTRO DE SALUD LA PARADA",
+    "address": "CALLE 3 # 7-18 ALFONSO LOPEZ",
+    "phone": "5700439",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SANTA BARBARA",
+    "address": "CARRERA 8 # 26-60 SANTA BARBARA",
+    "phone": "5709876",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  },
+  {
+    "name": "E.S.E.HOSPITAL LOCAL VILLA DEL ROSARIO",
+    "address": "CL 5 N° 7-49 CENTRO",
+    "phone": "5829960",
+    "schedule": "7 A12 DEL MEDIO DIA, 2 A 6PM LUNESE A VIERNES. 7 A 11 AM SÁBADOS"
+  },
+  {
+    "name": "CENTRO DE SALUD LOMITAS",
+    "address": "CR 6 N° 8-71 LOMITAS",
+    "phone": "5785571",
+    "schedule": "7 A11 DEL MEDIO DIA, 2 A 6PM LUNESE A VIERNES. 7 A 11 AM SÁBADOS"
+  },
+  {
+    "name": "CENTRO DE SALUD LA PARADA",
+    "address": "CL 3 N° 7-18 ALFONSO LOPEZ",
+    "phone": "5700439",
+    "schedule": "7 A11 DEL MEDIO DIA, 2 A 6PM LUNESE A VIERNES. 7 A 11 AM SÁBADOS"
+  },
+  {
+    "name": "PUESTO DE SALUD SANTA BARBARA",
+    "address": "CARRERA 8 # 26-60 SANTA BARBARA",
+    "phone": "5709876",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  SABADO 7:00 A.M  11:00 A.M"
+  }
+]

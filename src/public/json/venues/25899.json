@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AYG SERVICIOS DE SALUD",
+    "address": "CARRERAA 10 # 1-77 CENTRO",
+    "phone": "8515950 8521530",
+    "schedule": "LUNES A VIERNES 7:00 A.M 8:00 P.M SABADO 7:00 A.M 1:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAMARITANA DE ZIPAQUIRA",
+    "address": "CALLE 10 # 7-52",
+    "phone": "8522600",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "ZIPAQUIRA COMPENSAR",
+    "address": "AVENIDA 15 # 6-77",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  },
+  {
+    "name": "ZIPAQUIRA NUESTRA IPS",
+    "address": "CARRERA 14 CALLE 20-21",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 8:00 A.M 12:00 P.M 2:00 P.M 5:00 P.M"
+  }
+]

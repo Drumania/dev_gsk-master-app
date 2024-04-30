@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ESE HOSPITAL SAN FRANCISCO JAVIER",
+    "address": "CRA 3 CON CLL 9 ESQUINA",
+    "phone": "3184583857",
+    "schedule": "MARTES A VIERNES 7:00 A.M - 12:30 P.M - 2:00 P.M - 6:00 P.M - SABADO 7:00 A.M - 1:00 PM"
+  },
+  {
+    "name": "HOSPITAL SAN FRANCISCO JAVIER",
+    "address": "SAN ADOLFO- SAN ADOLFO",
+    "phone": "3118040033 - 3118040033",
+    "schedule": "MARTES A VIERNES 7:00 A.M - 12:30 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]

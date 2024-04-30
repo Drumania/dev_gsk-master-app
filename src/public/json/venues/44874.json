@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HOSPITAL SANTA CRUZ.",
+    "address": "CARRERA 9 # 9A -09",
+    "phone": "7778098 - 3173838334",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "ESE HOSPITAL SAN AGUSTIN",
+    "address": "CALLE 15 # 21-31",
+    "phone": "3116729203",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 5:00 P.M"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "IPS MEDIGROUP",
+    "address": "CALLE 12 # 11-58",
+    "phone": "7270680 - 3167541465",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 12:00 P.M - 2:00 P.M - 4:30 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN RAFAEL DE SAN JUAN",
+    "address": "CALLE 9 # 4A-84",
+    "phone": "3217745226",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "IPS DUSAKAWI",
+    "address": "CALLE 4 SUR # 4-53",
+    "phone": "3165604020",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "IPS COOMEVA",
+    "address": "CALLE 7 # 2-82",
+    "phone": "3005584236",
+    "schedule": "LUNES A VIERNES 7:00 A.M - 1:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "CALLEÍNICA SOMEDA",
+    "address": "CALLE 7 # 2-82",
+    "phone": "3219731001",
+    "schedule": "RECIÉN NACIDO"
+  }
+]

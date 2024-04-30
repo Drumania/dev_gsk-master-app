@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PUESTO DE SALUD PUERTO BOGOTA",
+    "address": "CALLE 5 CON CARRERA 1",
+    "phone": "3205387010",
+    "schedule": "LUNES A SABADO 5:00 A.M 5:00 P.M"
+  },
+  {
+    "name": "HOSPITAL SAN JOSE DE GUADUAS",
+    "address": "CALLE 4 # 12-41",
+    "phone": "3144722756",
+    "schedule": "LUNES A SABADO 5:00 A.M 5:00 P.M"
+  }
+]

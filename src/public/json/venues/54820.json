@@ -1,0 +1,50 @@
+[
+  {
+    "name": "I.P.S. TOLEDO",
+    "address": "IPS HOSPITAL PEDRO ANTONIO VILLAMIZAR",
+    "phone": "3118371830",
+    "schedule": "LUNES A VIERNES 7:00 A.M  2:00 P.M"
+  },
+  {
+    "name": "PUESTO DE SALUD SAN BERNARDO",
+    "address": "CENTRO POBLADO CALLE PRINCIPAL",
+    "phone": "3118917989",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD SAMORE",
+    "address": "CENTRO POBLADO AL LADO DE LA IGLESIA",
+    "phone": "3138032787",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "CENTRO DE SALUD GIBRALTAR",
+    "address": "CENTRO POBLADO CALLE PRINCIPAL",
+    "phone": "3138032787",
+    "schedule": "LUNES A VIERNES 7:00 A.M  12:00 P.M  2:00 P.M  5:00 P.M  FIN DE SEMANA 7:00 A.M  12:00 P.M"
+  },
+  {
+    "name": "I.P.S. TOLEDO",
+    "address": "IPS Hospital Pedro Antonio Villamizar",
+    "phone": "3118371830",
+    "schedule": "7:00 A.M.  2:00 P.M."
+  },
+  {
+    "name": "PUESTO DE SALUD SAN BERNARDO",
+    "address": "Centro Poblado Calle Principal",
+    "phone": "3118917989",
+    "schedule": "7:00 A.M.  12:00 P.M.  2:00 P.M.  5:00 P.M. Lunes a Viernes y Sábado de 7:00 A.M.  12:00 AM"
+  },
+  {
+    "name": "CENTRO DE SALUD SAMORE",
+    "address": "Centro Poblado al lado de la Iglesia",
+    "phone": "3138032787",
+    "schedule": "7:00 A.M.  12:00 P.M.  2:00 P.M.  5:00 P.M. Lunes a Viernes y Sábado de 7:00 A.M.  12:00 AM"
+  },
+  {
+    "name": "CENTRO DE SALUD GIBRALTAR",
+    "address": "Centro Poblado Calle Principal",
+    "phone": "3138032787",
+    "schedule": "7:00 A.M.  12:00 P.M.  2:00 P.M.  5:00 P.M. Lunes a Viernes y Sábado de 7:00 A.M.  12:00 AM"
+  }
+]

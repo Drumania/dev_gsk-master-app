@@ -1,0 +1,62 @@
+[
+  {
+    "name": "E.S.E. HOSPITAL SAN ANDRES DE TUMACO",
+    "address": "CALLE ANZOATEGUI",
+    "phone": "7272930-7272456",
+    "schedule": "URGENCIAS"
+  },
+  {
+    "name": "IPS PUENTE EL MEDIO",
+    "address": "UNION VICTORIA",
+    "phone": "7271556-7271556",
+    "schedule": "LUNES A VIERNES 8:00 A.M  12:00 P.M  2:00 P.M  6:00 P.M  DOMINGO 7:00 A.M  1:00 P.M"
+  },
+  {
+    "name": "CHDNPS CIUDADELA",
+    "address": "NUEVO HORINZOTE CIUDADELA",
+    "phone": "3164821917-3185572951",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CHDNPS VIENTO LIBRE",
+    "address": "LA PAZ",
+    "phone": "3164053890-3127748767",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CHDNPSCOORDIALIDAD",
+    "address": "LA COORDIALID",
+    "phone": "3205622430",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CHDNPSLAS PALMAS",
+    "address": "LAS PALMAS AL LADO DEL CEMENTERIO",
+    "phone": "3155077059-3177785279",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CHDNPS NODAL CHILVI",
+    "address": "VEREDA CHILVI",
+    "phone": "3128285472-3183825701",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CHDNPS NODAL ESPRIELLA",
+    "address": "VEREDA ESPRIELLA",
+    "phone": "",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "CHDNPS NODAL LLORENTE",
+    "address": "VEREDA LLORENTE",
+    "phone": "3184937377",
+    "schedule": "LUNES A VIERNES 7:00 A.M  5:00 P.M"
+  },
+  {
+    "name": "COORPORACION MI IPS",
+    "address": "AVENIDA LOS ESTUDIANTES MADENAR CASA NUMERO 12",
+    "phone": "3164976861-3174798272",
+    "schedule": "LUNES A VIERNES 6:20 A.M  7:40 P.M  SABADO 7:00 A.M  12:00 P.M"
+  }
+]

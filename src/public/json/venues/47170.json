@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ESE HOSPITAL DE CHIBOLO",
+    "address": "CALLE 5 # 19-20",
+    "phone": "3104455906",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "Puesto de salud la estrella",
+    "address": "CORREMIENTO LA ESTRELLA",
+    "phone": "3104455906",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "Puesto de salud la china",
+    "address": "CORREMIENTO LA CINA",
+    "phone": "3104455906",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "Puesto de salud la pola",
+    "address": "CORREMIENTO LA POLA",
+    "phone": "3104455906",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  },
+  {
+    "name": "Puesto plaza publica",
+    "address": "CHIBOLO",
+    "phone": "3104455906",
+    "schedule": "LUNES A VIERNES 8:00 A.M - 12:00 P.M - 2:00 P.M - 6:00 P.M"
+  }
+]
